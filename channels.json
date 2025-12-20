@@ -1,5 +1,35 @@
 {
-  "app": "Mi TV Online",
+  "app": "TV Online",
   "version": 1,
-  "categories": []
+  "updated": "2025-01-01",
+  "categories": [
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "channels": [
+        {
+          "id": "tn",
+          "name": "TN",
+          "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TN.png",
+          "embed": "https://dots.bestleague.world/cvatt.html?get=VG9kb05vdGljaWFz",
+          "active": true
+        },
+        {
+          "id": "eltrece",
+          "name": "El Trece",
+          "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Trece.png",
+          "embed": "https://dots.bestleague.world/cvatt.html?get=QXJ0ZWFySEQ",
+          "active": true
+        },
+        {
+          "id": "cronica",
+          "name": "Crónica",
+          "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cronica.png",
+          "embed": "https://dots.bestleague.world/cvatt.html?get=Q3JvbmljYVRW",
+          "active": true
+        }
+      ]
+    }
+  ]
 }
+
