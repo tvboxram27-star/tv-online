@@ -30,9 +30,25 @@
         },
         {
           "id": "canalnueve",
-          "name": "Canal Nueve",
+          "name": "El Nueve",
           "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Nueve.png",
           "embed": "https://tvlibree.com/html/fl/?get=Q2FuYWw5&lang=1",
+          "active": true
+        },
+        {
+          "id": "telefe",
+          "name": "Telefe",
+          "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telefe.png",
+          "embed": "https://tvlibree.com/en-vivo/telefe/hl.html",
+          "embeds": [
+            "https://tvlibree.com/html/fl/?get=Q2FuYWxfOF9DQkE",
+            "https://tvlibree.com/html/fl/?get=Q2FuYWxfOF9UdWN1bWFu",
+            "https://tvlibree.com/html/fl/?get=Q2FuYWxfNV9Sb3Nhcmlv",
+            "https://tvlibree.com/en-vivo/telefe/hl.html",
+            "https://tvlibree.com/html/fl/?get=VGVsZWZlX1NhbHRh",
+            "https://tvlibree.com/html/fl/?get=VGVsZWZlX05ldXF1ZW4=",
+            "https://tvlibree.com/html/fl/?get=VGVsZWZlSEQ="
+          ],
           "active": true
         }
       ]
