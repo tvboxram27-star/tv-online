@@ -140,6 +140,24 @@
       "name": "Deportes",
       "channels": [
         {
+          "id": "espn1",
+          "name": "ESPN 1",
+          "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
+          "embed": "https://tvlibree.com/html/fl/?get=RVNQTjJIRA",
+          "embeds": [
+            "https://tvlibree.com/html/fl/?get=RVNQTjJIRA",
+            "https://welivesports.shop/embed/espn1arg.php",
+            "https://teledeportes.top/ch.php?id=espn1co",
+            "https://streamtpcloud.com/global1.php?stream=espn",
+            "https://la14hd.com/vivo/canales.php?stream=espn",
+            "https://welivesports.shop/embed/espn1col.php",
+            "https://elcanaldeportivo.com/espnhd.php",
+            "https://elcanaldeportivo.com/espn-sharecast.php",
+            "https://rereyano.ru/player/3/87"
+          ],
+          "active": true
+        },
+        {
           "id": "espnpremium",
           "name": "ESPN Premium",
           "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Premium.png",
@@ -211,30 +229,6 @@
             "https://rereyano.ru/player/4/96",
             "https://la14hd.com/vivo/canales.php?stream=dsports2",
             "https://elcanaldeportivo.com/dsports2.php"
-          ],
-          "active": true
-        }
-      ]
-    },
-    {
-      "id": "espn",
-      "name": "ESPN",
-      "channels": [
-        {
-          "id": "espn1",
-          "name": "ESPN 1",
-          "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
-          "embed": "https://tvlibree.com/html/fl/?get=RVNQTjJIRA",
-          "embeds": [
-            "https://tvlibree.com/html/fl/?get=RVNQTjJIRA",
-            "https://welivesports.shop/embed/espn1arg.php",
-            "https://teledeportes.top/ch.php?id=espn1co",
-            "https://streamtpcloud.com/global1.php?stream=espn",
-            "https://la14hd.com/vivo/canales.php?stream=espn",
-            "https://welivesports.shop/embed/espn1col.php",
-            "https://elcanaldeportivo.com/espnhd.php",
-            "https://elcanaldeportivo.com/espn-sharecast.php",
-            "https://rereyano.ru/player/3/87"
           ],
           "active": true
         }
