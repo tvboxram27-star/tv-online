@@ -27,6 +27,15 @@
           "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cronica.png",
           "embed": "https://dots.bestleague.world/cvatt.html?get=Q3JvbmljYVRW",
           "active": true
+           },
+        {
+          "id": "canalnueve",
+          "name": "Canal Nueve",
+          "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Nueve.png",
+          "embed": "https://tvlibree.com/html/fl/?get=Q2FuYWw5&lang=1",
+          "active": true
+        },
+        {
         }
       ]
     }
