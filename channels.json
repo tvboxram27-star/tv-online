@@ -1,29 +1,35 @@
 {
+  "version": 2,
   "categories": [
     { "id": "argentina", "title": "Argentina" },
     { "id": "deportes", "title": "Deportes" },
     { "id": "deportes_internacional", "title": "Deportes Internacional" },
     { "id": "peliculas_y_series", "title": "Peliculas Y Series" },
-    { "id": "pack_premium", "title": "Pack Premium" }
+    { "id": "pack_premium", "title": "Pack Premium" },
+    { "id": "infantil", "title": "Infantil" }
   ],
   "channels": [
     {
-      "id": "el_trece",
+      "id": "ar_el_trece",
       "categoryId": "argentina",
       "name": "El trece",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Trece.png",
+      "embedUrl": "https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8",
       "embeds": [
         "https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8",
         "https://telefullhd.net/canales/el-trece/",
         "https://tvlibree.com/html/fl/?get=QXJ0ZWFySEQ",
-        "https://dots.bestleague.world/cvatt.html?get=QXJ0ZWFySEQ"
+        "https://dots.bestleague.world/cvatt.html?get=QXJ0ZWFySEQ",
+        "https://tele-libre.store/en-vivo/el-trece/embed.php",
+        "https://tele-libre.store/en-vivo/el-trece/embed2.php"
       ]
     },
     {
-      "id": "telefe",
+      "id": "ar_telefe",
       "categoryId": "argentina",
       "name": "Telefe",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telefe.png",
+      "embedUrl": "https://telefullhd.net/canales/telefe/",
       "embeds": [
         "https://telefullhd.net/canales/telefe/",
         "https://tvlibree.com/html/fl/?get=Q2FuYWxfOF9DQkE",
@@ -37,142 +43,180 @@
         "https://telefullhd.net/canales/telefe/op5.php",
         "https://telefullhd.net/canales/telefe/op6.php",
         "https://telefullhd.net/canales/telefe/op7.php",
-        "https://embed.ksdjugfsddeports.com/embed2/telefe.html"
+        "https://tele-libre.store/en-vivo/telefe/embed.php",
+        "https://tele-libre.store/en-vivo/telefe/embed22.php",
+        "https://tele-libre.store/en-vivo/telefe/embed3.php",
+        "https://tele-libre.store/en-vivo/telefe/embed4.php",
+        "https://tele-libre.store/en-vivo/telefe/embed5.php",
+        "https://tele-libre.store/en-vivo/telefe/embed6.php",
+        "https://tele-libre.store/en-vivo/telefe/embed7.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/telefe.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
+        "https://gollibre.com/html/cvatt.html?get=VGVsZWZlSEQ="
       ]
     },
     {
-      "id": "tn",
+      "id": "ar_tn",
       "categoryId": "argentina",
       "name": "TN",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TN.png",
+      "embedUrl": "https://telefullhd.net/canales/tn/",
       "embeds": [
         "https://telefullhd.net/canales/tn/",
         "https://telefullhd.net/canales/tn/op2.php",
         "https://tvlibree.com/html/fl/?get=VG9kb05vdGljaWFz",
-        "https://dots.bestleague.world/cvatt.html?get=VG9kb05vdGljaWFz"
+        "https://dots.bestleague.world/cvatt.html?get=VG9kb05vdGljaWFz",
+        "https://tele-libre.store/en-vivo/tn/embed.php",
+        "https://tele-libre.store/en-vivo/tn/embed2.php",
+        { "html": "<iframe class=\"lazyload\" src=\"https://www.youtube.com/embed/live_stream?channel=UCj6PcyLvpnIRT_2W_mwa9Aw&autoplay=1\" height=\"415\" width=\"100%\" allow=\"autoplay; fullscreen\"> </iframe>" }
       ]
     },
     {
-      "id": "la_nacion",
+      "id": "ar_la_nacion",
       "categoryId": "argentina",
       "name": "La Nacion",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/La%20Nacion.png",
+      "embedUrl": "https://dots.bestleague.world/cvatt.html?get=TGFfTmFjaW9u",
       "embeds": [
         "https://dots.bestleague.world/cvatt.html?get=TGFfTmFjaW9u",
-        "https://tvlibree.com/html/fl/?get=TGFfTmFjaW9u"
+        "https://tvlibree.com/html/fl/?get=TGFfTmFjaW9u",
+        "https://tele-libre.store/en-vivo/la-nacion/embed.php"
       ]
     },
     {
-      "id": "el_nueve",
+      "id": "ar_el_nueve",
       "categoryId": "argentina",
       "name": "El Nueve",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Nueve.png",
+      "embedUrl": "https://telefullhd.net/canales/canal9/",
       "embeds": [
         "https://telefullhd.net/canales/canal9/",
         "https://telefullhd.net/canales/canal9/op2.php",
         "https://tvlibree.com/html/fl/?get=Q2FuYWw5&lang=1",
         "https://player.twitch.tv/?channel=elnueveenvivo&parent=tvlibree.com",
-        "https://dots.bestleague.world/cvatt.html?get=Q2FuYWw5"
+        "https://dots.bestleague.world/cvatt.html?get=Q2FuYWw5",
+        "https://tele-libre.store/en-vivo/el-nueve/embed.php",
+        "https://tele-libre.store/en-vivo/el-nueve/embed2.php"
       ]
     },
     {
-      "id": "tv_publica",
+      "id": "ar_tv_publica",
       "categoryId": "argentina",
       "name": "Tv Publica",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Tv%20Publica.png",
+      "embedUrl": "https://telefullhd.net/canales/tv-publica/",
       "embeds": [
         "https://telefullhd.net/canales/tv-publica/",
         "https://dots.bestleague.world/cvatt.html?get=Q2FuYWw3",
         "https://tvlibree.com/html/fl/?get=Q2FuYWw3",
+        "https://gollibre.com/en-vivo-online/tv-publica/embed.php",
         "https://tele-libre.store/en-vivo/tv-publica/embed.php",
         "https://tele-libre.store/en-vivo/tv-publica/embed3.php"
       ]
     },
     {
-      "id": "america_tv",
+      "id": "ar_america_tv",
       "categoryId": "argentina",
       "name": "America Tv",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/America.png",
+      "embedUrl": "https://telefullhd.net/canales/americatv/",
       "embeds": [
         "https://telefullhd.net/canales/americatv/",
         "https://telefullhd.net/canales/americatv/op2.php",
         "https://tvlibree.com/html/fl/?get=QW1lcmljYVRW",
-        "https://dots.bestleague.world/cvatt.html?get=QW1lcmljYVRW"
+        "https://dots.bestleague.world/cvatt.html?get=QW1lcmljYVRW",
+        "https://tele-libre.store/en-vivo/america-tv/embed.php",
+        "https://tele-libre.store/en-vivo/america-tv/embed2.php"
       ]
     },
     {
-      "id": "cronica_tv",
+      "id": "ar_cronica_tv",
       "categoryId": "argentina",
       "name": "Cronica Tv",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cronica.png",
+      "embedUrl": "https://telefullhd.net/canales/cronicatv/",
       "embeds": [
         "https://telefullhd.net/canales/cronicatv/",
         "https://telefullhd.net/canales/cronicatv/op2.php",
         "https://dots.bestleague.world/cvatt.html?get=Q3JvbmljYVRW",
-        "https://tvlibree.com/html/fl/?get=Q3JvbmljYVRW"
+        "https://tvlibree.com/html/fl/?get=Q3JvbmljYVRW",
+        "https://tele-libre.store/en-vivo/cronicatv/embed.php",
+        "https://tele-libre.store/en-vivo/cronicatv/embed2.php"
       ]
     },
     {
-      "id": "c5n",
+      "id": "ar_c5n",
       "categoryId": "argentina",
       "name": "C5N",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/C5N.png",
+      "embedUrl": "https://telefullhd.net/canales/c5n/",
       "embeds": [
         "https://telefullhd.net/canales/c5n/",
         "https://telefullhd.net/canales/c5n/op2.php",
-        "https://tvlibree.com/html/fl/?get=QzVO"
+        "https://tvlibree.com/html/fl/?get=QzVO",
+        "https://tele-libre.store/en-vivo/c5n/embed.php",
+        "https://tele-libre.store/en-vivo/c5n/embed2.php"
       ]
     },
     {
-      "id": "a24",
+      "id": "ar_a24",
       "categoryId": "argentina",
       "name": "A24",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A24.png",
+      "embedUrl": "https://telefullhd.net/canales/a24/",
       "embeds": [
         "https://telefullhd.net/canales/a24/",
         "https://telefullhd.net/canales/a24/op2.php",
         "https://tvlibree.com/html/fl/?get=QW1lcmljYTI0",
-        "https://dots.bestleague.world/cvatt.html?get=QW1lcmljYTI0"
+        "https://dots.bestleague.world/cvatt.html?get=QW1lcmljYTI0",
+        "https://tele-libre.store/en-vivo/a24/embed.php",
+        "https://tele-libre.store/en-vivo/a24/embed2.php"
       ]
     },
     {
-      "id": "canal_26",
+      "id": "ar_canal_26",
       "categoryId": "argentina",
       "name": "Canal 26",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Canal%2026.png",
+      "embedUrl": "https://telefullhd.net/canales/canal26/",
       "embeds": [
         "https://telefullhd.net/canales/canal26/",
         "https://telefullhd.net/canales/canal26/op2.php",
         "https://dots.bestleague.world/cvatt.html?get=MjZfVFZfSEQ",
-        "https://tvlibree.com/html/fl/?get=MjZfVFZfSEQ"
+        "https://tvlibree.com/html/fl/?get=MjZfVFZfSEQ",
+        "https://tele-libre.store/en-vivo/canal-26/embed.php",
+        "https://tele-libre.store/en-vivo/canal-26/embed2.php"
       ]
     },
     {
-      "id": "telemax",
+      "id": "ar_telemax",
       "categoryId": "argentina",
       "name": "Telemax",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telemax.png",
+      "embedUrl": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8",
       "embeds": [
         "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8",
         "https://dots.bestleague.world/cvatt.html?get=VGVsZW1heA"
       ]
     },
     {
-      "id": "net_tv",
+      "id": "ar_net_tv",
       "categoryId": "argentina",
       "name": "Net TV",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Net%20Tv.png",
+      "embedUrl": "https://bestleague.world/canal/?id=NETTV",
       "embeds": [
         "https://bestleague.world/canal/?id=NETTV",
         "https://tvlibree.com/html/fl/?get=TmV0X1RW",
-        "https://dots.bestleague.world/cvatt.html?get=TmV0X1RW"
+        "https://dots.bestleague.world/cvatt.html?get=TmV0X1RW",
+        "https://tele-libre.store/en-vivo/net-tv/embed.php"
       ]
     },
     {
-      "id": "volver",
+      "id": "ar_volver",
       "categoryId": "argentina",
       "name": "Volver",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Volver.png",
+      "embedUrl": "https://telefullhd.net/canales/volver/",
       "embeds": [
         "https://telefullhd.net/canales/volver/",
         "https://telefullhd.net/canales/volver/op2.php",
@@ -181,10 +225,11 @@
       ]
     },
     {
-      "id": "ciudad_magazine",
+      "id": "ar_ciudad_magazine",
       "categoryId": "argentina",
       "name": "Ciudad Magazine",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Ciudad%20Magazine.png",
+      "embedUrl": "https://tele-libre.store/en-vivo/ciudad-magazine/embed.php",
       "embeds": [
         "https://tele-libre.store/en-vivo/ciudad-magazine/embed.php",
         "https://telefullhd.net/canales/ciudad-magazine/op2.php",
@@ -193,24 +238,38 @@
       ]
     },
     {
-      "id": "encuentro",
+      "id": "ar_encuentro",
       "categoryId": "argentina",
       "name": "Encuentro",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Encuentro.png",
+      "embedUrl": "https://tele-libre.store/en-vivo/encuentro/embed.php",
       "embeds": [
         "https://tele-libre.store/en-vivo/encuentro/embed.php",
         "https://tvlibree.com/html/fl/?get=RW5jdWVudHJv"
       ]
     },
+    {
+      "id": "ar_cinear",
+      "categoryId": "argentina",
+      "name": "Cinear",
+      "embedUrl": "https://telefullhd.net/canales/cine-ar/",
+      "embeds": [
+        "https://telefullhd.net/canales/cine-ar/",
+        "https://telefullhd.net/canales/cine-ar/op2.php",
+        "https://tele-libre.store/en-vivo/cinear/embed.php",
+        "https://tele-libre.store/en-vivo/cinear/embed2.php"
+      ]
+    },
 
     {
-      "id": "espn_premium",
+      "id": "dep_espn_premium",
       "categoryId": "deportes",
       "name": "ESPN Premium",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Premium.png",
+      "embedUrl": "https://telefullhd.net/canales/espn-premium/",
       "embeds": [
         "https://telefullhd.net/canales/espn-premium/",
-        "https://embed.ksdjugfsddeports.com/embed2/espnpremium.html",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/espnpremium.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
         "https://tvlibree.com/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
         "https://ontve.click/player/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
         "https://rereyano.ru/player/4/76",
@@ -219,18 +278,22 @@
         "https://welivesports.shop/embed/espnpremarg.php",
         "https://rereyano.ru/player/3/76",
         "https://elcanaldeportivo.com/espnpremium.php",
-        "https://tvlibree.com/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1"
+        "https://tvlibree.com/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1",
+        "https://gollibre.com/en-vivo-online/espn-premium/embed.php",
+        "https://gollibre.com/en-vivo-online/espn-premium/embed2.php",
+        "https://gollibre.com/en-vivo-online/espn-premium/embed4.php"
       ]
     },
     {
-      "id": "tnt_sports",
+      "id": "dep_tnt_sports",
       "categoryId": "deportes",
       "name": "TNT Sports",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Sports.png",
+      "embedUrl": "https://telefullhd.net/canales/tnt-sports/",
       "embeds": [
         "https://telefullhd.net/canales/tnt-sports/",
         "https://telefullhd.net/canales/tnt-sports/op3.php",
-        "https://embed.ksdjugfsddeports.com/embed2/tntsports.html",
+        "https://gollibre.com/en-vivo-online/tnt-sports/embed.php",
         "https://dots.bestleague.world/cvatt.html?get=VE5UX1Nwb3J0c19IRA",
         "https://tvlibree.com/html/fl/?get=VE5UX1Nwb3J0c19IRA",
         "https://la14hd.com/vivo/canal.php?stream=tntsports",
@@ -239,32 +302,38 @@
         "https://elcanaldeportivo.com/tntsports.php",
         "https://rereyano.ru/player/3/75",
         "https://telefullhd.net/canales/tnt-sports/op4.php",
-        "https://dots.bestleague.world/cvatt.html?get=VE5UX1Nwb3J0c19IRA"
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/tntsports.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
+        "https://gollibre.com/en-vivo-online/tnt-sports/embed2.php",
+        "https://gollibre.com/en-vivo-online/tnt-sports/embed4.php"
       ]
     },
     {
-      "id": "tyc_sports",
+      "id": "dep_tyc_sports",
       "categoryId": "deportes",
       "name": "TyC Sports",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TyC%20sports.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TyC%20sports%202.png",
+      "embedUrl": "https://telefullhd.net/canales/tyc/",
       "embeds": [
         "https://telefullhd.net/canales/tyc/",
-        "https://embed.ksdjugfsddeports.com/embed2/tycsports.html",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/tycsports.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
         "https://dots.bestleague.world/cvatt.html?get=VHlDU3BvcnQ",
         "https://rereyano.ru/player/3/77",
         "https://la14hd.com/vivo/canales.php?stream=tycsports",
         "https://streamtpcloud.com/global1.php?stream=tycsports",
         "https://welivesports.shop/embed/tycsportarg.php",
-        "https://telefullhd.net/canales/tyc/op2.php"
+        "https://telefullhd.net/canales/tyc/op2.php",
+        "https://gollibre.com/en-vivo-online/tyc-sports/embed.php",
+        "https://gollibre.com/en-vivo-online/tyc-sports/embed2.php",
+        "https://gollibre.com/en-vivo-online/tyc-sports/embed3.php"
       ]
     },
     {
-      "id": "dsports",
+      "id": "dep_dsports",
       "categoryId": "deportes",
       "name": "DSports",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DSports.png",
+      "embedUrl": "https://rereyano.ru/player/4/94",
       "embeds": [
-        "https://embed.ksdjugfsddeports.com/embed2/directvsports.html",
         "https://rereyano.ru/player/4/94",
         "https://streamtpcloud.com/global1.php?stream=dsports",
         "https://welivesports.shop/embed/directvarg.php",
@@ -273,40 +342,45 @@
         "https://gollibre.com/en-vivo-online/dsports/embed.php",
         "https://gollibre.com/en-vivo-online/dsports/embed2.php",
         "https://gollibre.com/en-vivo-online/dsports/embed3.php",
-        "https://www.ontve.click/player/vdo/?id=DSPORTS1"
+        { "html": "<iframe src=\"https://www.ontve.click/player/vdo/?id=DSPORTS1\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" },
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/directvsports.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "dsports_2",
+      "id": "dep_dsports_2",
       "categoryId": "deportes",
       "name": "DSports 2",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DSports%202.png",
+      "embedUrl": "https://embed.ksdjugfsddeports.com/embed2/directvsports2.html",
       "embeds": [
-        "https://embed.ksdjugfsddeports.com/embed2/directvsports2.html",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/directvsports2.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
         "https://rereyano.ru/player/4/96",
         "https://la14hd.com/vivo/canales.php?stream=dsports2",
-        "https://elcanaldeportivo.com/dsports2.php"
+        "https://elcanaldeportivo.com/dsports2.php",
+        "https://gollibre.com/en-vivo-online/dsports-2/embed.php"
       ]
     },
     {
-      "id": "dsports_plus",
+      "id": "dep_dsports_plus",
       "categoryId": "deportes",
       "name": "DSports Plus",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DSports%20Plus.png",
+      "embedUrl": "https://rereyano.ru/player/3/94",
       "embeds": [
-        "https://embed.ksdjugfsddeports.com/embed2/directvsportsplus.html",
-        "https://rereyano.ru/player/3/94"
+        "https://rereyano.ru/player/3/94",
+        "https://gollibre.com/en-vivo-online/dsports-plus/embed.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/directvsportsplus.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "espn_1",
+      "id": "dep_espn_1",
       "categoryId": "deportes",
       "name": "ESPN 1",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
+      "embedUrl": "https://telefullhd.net/canales/espn/",
       "embeds": [
         "https://telefullhd.net/canales/espn/",
         "https://ontve.click/player/fl/?get=RVNQTjJIRA",
-        "https://embed.ksdjugfsddeports.com/embed2/espn.html",
         "https://teledeportes.top/ch.php?id=espn1co",
         "https://streamtpcloud.com/global1.php?stream=espn",
         "https://la14hd.com/vivo/canales.php?stream=espn",
@@ -316,193 +390,242 @@
         "https://rereyano.ru/player/3/87",
         "https://welivesports.shop/embed/espn1arg.php",
         "https://tvlibree.com/html/fl/?get=RVNQTjJIRA",
-        "https://www.ontve.click/player/vdo/?id=ESPN_AR"
+        { "html": "<iframe src=\"https://www.ontve.click/player/vdo/?id=ESPN_AR\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" },
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/espn.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
+        "https://gollibre.com/en-vivo-online/espn/embed2.php",
+        "https://gollibre.com/en-vivo-online/espn/embed4.php",
+        "https://gollibre.com/en-vivo-online/espn/embed5.php"
       ]
     },
     {
-      "id": "espn_2",
+      "id": "dep_espn_2",
       "categoryId": "deportes",
       "name": "ESPN 2",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%202.png",
+      "embedUrl": "https://embed.ksdjugfsddeports.com/embed2/espn2.html",
       "embeds": [
-        "https://embed.ksdjugfsddeports.com/embed2/espn2.html",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/espn2.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
         "https://tvlibree.com/html/fl/?get=RVNQTjJfQXJn",
         "https://welivesports.shop/embed/espn2arg.php",
         "https://welivesports.shop/embed/espn2col.php",
         "https://elcanaldeportivo.com/espn2hd.php",
         "https://rereyano.ru/player/3/88",
-        "https://www.ontve.click/player/vdo/?id=ESPN2_AR",
-        "https://www.ontve.click/player/fl/?get=RVNQTjJfQXJn"
+        "https://gollibre.com/en-vivo-online/espn-2/embed.php",
+        "https://gollibre.com/en-vivo-online/espn-2/embed2.php",
+        "https://gollibre.com/en-vivo-online/espn-2/embed3.php",
+        "https://gollibre.com/en-vivo-online/espn-2/embed4.php",
+        "https://gollibre.com/en-vivo-online/espn-2/embed5.php",
+        { "html": "<iframe src=\"https://www.ontve.click/player/vdo/?id=ESPN2_AR\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" },
+        { "html": "<iframe src=\"https://www.ontve.click/player/fl/?get=RVNQTjJfQXJn\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" }
       ]
     },
     {
-      "id": "espn_3",
+      "id": "dep_espn_3",
       "categoryId": "deportes",
       "name": "ESPN 3",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%203.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=RVNQTjM",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=RVNQTjM",
-        "https://embed.ksdjugfsddeports.com/embed2/espn3.html",
+        "https://gollibre.com/en-vivo-online/espn-3/embed.php",
         "https://dots.bestleague.world/cvatt.html?get=RVNQTjM&lang=1",
         "https://elcanaldeportivo.com/espn3hd.php",
         "https://rereyano.ru/player/3/89",
-        "https://www.ontve.click/player/vdo/?id=ESPN3_AR",
-        "https://www.ontve.click/player/fl/?get=RVNQTjM"
+        "https://gollibre.com/en-vivo-online/espn-3/embed2.php",
+        "https://gollibre.com/en-vivo-online/espn-3/embed3.php",
+        { "html": "<iframe src=\"https://www.ontve.click/player/vdo/?id=ESPN3_AR\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" },
+        { "html": "<iframe src=\"https://www.ontve.click/player/fl/?get=RVNQTjM\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" },
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/espn3.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "espn_4",
+      "id": "dep_espn_4",
       "categoryId": "deportes",
       "name": "ESPN 4",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%204.png",
+      "embedUrl": "https://dots.bestleague.world/cvatt.html?get=RVNQTkhE&lang=1",
       "embeds": [
         "https://dots.bestleague.world/cvatt.html?get=RVNQTkhE&lang=1",
-        "https://embed.ksdjugfsddeports.com/embed2/espn4.html",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/espn4.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
         "https://tvlibree.com/html/fl/?get=RVNQTkhE",
         "https://rereyano.ru/player/3/90",
-        "https://welivesports.shop/embed/espn4col.php"
+        "https://welivesports.shop/embed/espn4col.php",
+        "https://gollibre.com/en-vivo-online/espn-4/embed.php",
+        "https://gollibre.com/en-vivo-online/espn-4/embed2.php",
+        "https://gollibre.com/en-vivo-online/espn-4/embed3.php"
       ]
     },
     {
-      "id": "espn_5",
+      "id": "dep_espn_5",
       "categoryId": "deportes",
       "name": "ESPN 5",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%205.png",
+      "embedUrl": "https://embed.ksdjugfsddeports.com/embed2/espn5.html",
       "embeds": [
-        "https://embed.ksdjugfsddeports.com/embed2/espn5.html",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/espn5.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
         "https://tvlibree.com/html/fl/?get=RVNQTjQ=",
         "https://welivesports.shop/embed/espn5col.php",
         "https://elcanaldeportivo.com/espn5.php",
-        "https://rereyano.ru/player/3/91"
+        "https://rereyano.ru/player/3/91",
+        "https://gollibre.com/en-vivo-online/espn-5/embed.php",
+        "https://gollibre.com/en-vivo-online/espn-5/embed2.php",
+        "https://gollibre.com/en-vivo-online/espn-5/embed3.php"
       ]
     },
     {
-      "id": "espn_6",
+      "id": "dep_espn_6",
       "categoryId": "deportes",
       "name": "ESPN 6",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%206.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=Rm94U3BvcnRzM19VWQ==",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=Rm94U3BvcnRzM19VWQ==",
-        "https://embed.ksdjugfsddeports.com/embed2/espn6.html",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/espn6.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
         "https://welivesports.shop/embed/espn6col.php",
-        "https://rereyano.ru/player/3/92"
+        "https://rereyano.ru/player/3/92",
+        "https://gollibre.com/en-vivo-online/espn-6/embed.php",
+        "https://gollibre.com/en-vivo-online/espn-6/embed2.php",
+        "https://gollibre.com/en-vivo-online/espn-6/embed3.php"
       ]
     },
     {
-      "id": "espn_7",
+      "id": "dep_espn_7",
       "categoryId": "deportes",
       "name": "ESPN 7",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%207.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=Rm94U3BvcnRzMl9VWQ==",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=Rm94U3BvcnRzMl9VWQ==",
-        "https://embed.ksdjugfsddeports.com/embed2/espn7.html",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/espn7.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
         "https://welivesports.shop/embed/espn7col.php",
-        "https://rereyano.ru/player/3/93"
+        "https://rereyano.ru/player/3/93",
+        "https://gollibre.com/en-vivo-online/espn-7/embed.php",
+        "https://gollibre.com/en-vivo-online/espn-7/embed2.php",
+        "https://gollibre.com/en-vivo-online/espn-7/embed3.php"
       ]
     },
     {
-      "id": "fox_sports_1",
+      "id": "dep_fox_sports_1",
       "categoryId": "deportes",
       "name": "Fox Sports 1",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Fox%20Sports.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=Rm94U3BvcnRz",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=Rm94U3BvcnRz",
-        "https://embed.ksdjugfsddeports.com/embed2/foxsports.html",
+        "https://gollibre.com/en-vivo-online/fox-sports/embed4.php",
         "https://welivesports.shop/embed/foxsp1arg.php",
         "https://rereyano.ru/player/3/78",
         "https://dots.bestleague.world/cvatt.html?get=Rm94U3BvcnRz",
-        "https://www.ontve.click/player/vdo/?id=FOXSPORT1_AR"
+        "https://gollibre.com/en-vivo-online/fox-sports/embed.php",
+        "https://streamtpcloud.com/global1.php?stream=fox1ar",
+        "https://gollibre.com/en-vivo-online/fox-sports/embed2.php",
+        "https://gollibre.com/en-vivo-online/fox-sports/embed3.php",
+        { "html": "<iframe src=\"https://www.ontve.click/player/vdo/?id=FOXSPORT1_AR\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" },
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/foxsports.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "fox_sports_2",
+      "id": "dep_fox_sports_2",
       "categoryId": "deportes",
       "name": "Fox Sports 2",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Fox%20Sports%202.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=Rm94U3BvcnRzMkhE",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=Rm94U3BvcnRzMkhE",
-        "https://embed.ksdjugfsddeports.com/embed2/foxsports2.html"
+        "https://gollibre.com/en-vivo-online/fox-sports-2/embed.php",
+        "https://gollibre.com/en-vivo-online/fox-sports-2/embed2.php",
+        "https://gollibre.com/en-vivo-online/fox-sports-2/embed3.php",
+        "https://gollibre.com/en-vivo-online/fox-sports-2/embed4.php",
+        "https://gollibre.com/en-vivo-online/fox-sports-2/embed5.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/foxsports2.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "fox_sports_3",
+      "id": "dep_fox_sports_3",
       "categoryId": "deportes",
       "name": "Fox Sports 3",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Fox%20Sports%203.png",
+      "embedUrl": "https://dots.bestleague.world/cvatt.html?get=Rm94U3BvcnRzM0hE&lang=1",
       "embeds": [
         "https://dots.bestleague.world/cvatt.html?get=Rm94U3BvcnRzM0hE&lang=1",
-        "https://embed.ksdjugfsddeports.com/embed2/foxsports3.html",
-        "https://tvlibree.com/html/fl/?get=Rm94U3BvcnRzM0hE"
+        "https://tvlibree.com/html/fl/?get=Rm94U3BvcnRzM0hE",
+        "https://gollibre.com/en-vivo-online/fox-sports-3/embed.php",
+        "https://gollibre.com/en-vivo-online/fox-sports-3/embed2.php",
+        "https://gollibre.com/en-vivo-online/fox-sports-3/embed3.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/foxsports3.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
 
     {
-      "id": "bein_sports_n",
+      "id": "depint_claro_sports",
       "categoryId": "deportes_internacional",
-      "name": "Bein Sports Ñ",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Bein%20Sports%20%C3%91.png",
+      "name": "Claro Sports",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Claro%20Sports.png",
+      "embedUrl": "https://deportelibres.shop/total/stream-933.php",
       "embeds": [
-        "https://gollibre.com/en-vivo-online/bein-%C3%B1/embed.php",
-        "https://gollibre.com/en-vivo-online/bein-%C3%B1/embed2.php",
-        "https://gollibre.com/en-vivo-online/bein-%C3%B1/embed3.php",
-        "https://embed.ksdjugfsddeports.com/embed2/beinsportsxtra.html"
+        "https://deportelibres.shop/total/stream-933.php"
       ]
     },
     {
-      "id": "fox_sports_1_mexico",
+      "id": "depint_fox_sports_1_mexico",
       "categoryId": "deportes_internacional",
       "name": "Fox Sports 1 Mexico",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Fox%20Sports%20Mex.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/fox-sportsmx/fox-sports1.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/fox-sportsmx/fox-sports1.php",
-        "https://embed.ksdjugfsddeports.com/embed2/foxsportsmexico.html",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/foxsportsmexico.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
         "https://bestleague.world/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9vYm94ZTUzd3lvL291dC92MS9mNzg5MmE5ZDcwNmQ0MTlhODQ2ZDczOGZhMjJlYTMzZS9jZW5jLm1wZA&key=MmZiZGFhM2JlYTBkMDMyM2FlMDExYjMxOGQxZGI3MTY&key2=ODcyNmVmN2VhZjViOWRjZTE1ZmI2YWE5ZjgwYmQ1M2Y",
         "https://rereyano.ru/player/2/101",
         "https://gollibre.com/en-vivo-online/fox-sportsmx/fox-sports1-op2.php"
       ]
     },
     {
-      "id": "fox_sports_2_mexico",
+      "id": "depint_fox_sports_2_mexico",
       "categoryId": "deportes_internacional",
       "name": "Fox Sports 2 Mexico",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Fox%20Sports%202%20Mex.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/fox-sportsmx/fox-sports2.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/fox-sportsmx/fox-sports2.php",
         "https://gollibre.com/en-vivo-online/fox-sportsmx/fox-sports2-op2.php",
         "https://bestleague.world/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy90ZXBqcWVqMXlzL291dC92MS9jOWM5MTU5YmFlZTc0OWExOTYxMmIxNTk4NDk1ODU5YS9jZW5jLm1wZA&key=ODgzNmZiMDRkNjJkYzY0YzlmOGEzOWVmODY0MGQ1ZWI&key2=ZDRmMDVjZTU2YzUyMzFiN2NkZjUzNDU1YmVhNTg2MjE",
-        "https://embed.ksdjugfsddeports.com/embed2/foxsports2mexico.html"
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/foxsports2mexico.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "fox_sports_3_mexico",
+      "id": "depint_fox_sports_3_mexico",
       "categoryId": "deportes_internacional",
       "name": "Fox Sports 3 Mexico",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Fox%20Sports%203%20Mex.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/fox-sportsmx/fox-sports3.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/fox-sportsmx/fox-sports3.php",
         "https://gollibre.com/en-vivo-online/fox-sportsmx/fox-sports3-op2.php",
         "https://bestleague.world/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy93eWJnejBvcnI4L291dC92MS8yZjZkMTYxMmFiZDQ0ZjU4ODM5MTdmOGE1ODViOTU1Zi9jZW5jLm1wZA&key=MTFjOGMxYzJlZjAzODVjZjFlNjRkNDRiYjljM2EzOTU&key2=NTc2OTczMGZmYmRjNGIyZmQ4OTQ1OTI5ZDlhY2UwNjM",
-        "https://embed.ksdjugfsddeports.com/embed2/foxsports3mexico.html"
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/foxsports3mexico.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "fox_sports_premium_mexico",
+      "id": "depint_fox_sports_premium_mexico",
       "categoryId": "deportes_internacional",
       "name": "Fox Sports Premium Mexico",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Fox%20Sports%20Premium.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/fox-sports-premium/embed.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/fox-sports-premium/embed.php",
         "https://gollibre.com/en-vivo-online/fox-sports-premium/embed2.php",
-        "https://embed.ksdjugfsddeports.com/embed2/foxsportspremium.html",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/foxsportspremium.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
         "https://bestleague.world/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9mZHg3NHpxemh1L291dC92MS83ZDdhOGM2OTgxYTg0MmI5OGE2ODNlOWZiZmU1MWQxNy9jZW5jLm1wZA==&key=OWYzMjdkMjRjNjZmYmQ4NGUxNWFiNWM5ZWFkN2M3YTQ=&key2=ODM4MzcxODU1MjljMGM0MDQ4ZjgxMzg2YzJkMzY0MjY=",
         "https://rereyano.ru/player/2/104"
       ]
     },
     {
-      "id": "fox_deportes",
+      "id": "depint_fox_deportes",
       "categoryId": "deportes_internacional",
       "name": "Fox deportes",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Fox%20Deportes.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/fox-deportes/embed.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/fox-deportes/embed.php",
         "https://gollibre.com/en-vivo-online/fox-deportes/embed2.php",
@@ -512,19 +635,21 @@
       ]
     },
     {
-      "id": "vtv",
+      "id": "depint_vtv",
       "categoryId": "deportes_internacional",
       "name": "VTV",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/VTV.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=VlRWX0hE",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=VlRWX0hE"
       ]
     },
     {
-      "id": "vtv_plus",
+      "id": "depint_vtv_plus",
       "categoryId": "deportes_internacional",
       "name": "VTV Plus",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/VTV%20Plus.png",
+      "embedUrl": "https://rereyano.ru/player/3/109",
       "embeds": [
         "https://rereyano.ru/player/3/109",
         "https://tvlibree.com/html/fl/?get=VlRWX1BsdXNfSEQ",
@@ -536,81 +661,89 @@
       ]
     },
     {
-      "id": "tudn_mexico",
+      "id": "depint_tudn_mexico",
       "categoryId": "deportes_internacional",
       "name": "TUDN Mexico",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Tudn.png",
+      "embedUrl": "https://rereyano.ru/player/3/68",
       "embeds": [
         "https://rereyano.ru/player/3/68",
         "https://la14hd.com/vivo/canales.php?stream=tudn",
         "https://gollibre.com/en-vivo-online/tudnmx/embed2.php",
-        "https://embed.ksdjugfsddeports.com/embed2/tudn.html"
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/tudn.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "dazn_formula_1",
+      "id": "depint_dazn_formula_1",
       "categoryId": "deportes_internacional",
       "name": "DAZN Formula 1",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Dazn%20F1.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/dazn-formula-1-es/embed.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/dazn-formula-1-es/embed.php",
         "https://gollibre.com/en-vivo-online/dazn-formula-1-es/embed3.php",
-        "https://embed.ksdjugfsddeports.com/embed2/daznf1.html"
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/daznf1.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "dazn_1",
+      "id": "depint_dazn_1",
       "categoryId": "deportes_internacional",
       "name": "DAZN 1",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Dazn%201.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/dazn-1-es/embed.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/dazn-1-es/embed.php"
       ]
     },
     {
-      "id": "dazn_2",
+      "id": "depint_dazn_2",
       "categoryId": "deportes_internacional",
       "name": "DAZN 2",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Dazn%202.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/dazn-2-es/embed.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/dazn-2-es/embed.php",
         "https://gollibre.com/en-vivo-online/dazn-2-es/embed3.php"
       ]
     },
     {
-      "id": "dazn_3",
+      "id": "depint_dazn_3",
       "categoryId": "deportes_internacional",
       "name": "DAZN 3",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Dazn%203.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/dazn-3-es/embed.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/dazn-3-es/embed.php"
       ]
     },
     {
-      "id": "dazn_4",
+      "id": "depint_dazn_4",
       "categoryId": "deportes_internacional",
       "name": "DAZN 4",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Dazn%204.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/dazn-4-es/embed.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/dazn-4-es/embed.php"
       ]
     },
     {
-      "id": "dazn_laliga",
+      "id": "depint_dazn_laliga",
       "categoryId": "deportes_internacional",
       "name": "DAZN LaLiga",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Dazn%20La%20Liga.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/dazn-laliga/embed.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/dazn-laliga/embed.php",
-        "https://embed.ksdjugfsddeports.com/embed2/daznlaliga.html",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/daznlaliga.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
         "https://gollibre.com/en-vivo-online/dazn-laliga/embed3.php"
       ]
     },
     {
-      "id": "espn_deportes",
+      "id": "depint_espn_deportes",
       "categoryId": "deportes_internacional",
       "name": "ESPN Deportes",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Deportes2.png",
+      "embedUrl": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
       "embeds": [
         "https://la14hd.com/vivo/canales.php?stream=espndeportes",
         "https://welivesports.shop/embed/espndeportes.php",
@@ -620,10 +753,11 @@
       ]
     },
     {
-      "id": "win_sports_plus",
+      "id": "depint_win_sports_plus",
       "categoryId": "deportes_internacional",
       "name": "Win Sports +",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Win%20Sports%20%2B.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/win-sports-premium/embed.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/win-sports-premium/embed.php",
         "https://gollibre.com/en-vivo-online/win-sports-premium/embed2.php",
@@ -632,393 +766,624 @@
         "https://streamtpcloud.com/global1.php?stream=winplus2",
         "https://elcanaldeportivo.com/winmas.php",
         "https://rereyano.ru/player/3/81",
-        "https://embed.ksdjugfsddeports.com/embed2/winsportsplus.html"
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/winsportsplus.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "win_sports",
+      "id": "depint_win_sports",
       "categoryId": "deportes_internacional",
       "name": "Win Sports",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Win%20Sports.png",
+      "embedUrl": "https://streamtpcloud.com/global1.php?stream=winsports",
       "embeds": [
         "https://streamtpcloud.com/global1.php?stream=winsports",
-        "https://embed.ksdjugfsddeports.com/embed2/winsports.html"
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/winsports.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "liga_1_max",
+      "id": "depint_liga_1_max",
       "categoryId": "deportes_internacional",
       "name": "Liga 1 Max",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Liga%201%20Max.png",
+      "embedUrl": "https://welivesports.shop/embed/liga1max.php",
       "embeds": [
         "https://welivesports.shop/embed/liga1max.php",
         "https://rereyano.ru/player/2/84",
         "https://gollibre.com/en-vivo-online/liga1max/embed.php",
-        "https://embed.ksdjugfsddeports.com/embed2/liga1max.html"
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/liga1max.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "espn_1_mexico",
+      "id": "depint_espn_1_mexico",
       "categoryId": "deportes_internacional",
       "name": "ESPN 1 Mexico",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
+      "embedUrl": "https://streamtpcloud.com/global1.php?stream=espnmx",
       "embeds": [
         "https://streamtpcloud.com/global1.php?stream=espnmx",
         "https://rereyano.ru/player/3/97",
         "https://welivesports.shop/embed/espn1mx.php",
         "https://la14hd.com/vivo/canales.php?stream=espnmx",
-        "https://www.ontve.click/player/vdo/?id=ESPN_MX",
-        "https://embed.ksdjugfsddeports.com/embed2/espnmexico.html"
+        "https://gollibre.com/en-vivo-online/espnmx/espn1.php",
+        "https://gollibre.com/en-vivo-online/espnmx/espn1-op2.php",
+        { "html": "<iframe src=\"https://www.ontve.click/player/vdo/?id=ESPN_MX\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" },
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/espnmexico.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "espn_2_mexico",
+      "id": "depint_espn_2_mexico",
       "categoryId": "deportes_internacional",
       "name": "ESPN 2 Mexico",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%202.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/espnmx/espn2.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/espnmx/espn2.php",
         "https://gollibre.com/en-vivo-online/espnmx/espn2-op2.php",
-        "https://www.ontve.click/player/vdo/?id=ESPN2_MX",
+        { "html": "<iframe src=\"https://www.ontve.click/player/vdo/?id=ESPN2_MX\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" },
         "https://streamtpcloud.com/global1.php?stream=espn2mx",
         "https://la14hd.com/vivo/canales.php?stream=espn2mx",
         "https://welivesports.shop/embed/espn2mx.php",
         "https://rereyano.ru/player/3/98",
-        "https://embed.ksdjugfsddeports.com/embed2/espn2mexico.html"
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/espn2mexico.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "espn_3_mexico",
+      "id": "depint_espn_3_mexico",
       "categoryId": "deportes_internacional",
       "name": "Espn 3 Mexico",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%203.png",
+      "embedUrl": "https://streamtpcloud.com/global1.php?stream=espn3mx",
       "embeds": [
         "https://streamtpcloud.com/global1.php?stream=espn3mx",
         "https://la14hd.com/vivo/canales.php?stream=espn3mx",
-        "https://www.ontve.click/player/vdo/?id=ESPN3_MX",
+        { "html": "<iframe src=\"https://www.ontve.click/player/vdo/?id=ESPN3_MX\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" },
         "https://gollibre.com/en-vivo-online/espnmx/espn3.php",
         "https://gollibre.com/en-vivo-online/espnmx/espn3-op2.php",
-        "https://embed.ksdjugfsddeports.com/embed2/espn3mexico.html"
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/espn3mexico.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "espn_4_mexico",
+      "id": "depint_espn_4_mexico",
       "categoryId": "deportes_internacional",
       "name": "ESPN 4 Mexico",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%204.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/espnmx/espn4.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/espnmx/espn4.php",
         "https://gollibre.com/en-vivo-online/espnmx/espn4-op2.php",
         "https://streamtpcloud.com/global1.php?stream=espn4mx",
         "https://la14hd.com/vivo/canales.php?stream=espn4mx",
-        "https://embed.ksdjugfsddeports.com/embed2/espn4mexico.html"
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/espn4mexico.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "ecdf",
+      "id": "depint_ecdf",
       "categoryId": "deportes_internacional",
       "name": "ECDF",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ECDF.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/ecdf/embed.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/ecdf/embed.php",
         "https://gollibre.com/en-vivo-online/ecdf/embed2.php"
       ]
     },
     {
-      "id": "eurosport_1",
+      "id": "depint_eurosport_1",
       "categoryId": "deportes_internacional",
       "name": "Eurosport 1",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Euro%20sport.png",
+      "embedUrl": "https://www.ontve.click/player/bypass.php?url=Ly9taXp0di50b3AvdG90YWwvc3RyZWFtLTUyNC5waHA=",
       "embeds": [
-        "//www.ontve.click/player/bypass.php?url=Ly9taXp0di50b3AvdG90YWwvc3RyZWFtLTUyNC5waHA="
+        { "html": "<iframe src=\"//www.ontve.click/player/bypass.php?url=Ly9taXp0di50b3AvdG90YWwvc3RyZWFtLTUyNC5waHA=\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" },
+        "https://gollibre.com/en-vivo-online/eurosport-1-es/embed.php",
+        "https://gollibre.com/en-vivo-online/eurosport-1-es/embed2.php"
       ]
     },
     {
-      "id": "eurosport_2",
+      "id": "depint_eurosport_2",
       "categoryId": "deportes_internacional",
       "name": "Eurosport 2",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Euro%20sport%202.png",
+      "embedUrl": "https://www.ontve.click/player/bypass.php?url=Ly9taXp0di50b3AvdG90YWwvc3RyZWFtLTUyNS5waHA=",
       "embeds": [
-        "//www.ontve.click/player/bypass.php?url=Ly9taXp0di50b3AvdG90YWwvc3RyZWFtLTUyNS5waHA="
+        { "html": "<iframe src=\"//www.ontve.click/player/bypass.php?url=Ly9taXp0di50b3AvdG90YWwvc3RyZWFtLTUyNS5waHA=\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" },
+        "https://gollibre.com/en-vivo-online/eurosport-2-es/embed.php",
+        "https://gollibre.com/en-vivo-online/eurosport-2-es/embed2.php"
       ]
     },
     {
-      "id": "tnt_sports_chile",
+      "id": "depint_tnt_sports_chile",
       "categoryId": "deportes_internacional",
       "name": "TNT Sports Chile",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Sports.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/tnt-sports-chile/embed.php",
       "embeds": [
-        "https://embed.ksdjugfsddeports.com/embed2/tntsportschile.html",
         "https://gollibre.com/en-vivo-online/tnt-sports-chile/embed.php",
-        "https://gollibre.com/en-vivo-online/tnt-sports-chile/embed3.php"
+        "https://gollibre.com/en-vivo-online/tnt-sports-chile/embed3.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/tntsportschile.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "goltv",
+      "id": "depint_goltv",
       "categoryId": "deportes_internacional",
       "name": "GolTV",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Goltv.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/goltv-latino/embed.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/goltv-latino/embed.php"
       ]
     },
     {
-      "id": "sky_sports",
+      "id": "depint_sky_sports",
       "categoryId": "deportes_internacional",
       "name": "Sky Sports",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Sky%20sports.png",
+      "embedUrl": "https://deportelibres.shop/total/stream-130.php",
       "embeds": [
         "https://deportelibres.shop/total/stream-130.php",
-        "https://deportelibres.shop/total/stream-35.php"
+        "https://deportelibres.shop/total/stream-35.php",
+        "https://deportelibres.shop/total/stream-38.php"
       ]
     },
     {
-      "id": "bein_sports_1",
+      "id": "depint_bein_sports_n",
+      "categoryId": "deportes_internacional",
+      "name": "Bein Sports Ñ",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Bein%20Sports%20%C3%91.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/bein-%C3%B1/embed.php",
+      "embeds": [
+        "https://gollibre.com/en-vivo-online/bein-%C3%B1/embed.php",
+        "https://gollibre.com/en-vivo-online/bein-%C3%B1/embed2.php",
+        "https://gollibre.com/en-vivo-online/bein-%C3%B1/embed3.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/beinsportsxtra.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
+      ]
+    },
+    {
+      "id": "depint_bein_sports_1",
       "categoryId": "deportes_internacional",
       "name": "Bein Sports 1",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Bein%20Sports%201.png",
+      "embedUrl": "https://deportelibres.shop/total/stream-116.php",
       "embeds": [
         "https://deportelibres.shop/total/stream-116.php"
       ]
     },
     {
-      "id": "bein_sports_2",
+      "id": "depint_bein_sports_2",
       "categoryId": "deportes_internacional",
       "name": "Bein Sports 2",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Bein%20Sports%202.png",
+      "embedUrl": "https://deportelibres.shop/total/stream-117.php",
       "embeds": [
         "https://deportelibres.shop/total/stream-117.php"
       ]
     },
     {
-      "id": "bein_sports_3",
+      "id": "depint_bein_sports_3",
       "categoryId": "deportes_internacional",
       "name": "Bein Sports 3",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Bein%20Sports%203.png",
+      "embedUrl": "https://deportelibres.shop/total/stream-118.php",
       "embeds": [
         "https://deportelibres.shop/total/stream-118.php"
       ]
     },
+    {
+      "id": "depint_bein_sports_4",
+      "categoryId": "deportes_internacional",
+      "name": "Bein Sports 4",
+      "embedUrl": "https://deportelibres.shop/total/stream-494.php",
+      "embeds": [
+        "https://deportelibres.shop/total/stream-494.php"
+      ]
+    },
+    {
+      "id": "depint_la_liga_tv",
+      "categoryId": "deportes_internacional",
+      "name": "La Liga Tv",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/La%20Liga%20Tv.png",
+      "embedUrl": "https://deportelibres.shop/total/stream-276.php",
+      "embeds": [
+        "https://deportelibres.shop/total/stream-276.php"
+      ]
+    },
+    {
+      "id": "depint_movistar_laliga",
+      "categoryId": "deportes_internacional",
+      "name": "Movistar LaLiga",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Movistar%20La%20Liga.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/laliga/embed.php",
+      "embeds": [
+        "https://gollibre.com/en-vivo-online/laliga/embed.php",
+        "https://gollibre.com/en-vivo-online/laliga/embed3.php"
+      ]
+    },
+    {
+      "id": "depint_laliga_de_campeones",
+      "categoryId": "deportes_internacional",
+      "name": "LaLiga de Campeones",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Liga%20de%20Campeones.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/m-campeones/embed.php",
+      "embeds": [
+        "https://gollibre.com/en-vivo-online/m-campeones/embed.php",
+        "https://gollibre.com/en-vivo-online/m-campeones/embed2.php"
+      ]
+    },
+    {
+      "id": "depint_movistar_deportes",
+      "categoryId": "deportes_internacional",
+      "name": "Movistar Deportes",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Movistar%20Deportes.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/m-deportes/embed.php",
+      "embeds": [
+        "https://gollibre.com/en-vivo-online/m-deportes/embed.php",
+        "https://gollibre.com/en-vivo-online/m-deportes/embed2.php",
+        "https://gollibre.com/en-vivo-online/m-deportes/embed3.php"
+      ]
+    },
+    {
+      "id": "depint_movistar_deportes_2",
+      "categoryId": "deportes_internacional",
+      "name": "Movistar Deportes 2",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Movistar%20Deportes%202.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/m-deportes-2/embed2.php",
+      "embeds": [
+        "https://gollibre.com/en-vivo-online/m-deportes-2/embed2.php",
+        "https://gollibre.com/en-vivo-online/m-deportes-2/embed.php"
+      ]
+    },
+    {
+      "id": "depint_movistar_deportes_3",
+      "categoryId": "deportes_internacional",
+      "name": "Movistar Deportes 3",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Movistar%20Deportes%203.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/m-deportes-3/embed.php",
+      "embeds": [
+        "https://gollibre.com/en-vivo-online/m-deportes-3/embed.php",
+        "https://gollibre.com/en-vivo-online/m-deportes-3/embed2.php"
+      ]
+    },
+    {
+      "id": "depint_movistar_deportes_4",
+      "categoryId": "deportes_internacional",
+      "name": "Movistar Deportes 4",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Movistar%20Deportes%204.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/m-deportes-4/embed.php",
+      "embeds": [
+        "https://gollibre.com/en-vivo-online/m-deportes-4/embed.php"
+      ]
+    },
+    {
+      "id": "depint_movistar_plus",
+      "categoryId": "deportes_internacional",
+      "name": "Movistar +",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Movistar%20%2B.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/m+/embed.php",
+      "embeds": [
+        "https://gollibre.com/en-vivo-online/m+/embed.php",
+        "https://gollibre.com/en-vivo-online/m+/embed2.php"
+      ]
+    },
+    {
+      "id": "depint_vamos_plus",
+      "categoryId": "deportes_internacional",
+      "name": "Vamos +",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Vamos.png",
+      "embedUrl": "https://gollibre.com/en-vivo-online/vamos/embed.php",
+      "embeds": [
+        "https://gollibre.com/en-vivo-online/vamos/embed.php",
+        "https://gollibre.com/en-vivo-online/vamos/embed2.php",
+        "https://gollibre.com/en-vivo-online/vamos/embed3.php"
+      ]
+    },
 
     {
-      "id": "star_channel",
+      "id": "pys_star_channel",
       "categoryId": "peliculas_y_series",
       "name": "Star Channel",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel.png",
+      "embedUrl": "https://telefullhd.net/canales/star-channel/",
       "embeds": [
         "https://telefullhd.net/canales/star-channel/",
         "https://telefullhd.net/canales/star-channel/op2.php",
         "https://tvlibree.com/html/fl/?get=Rk9YSEQ=",
-        "https://embed.ksdjugfsddeports.com/embed2/starchannel.html"
+        "https://tele-libre.store/en-vivo/star-channel/embed.php",
+        "https://tele-libre.store/en-vivo/star-channel/embed2.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/starchannel.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "cinecanal",
+      "id": "pys_cinecanal",
       "categoryId": "peliculas_y_series",
       "name": "Cinecanal",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/CineCanal.png",
+      "embedUrl": "https://telefullhd.net/canales/cinecanal/",
       "embeds": [
         "https://telefullhd.net/canales/cinecanal/",
         "https://telefullhd.net/canales/cinecanal/op2.php",
         "https://dots.bestleague.world/cvatt.html?get=Q2luZWNhbmFsSEQ=&lang=1",
         "https://tvlibree.com/html/fl/?get=Q2luZWNhbmFsSEQ=",
-        "https://embed.ksdjugfsddeports.com/embed2/cinecanal.html"
+        "https://tele-libre.store/en-vivo/cinecanal/embed.php",
+        "https://tele-libre.store/en-vivo/cinecanal/embed2.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/cinecanal.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "tnt",
+      "id": "pys_tnt",
       "categoryId": "peliculas_y_series",
       "name": "TNT",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20HD.png",
+      "embedUrl": "https://telefullhd.net/canales/tnt/",
       "embeds": [
         "https://telefullhd.net/canales/tnt/",
         "https://telefullhd.net/canales/tnt/op2.php",
         "https://dots.bestleague.world/cvatt.html?get=VE5UX0hEX0FyZw==&lang=1",
-        "https://embed.ksdjugfsddeports.com/embed2/tnt.html",
-        "https://tvlibree.com/html/fl/?get=VE5UX0hEX0FyZw=="
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/tnt.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
+        "https://tvlibree.com/html/fl/?get=VE5UX0hEX0FyZw==",
+        "https://tele-libre.store/en-vivo/tnt/embed.php",
+        "https://tele-libre.store/en-vivo/tnt/embed2.php"
       ]
     },
     {
-      "id": "space",
+      "id": "pys_space",
       "categoryId": "peliculas_y_series",
       "name": "Space",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Space.png",
+      "embedUrl": "https://telefullhd.net/canales/space/",
       "embeds": [
         "https://telefullhd.net/canales/space/",
         "https://telefullhd.net/canales/space/op2.php",
         "https://dots.bestleague.world/cvatt.html?get=U3BhY2U=&lang=1",
-        "https://tvlibree.com/html/fl/?get=U3BhY2U="
+        "https://tvlibree.com/html/fl/?get=U3BhY2U=",
+        "https://tele-libre.store/en-vivo/space/embed.php",
+        "https://tele-libre.store/en-vivo/space/embed2.php"
       ]
     },
     {
-      "id": "amc",
+      "id": "pys_amc",
       "categoryId": "peliculas_y_series",
       "name": "AMC",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/AMC.png",
+      "embedUrl": "https://telefullhd.net/canales/amc/",
       "embeds": [
         "https://telefullhd.net/canales/amc/",
         "https://telefullhd.net/canales/amc/op2.php",
         "https://tvlibree.com/html/fl/?get=QU1D",
-        "https://embed.ksdjugfsddeports.com/embed2/amc.html"
+        "https://tele-libre.store/en-vivo/amc/embed.php",
+        "https://tele-libre.store/en-vivo/amc/embed2.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/amc.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "fx_hd",
+      "id": "pys_fx_hd",
       "categoryId": "peliculas_y_series",
       "name": "FX HD",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/FXhd.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=RlhIRA==",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=RlhIRA==",
         "https://telefullhd.net/canales/fx/",
         "https://telefullhd.net/canales/fx/op2.php",
         "https://dots.bestleague.world/cvatt.html?get=RlhIRA==",
-        "https://embed.ksdjugfsddeports.com/embed2/fx.html"
+        "https://tele-libre.store/en-vivo/fx/embed.php",
+        "https://tele-libre.store/en-vivo/fx/embed2.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/fx.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "warner_channel",
+      "id": "pys_warner_channel",
       "categoryId": "peliculas_y_series",
       "name": "Warner Channel",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Warner%20Channel.png",
+      "embedUrl": "https://telefullhd.net/canales/warner/",
       "embeds": [
         "https://telefullhd.net/canales/warner/",
         "https://telefullhd.net/canales/warner/op2.php",
         "https://tvlibree.com/html/fl/?get=V2FybmVySEQ=",
-        "https://embed.ksdjugfsddeports.com/embed2/warnerchannel.html"
+        "https://tele-libre.store/en-vivo/warner/embed.php",
+        "https://tele-libre.store/en-vivo/warner/embed2.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/warnerchannel.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "golden",
-      "categoryId": "peliculas_y_series",
-      "name": "Golden",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Golden.png",
-      "embeds": [
-        "https://tvlibree.com/html/fl/?get=R29sZGVu",
-        "https://embed.ksdjugfsddeports.com/embed2/goldenplus.html"
-      ]
-    },
-    {
-      "id": "a_e",
-      "categoryId": "peliculas_y_series",
-      "name": "A&E",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A%26E.png",
-      "embeds": [
-        "https://tvlibree.com/html/fl/?get=QUVIRA=="
-      ]
-    },
-    {
-      "id": "cinemax",
+      "id": "pys_cinemax",
       "categoryId": "peliculas_y_series",
       "name": "Cinemax",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cinemax.png",
+      "embedUrl": "https://telefullhd.net/canales/cinemax/",
       "embeds": [
         "https://telefullhd.net/canales/cinemax/",
         "https://telefullhd.net/canales/cinemax/op2.php",
         "https://tvlibree.com/html/fl/?get=Q2luZW1heA==",
         "https://dots.bestleague.world/cvatt.html?get=Q2luZW1heA==",
-        "https://www.ontve.click/player/vdo/?id=CINEMAX"
+        "https://tele-libre.store/en-vivo/cinemax/embed.php",
+        "https://tele-libre.store/en-vivo/cinemax/embed2.php",
+        { "html": "<iframe src=\"https://www.ontve.click/player/vdo/?id=CINEMAX\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" }
       ]
     },
     {
-      "id": "axn",
+      "id": "pys_axn",
       "categoryId": "peliculas_y_series",
       "name": "AXN",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/AXN.png",
+      "embedUrl": "https://telefullhd.net/canales/axn/",
       "embeds": [
         "https://telefullhd.net/canales/axn/",
         "https://telefullhd.net/canales/axn/op2.php",
         "https://dots.bestleague.world/cvatt.html?get=QVhOSEQ=",
         "https://tvlibree.com/html/fl/?get=QVhOSEQ=",
-        "https://embed.ksdjugfsddeports.com/embed2/axn.html"
+        "https://tele-libre.store/en-vivo/axn/embed.php",
+        "https://tele-libre.store/en-vivo/axn/embed2.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/axn.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "sony_channel",
+      "id": "pys_sony_channel",
       "categoryId": "peliculas_y_series",
       "name": "Sony Channel",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Sony%20Channel.png",
+      "embedUrl": "https://telefullhd.net/canales/sony/",
       "embeds": [
         "https://telefullhd.net/canales/sony/",
         "https://telefullhd.net/canales/sony/op2.php",
         "https://tvlibree.com/html/fl/?get=U29ueUhE",
         "https://dots.bestleague.world/cvatt.html?get=U29ueUhE&lang=1",
-        "https://embed.ksdjugfsddeports.com/embed2/sony.html"
+        "https://tele-libre.store/en-vivo/sony-channel/embed.php",
+        "https://tele-libre.store/en-vivo/sony-channel/embed2.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/sony.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "paramount_network",
+      "id": "pys_paramount_network",
       "categoryId": "peliculas_y_series",
       "name": "Paramount Network",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Paramount.png",
+      "embedUrl": "https://telefullhd.net/canales/paramount/",
       "embeds": [
         "https://telefullhd.net/canales/paramount/",
         "https://telefullhd.net/canales/paramount/op2.php",
-        "https://embed.ksdjugfsddeports.com/embed2/paramountchannel.html"
+        "https://tele-libre.store/en-vivo/paramount-network/embed.php",
+        "https://tele-libre.store/en-vivo/paramount-network/embed2.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/paramountchannel.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "studio_universal",
+      "id": "pys_studio_universal",
       "categoryId": "peliculas_y_series",
       "name": "Studio Universal",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Studio%20Universal.png",
+      "embedUrl": "https://telefullhd.net/canales/studio-universal/",
       "embeds": [
         "https://telefullhd.net/canales/studio-universal/",
         "https://telefullhd.net/canales/studio-universal/op2.php",
-        "https://tvlibree.com/html/fl/?get=U3R1ZGlvX1VuaXZlcnNhbA=="
+        "https://tvlibree.com/html/fl/?get=U3R1ZGlvX1VuaXZlcnNhbA==",
+        "https://tele-libre.store/en-vivo/studio-universal/embed.php",
+        "https://tele-libre.store/en-vivo/studio-universal/embed2.php",
+        "https://dots.bestleague.world/cvatt.html?get=U3R1ZGlvX1VuaXZlcnNhbA==&lang=1"
       ]
     },
     {
-      "id": "tnt_series",
+      "id": "pys_tnt_series",
       "categoryId": "peliculas_y_series",
       "name": "TNT Series",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Series.png",
+      "embedUrl": "https://telefullhd.net/canales/tnt-series/",
       "embeds": [
         "https://telefullhd.net/canales/tnt-series/",
         "https://telefullhd.net/canales/tnt-series/op2.php",
         "https://dots.bestleague.world/cvatt.html?get=VE5UU2VyaWVz",
         "https://tvlibree.com/html/fl/?get=VE5UU2VyaWVz",
-        "https://embed.ksdjugfsddeports.com/embed2/tntseries.html"
+        "https://tele-libre.store/en-vivo/tnt-series/embed.php",
+        "https://tele-libre.store/en-vivo/tnt-series/embed2.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/tntseries.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "tnt_novelas",
+      "id": "pys_tnt_novelas",
       "categoryId": "peliculas_y_series",
       "name": "TNT Novelas",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Novelas.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Novelas%202.png",
+      "embedUrl": "https://telefullhd.net/canales/tbs/",
       "embeds": [
         "https://telefullhd.net/canales/tbs/",
         "https://telefullhd.net/canales/tbs/op2.php",
         "https://tvlibree.com/html/fl/?get=VEJT",
-        "https://embed.ksdjugfsddeports.com/embed2/tntnovelas.html"
+        "https://tele-libre.store/en-vivo/tnt-novelas/embed.php",
+        "https://tele-libre.store/en-vivo/tnt-novelas/embed2.php",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/tntnovelas.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
     {
-      "id": "tcm",
+      "id": "pys_tcm",
       "categoryId": "peliculas_y_series",
       "name": "TCM",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TCM.png",
+      "embedUrl": "https://telefullhd.net/canales/tcm/",
       "embeds": [
         "https://telefullhd.net/canales/tcm/",
         "https://telefullhd.net/canales/tcm/op2.php",
-        "https://tvlibree.com/html/fl/?get=VENN"
+        "https://tvlibree.com/html/fl/?get=VENN",
+        "https://tele-libre.store/en-vivo/tcm/embed.php",
+        "https://tele-libre.store/en-vivo/tcm/embed2.php"
       ]
     },
     {
-      "id": "a3cine",
+      "id": "pys_a3cine",
       "categoryId": "peliculas_y_series",
       "name": "A3Cine",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A3cine.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=QTNfQ2luZQ==",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=QTNfQ2luZQ==",
-        "https://tvlibree.com/html/fl/?get=QTNfU2VyaWVz"
+        "https://tvlibree.com/html/fl/?get=QTNfU2VyaWVz",
+        "https://tele-libre.store/en-vivo/a3cine/embed.php"
+      ]
+    },
+    {
+      "id": "pys_universal_tv",
+      "categoryId": "peliculas_y_series",
+      "name": "Universal Tv",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Universal%20TV.png",
+      "embedUrl": "https://telefullhd.net/canales/universal-tv/",
+      "embeds": [
+        "https://telefullhd.net/canales/universal-tv/",
+        "https://telefullhd.net/canales/universal-tv/op2.php",
+        "https://tele-libre.store/en-vivo/universaltv/embed.php",
+        "https://tele-libre.store/en-vivo/universaltv/embed2.php"
+      ]
+    },
+    {
+      "id": "pys_comedy_central",
+      "categoryId": "peliculas_y_series",
+      "name": "Comedy Central",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Comedy%20Central.png",
+      "embedUrl": "https://telefullhd.net/canales/comedy-central/",
+      "embeds": [
+        "https://telefullhd.net/canales/comedy-central/",
+        "https://telefullhd.net/canales/comedy-central/op2.php",
+        "https://tvlibree.com/html/fl/?get=Q29tZWR5Q2VudHJhbA",
+        "https://tele-libre.store/en-vivo/comedy-central/embed.php",
+        "https://tele-libre.store/en-vivo/comedy-central/embed2.php"
+      ]
+    },
+    {
+      "id": "pys_golden",
+      "categoryId": "peliculas_y_series",
+      "name": "Golden",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Golden3.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=R29sZGVu",
+      "embeds": [
+        "https://tvlibree.com/html/fl/?get=R29sZGVu",
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/goldenplus.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
+      ]
+    },
+    {
+      "id": "pys_golden_edge",
+      "categoryId": "peliculas_y_series",
+      "name": "Golden Edge",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Golden%20Edge.png",
+      "embedUrl": "https://embed.ksdjugfsddeports.com/embed2/goldenedge.html",
+      "embeds": [
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/goldenedge.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
+      ]
+    },
+    {
+      "id": "pys_golden_premiere",
+      "categoryId": "peliculas_y_series",
+      "name": "Golden Premiere",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Golden%20Premier.png",
+      "embedUrl": "https://embed.ksdjugfsddeports.com/embed2/goldenpremier.html",
+      "embeds": [
+        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/goldenpremier.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
 
     {
-      "id": "hbo",
+      "id": "pack_hbo",
       "categoryId": "pack_premium",
       "name": "HBO",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO.png",
+      "embedUrl": "https://telefullhd.net/canales/hbo/",
       "embeds": [
         "https://telefullhd.net/canales/hbo/",
         "https://telefullhd.net/canales/hbo/op2.php",
@@ -1028,10 +1393,11 @@
       ]
     },
     {
-      "id": "hbo_2",
+      "id": "pack_hbo_2",
       "categoryId": "pack_premium",
       "name": "HBO 2",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%202.png",
+      "embedUrl": "https://telefullhd.net/canales/hbo2/",
       "embeds": [
         "https://telefullhd.net/canales/hbo2/",
         "https://telefullhd.net/canales/hbo2/op2.php",
@@ -1041,10 +1407,11 @@
       ]
     },
     {
-      "id": "hbo_plus",
+      "id": "pack_hbo_plus",
       "categoryId": "pack_premium",
       "name": "HBO Plus",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20Plus.png",
+      "embedUrl": "https://telefullhd.net/canales/hbo-plus/",
       "embeds": [
         "https://telefullhd.net/canales/hbo-plus/",
         "https://tele-libre.store/en-vivo/hbo-plus/embed2.php",
@@ -1054,10 +1421,11 @@
       ]
     },
     {
-      "id": "hbo_family",
+      "id": "pack_hbo_family",
       "categoryId": "pack_premium",
       "name": "HBO Family",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20Family.png",
+      "embedUrl": "https://telefullhd.net/canales/hbo-family/",
       "embeds": [
         "https://telefullhd.net/canales/hbo-family/",
         "https://telefullhd.net/canales/hbo-family/op2.php",
@@ -1065,6 +1433,246 @@
         "https://tele-libre.store/en-vivo/hbo-family/embed2.php",
         "https://tvlibree.com/html/fl/?get=SEJPXzI=",
         "https://dots.bestleague.world/cvatt.html?get=SEJPX0ZhbWlseQ==&lang=1"
+      ]
+    },
+    {
+      "id": "pack_hbo_signature",
+      "categoryId": "pack_premium",
+      "name": "HBO Signature",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20Signature.png",
+      "embedUrl": "https://telefullhd.net/canales/hbo-signature/",
+      "embeds": [
+        "https://telefullhd.net/canales/hbo-signature/",
+        "https://telefullhd.net/canales/hbo-signature/op2.php",
+        "https://tele-libre.store/en-vivo/hbo-signature/embed.php",
+        "https://tele-libre.store/en-vivo/hbo-signature/embed2.php",
+        "https://tvlibree.com/html/fl/?get=SEJPX1NpZ25hdHVyZQ=="
+      ]
+    },
+    {
+      "id": "pack_hbo_xtreme",
+      "categoryId": "pack_premium",
+      "name": "HBO Xtreme",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20xtreme.png",
+      "embedUrl": "https://telefullhd.net/canales/hbo-xtreme/",
+      "embeds": [
+        "https://telefullhd.net/canales/hbo-xtreme/",
+        "https://telefullhd.net/canales/hbo-xtreme/op2.php",
+        "https://tele-libre.store/en-vivo/hbo-xtreme/embed.php",
+        "https://tele-libre.store/en-vivo/hbo-xtreme/embed2.php",
+        "https://tvlibree.com/html/fl/?get=SEJPX0V4dHJlbWU="
+      ]
+    },
+    {
+      "id": "pack_hbo_mundi",
+      "categoryId": "pack_premium",
+      "name": "HBO Mundi",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20Mundi.png",
+      "embedUrl": "https://telefullhd.net/canales/hbo-mundi/",
+      "embeds": [
+        "https://telefullhd.net/canales/hbo-mundi/",
+        "https://telefullhd.net/canales/hbo-mundi/op2.php",
+        "https://tele-libre.store/en-vivo/hbo-mundi/embed.php",
+        "https://tele-libre.store/en-vivo/hbo-mundi/embed2.php",
+        "https://tvlibree.com/html/fl/?get=SEJPX011bmRp"
+      ]
+    },
+    {
+      "id": "pack_hbo_pop",
+      "categoryId": "pack_premium",
+      "name": "HBO Pop",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20pop.png",
+      "embedUrl": "https://telefullhd.net/canales/hbo-pop/",
+      "embeds": [
+        "https://telefullhd.net/canales/hbo-pop/",
+        "https://telefullhd.net/canales/hbo-pop/op2.php",
+        "https://tele-libre.store/en-vivo/hbo-pop/embed.php",
+        "https://tele-libre.store/en-vivo/hbo-pop/embed2.php",
+        "https://tvlibree.com/html/fl/?get=SEJPX1BPUA=="
+      ]
+    },
+    {
+      "id": "pack_universal_premiere",
+      "categoryId": "pack_premium",
+      "name": "Universal Premiere",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Universal%20Premiere.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX1ByZW1pZXJl",
+      "embeds": [
+        "https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX1ByZW1pZXJl"
+      ]
+    },
+    {
+      "id": "pack_universal_cinema",
+      "categoryId": "pack_premium",
+      "name": "Universal Cinema",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Universal%20Cinema.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX0NpbmVtYQ==",
+      "embeds": [
+        "https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX0NpbmVtYQ=="
+      ]
+    },
+    {
+      "id": "pack_universal_crime",
+      "categoryId": "pack_premium",
+      "name": "Universal Crime",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Universal%20Crime.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=dW5pdmVyc2FsX0NyaW1l",
+      "embeds": [
+        "https://tvlibree.com/html/fl/?get=dW5pdmVyc2FsX0NyaW1l"
+      ]
+    },
+    {
+      "id": "pack_universal_comedy",
+      "categoryId": "pack_premium",
+      "name": "Universal Comedy",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Universal%20Comedy.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX0NvbWVkeQ==",
+      "embeds": [
+        "https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX0NvbWVkeQ=="
+      ]
+    },
+    {
+      "id": "pack_universal_reality",
+      "categoryId": "pack_premium",
+      "name": "Universal Reality",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Universal%20Reality.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX1JlYWxpdHk=",
+      "embeds": [
+        "https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX1JlYWxpdHk="
+      ]
+    },
+
+    {
+      "id": "inf_disney_channel",
+      "categoryId": "infantil",
+      "name": "Disney Channel",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Channel.png",
+      "embedUrl": "https://telefullhd.net/canales/disney-channel/",
+      "embeds": [
+        "https://telefullhd.net/canales/disney-channel/",
+        "https://telefullhd.net/canales/disney-channel/op2.php",
+        "https://tele-libre.store/en-vivo/disney-channel/embed.php",
+        "https://tele-libre.store/en-vivo/disney-channel/embed2.php",
+        "https://tvlibree.com/html/fl/?get=RGlzbmV5Q2hhbm5lbEhE"
+      ]
+    },
+    {
+      "id": "inf_disney_junior",
+      "categoryId": "infantil",
+      "name": "Disney Junior",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Junior.png",
+      "embedUrl": "https://telefullhd.net/canales/disney-junior/",
+      "embeds": [
+        "https://telefullhd.net/canales/disney-junior/",
+        "https://telefullhd.net/canales/disney-junior/op2.php",
+        "https://tele-libre.store/en-vivo/disney-jr/embed.php",
+        "https://tvlibree.com/html/fl/?get=RGlzbmV5SnI=",
+        "https://dots.bestleague.world/cvatt.html?get=RGlzbmV5SnI=",
+        "https://tele-libre.store/en-vivo/disney-jr/embed2.php"
+      ]
+    },
+    {
+      "id": "inf_cartoon_network",
+      "categoryId": "infantil",
+      "name": "Cartoon Network",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/cartoon%20Network.png",
+      "embedUrl": "https://telefullhd.net/canales/cartoon-network/",
+      "embeds": [
+        "https://telefullhd.net/canales/cartoon-network/",
+        "https://telefullhd.net/canales/cartoon-network/op2.php",
+        "https://tele-libre.store/en-vivo/cartoon-network/embed.php",
+        "https://tele-libre.store/en-vivo/cartoon-network/embed2.php",
+        "https://tvlibree.com/html/fl/?get=Q2FydG9vbk5ldHdvcms=",
+        "https://dots.bestleague.world/cvatt.html?get=Q2FydG9vbk5ldHdvcms="
+      ]
+    },
+    {
+      "id": "inf_discovery_kids",
+      "categoryId": "infantil",
+      "name": "Discovery Kids",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Discovery%20Kids.png",
+      "embedUrl": "https://telefullhd.net/canales/discovery-kids/",
+      "embeds": [
+        "https://telefullhd.net/canales/discovery-kids/",
+        "https://telefullhd.net/canales/discovery-kids/op2.php",
+        "https://tele-libre.store/en-vivo/discovery-kids/embed2.php",
+        "https://tele-libre.store/en-vivo/discovery-kids/embed.php",
+        "https://tvlibree.com/html/fl/?get=RGlzY292ZXJ5X0tpZHM=",
+        "https://dots.bestleague.world/cvatt.html?get=RGlzY292ZXJ5X0tpZHM="
+      ]
+    },
+    {
+      "id": "inf_nickelodeon",
+      "categoryId": "infantil",
+      "name": "Nickelodeon",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Nick.png",
+      "embedUrl": "https://telefullhd.net/canales/nick/",
+      "embeds": [
+        "https://telefullhd.net/canales/nick/",
+        "https://telefullhd.net/canales/nick/op2.php",
+        "https://tele-libre.store/en-vivo/nick/embed.php",
+        "https://tele-libre.store/en-vivo/nick/embed2.php",
+        "https://tvlibree.com/html/fl/?get=RGlzY292ZXJ5X0tpZHM=",
+        "https://dots.bestleague.world/cvatt.html?get=Tmlja2Vsb2Rlb24="
+      ]
+    },
+    {
+      "id": "inf_nick_junior",
+      "categoryId": "infantil",
+      "name": "Nick Junior",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Nick%20Junior.png",
+      "embedUrl": "https://telefullhd.net/canales/nick-junior/",
+      "embeds": [
+        "https://telefullhd.net/canales/nick-junior/",
+        "https://tele-libre.store/en-vivo/nickjr/embed.php",
+        "https://tele-libre.store/en-vivo/nickjr/embed2.php",
+        "https://tvlibree.com/html/fl/?get=Tmlja19Kcg=="
+      ]
+    },
+    {
+      "id": "inf_tooncast",
+      "categoryId": "infantil",
+      "name": "ToonCast",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Tooncast.png",
+      "embedUrl": "https://telefullhd.net/canales/tooncast/",
+      "embeds": [
+        "https://telefullhd.net/canales/tooncast/",
+        "https://telefullhd.net/canales/tooncast/op2.php"
+      ]
+    },
+    {
+      "id": "inf_cartoonito",
+      "categoryId": "infantil",
+      "name": "Cartoonito",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cartoonito.png",
+      "embedUrl": "https://telefullhd.net/canales/cartoonito/",
+      "embeds": [
+        "https://telefullhd.net/canales/cartoonito/",
+        "https://telefullhd.net/canales/cartoonito/op2.php",
+        "https://tvlibree.com/html/fl/?get=Qm9vbWVyYW5n",
+        "https://tele-libre.store/en-vivo/cartoonito/embed.php",
+        "https://tele-libre.store/en-vivo/cartoonito/embed2.php"
+      ]
+    },
+    {
+      "id": "inf_paka_paka",
+      "categoryId": "infantil",
+      "name": "Paka Paka",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Paka%20Paka.png",
+      "embedUrl": "https://telefullhd.net/canales/paka-paka/",
+      "embeds": [
+        "https://telefullhd.net/canales/paka-paka/",
+        "https://telefullhd.net/canales/paka-paka/op2.php"
+      ]
+    },
+    {
+      "id": "inf_adult_swim",
+      "categoryId": "infantil",
+      "name": "Adult Swim",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Adult%20Swim.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=QWR1bHRfU3dpbQ==",
+      "embeds": [
+        "https://tvlibree.com/html/fl/?get=QWR1bHRfU3dpbQ=="
       ]
     }
   ]
