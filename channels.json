@@ -251,7 +251,8 @@
     {
       "id": "ar_cinear",
       "categoryId": "argentina",
-      "name": "Cinear",
+      "name": "Cinear", 
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/CineAR.png",
       "embedUrl": "https://telefullhd.net/canales/cine-ar/",
       "embeds": [
         "https://telefullhd.net/canales/cine-ar/",
