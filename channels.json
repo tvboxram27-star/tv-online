@@ -199,6 +199,16 @@
       ]
     },
     {
+       "id": "ar_ipnoticias",
+      "categoryId": "argentina",
+      "name": "Ip Noticias",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Ip%20Noticias.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=",
+      "embeds": [
+        "https://tvlibree.com/html/fl/?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E="
+      ]
+    },
+    {
       "id": "ar_net_tv",
       "categoryId": "argentina",
       "name": "Net TV",
@@ -1642,6 +1652,16 @@
       ]
     },
     {
+      "id": "inf_dreamworks",
+      "categoryId": "infantil",
+      "name": "DreamWorks",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DreamWorks.png",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=RHJlYW13b3Jrcw==",
+      "embeds": [
+        "https://tvlibree.com/html/fl/?get=RHJlYW13b3Jrcw=="
+      ]
+    },
+    {
       "id": "inf_cartoonito",
       "categoryId": "infantil",
       "name": "Cartoonito",
@@ -1674,6 +1694,175 @@
       "embedUrl": "https://tvlibree.com/html/fl/?get=QWR1bHRfU3dpbQ==",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=QWR1bHRfU3dpbQ=="
+        ]
+    },
+    {
+       "id": "mtv",
+      "categoryId": "entretenimiento",
+      "name": "Mtv",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/MTV.png",
+      "embeds": [
+        "https://telefullhd.net/canales/mtv/",
+        "https://telefullhd.net/canales/mtv/op2.php",
+        "https://telefullhd.net/canales/mtv/op4.php",
+        "https://telefullhd.net/canales/mtv/op3.php",
+        "https://tele-libre.store/en-vivo/mtv/embed.php",
+        "https://tele-libre.store/en-vivo/mtv/embed2.php"
+      ]
+    },
+    {
+      "id": "flow_music",
+      "categoryId": "entretenimiento",
+      "name": "Flow Music",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Flow%20Music.png",
+      "embeds": [
+        "https://tele-libre.store/en-vivo/flow-music/embed.php",
+        "https://tele-libre.store/en-vivo/flow-music/embed2.php",
+        "https://tele-libre.store/en-vivo/flow-music/embed3.php",
+        "https://tele-libre.store/en-vivo/flow-music/embed4.php",
+        "https://tvlibree.com/html/fl/?get=Rmxvd19NdXNpY19YUA==",
+        "https://tvlibree.com/html/fl/?get=Rmxvd19NdXNpY18y"
+      ]
+    },
+    {
+      "id": "history_channel",
+      "categoryId": "entretenimiento",
+      "name": "History Channel",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/History.png",
+      "embeds": [
+        "https://telefullhd.net/canales/history/",
+        "https://telefullhd.net/canales/history/op2.php",
+        "https://tele-libre.store/en-vivo/history/embed.php",
+        "https://tele-libre.store/en-vivo/history/embed2.php",
+        "https://tvlibree.com/html/fl/?get=SGlzdG9yeUhE"
+      ]
+    },
+    {
+      "id": "history_channel_2",
+      "categoryId": "entretenimiento",
+      "name": "History Channel 2",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/History%202.png",
+      "embeds": [
+        "https://telefullhd.net/canales/history-2/",
+        "https://tvlibree.com/html/fl/?get=SGlzdG9yeV8y",
+        "https://tele-libre.store/en-vivo/history-2/embed.php",
+        "https://tele-libre.store/en-vivo/history-2/embed2.php"
+      ]
+    },
+    {
+      "id": "discovery_channel",
+      "categoryId": "entretenimiento",
+      "name": "Discovery Channel",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Discovery.png",
+      "embeds": [
+        "https://tele-libre.store/en-vivo/discovery-channel/embed.php",
+        "https://tele-libre.store/en-vivo/discovery-channel/embed2.php",
+        "https://telefullhd.net/canales/discovery-channel/",
+        "https://tvlibree.com/html/fl/?get=RGlzY292ZXJ5SEQ=",
+        "https://telefullhd.net/canales/discovery-channel/op2.php"
+      ]
+    },
+    {
+      "id": "discovery_tlc",
+      "categoryId": "entretenimiento",
+      "name": "Discovery TLC",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TLC%20Discovery.png",
+      "embeds": [
+        "https://telefullhd.net/canales/discovery-tlc/",
+        "https://telefullhd.net/canales/discovery-tlc/op2.php",
+        "https://tele-libre.store/en-vivo/discovery-tlc/embed.php",
+        "https://tele-libre.store/en-vivo/discovery-tlc/embed2.php"
+      ]
+    },
+    {
+      "id": "national_geographic",
+      "categoryId": "entretenimiento",
+      "name": "National Geographic",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Nat%20Geo.png",
+      "embeds": [
+        "https://telefullhd.net/canales/national-geographic/",
+        "https://telefullhd.net/canales/national-geographic/op2.php",
+        "https://tvlibree.com/html/fl/?get=TmF0R2VvSEQ=",
+        "https://tele-libre.store/en-vivo/national-geographic/embed.php",
+        "https://tele-libre.store/en-vivo/national-geographic/embed2.php"
+      ]
+    },
+    {
+      "id": "animal_planet",
+      "categoryId": "entretenimiento",
+      "name": "Animal Planet",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Animal%20Planet.png",
+      "embeds": [
+        "https://telefullhd.net/canales/animal-planet/",
+        "https://telefullhd.net/canales/animal-planet/op2.php",
+        "https://tvlibree.com/html/fl/?get=QW5pbWFsUGxhbmV0",
+        "https://tele-libre.store/en-vivo/animal-planet/embed.php",
+        "https://tele-libre.store/en-vivo/animal-planet/embed2.php"
+      ]
+    },
+    {
+      "id": "ae",
+      "categoryId": "entretenimiento",
+      "name": "A&E",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A%26E.png",
+      "embeds": [
+        "https://tvlibree.com/html/fl/?get=QUVIRA==",
+        "https://tele-libre.store/en-vivo/ae/embed.php",
+        "https://tele-libre.store/en-vivo/ae/embed2.php",
+        "https://telefullhd.net/canales/ae/",
+        "https://telefullhd.net/canales/ae/op2.php"
+      ]
+    },
+    {
+      "id": "las_estrellas",
+      "categoryId": "entretenimiento",
+      "name": "Las Estrellas",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Las%20Estrellas.png",
+      "embeds": [
+        "https://telefullhd.net/canales/estrellas/",
+        "https://tvlibree.com/html/fl/?get=Q2FuYWxfZGVfbGFzX2VzdHJlbGxhcw=="
+      ],
+      "embedsHtml": [
+        "<iframe src=\"https://embed.saohgdasregions.fun/embed2/lasestrellas.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>"
+      ]
+    },
+    {
+      "id": "telemundo",
+      "categoryId": "entretenimiento",
+      "name": "Telemundo",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telemundo.png",
+      "embeds": [
+        "https://telefullhd.net/canales/telemundo/op3.php",
+        "https://telefullhd.net/canales/telemundo/",
+        "https://telefullhd.net/canales/telemundo/op2.php",
+        "https://tvlibree.com/html/fl/?get=VGVsZW11bmRvX0hE"
+      ]
+    },
+    {
+      "id": "la_tele",
+      "categoryId": "entretenimiento",
+      "name": "La Tele",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/LaTele.png",
+      "embeds": [
+        "https://tvlibree.com/html/fl/?get=TEFfVEVMRV9DNA=="
+      ]
+    },
+    {
+      "id": "snt",
+      "categoryId": "entretenimiento",
+      "name": "SNT",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/SNT.png",
+      "embeds": [
+        "https://tvlibree.com/html/fl/?get=U05UX0M0"
+      ]
+    },
+    {
+      "id": "telefuturo",
+      "categoryId": "entretenimiento",
+      "name": "Telefuturo",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telefuturo.png",
+      "embeds": [
+        "https://tvlibree.com/html/fl/?get=VEVMRUZVVFVST19DNA=="
       ]
     }
   ]
