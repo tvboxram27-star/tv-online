@@ -7,6 +7,7 @@
     { "id": "peliculas_y_series", "title": "Peliculas Y Series" },
     { "id": "pack_premium", "title": "Pack Premium" },
     { "id": "infantil", "title": "Infantil" }
+    { "id": "entretenimiento", "title": "Entretenimiento" }
   ],
   "channels": [
     {
