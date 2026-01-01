@@ -1,14 +1,14 @@
 {
   "version": 2,
   "categories": [
-    { "id": "argentina", "title": "Argentina" },
-    { "id": "deportes", "title": "Deportes" },
-    { "id": "deportes_internacional", "title": "Deportes Internacional" },
-    { "id": "peliculas_y_series", "title": "Peliculas Y Series" },
-    { "id": "pack_premium", "title": "Pack Premium" },
-    { "id": "infantil", "title": "Infantil" },
-    { "id": "entretenimiento", "title": "Entretenimiento" },
-  ],
+  { "id": "argentina", "title": "Argentina" },
+  { "id": "deportes", "title": "Deportes" },
+  { "id": "deportes_internacional", "title": "Deportes Internacional" },
+  { "id": "peliculas_y_series", "title": "Peliculas Y Series" },
+  { "id": "pack_premium", "title": "Pack Premium" },
+  { "id": "infantil", "title": "Infantil" },
+  { "id": "entretenimiento", "title": "Entretenimiento" }
+],
   "channels": [
     {
       "id": "ar_el_trece",
