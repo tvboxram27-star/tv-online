@@ -254,7 +254,6 @@
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Encuentro.png",
       "embedUrl": "https://tele-libre.store/en-vivo/encuentro/embed.php",
       "embeds": [
-        "https://tele-libre.store/en-vivo/encuentro/embed.php",
         "https://tvlibree.com/html/fl/?get=RW5jdWVudHJv"
       ]
     },
@@ -976,17 +975,9 @@
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Bein%20Sports%203.png",
       "embedUrl": "https://deportelibres.shop/total/stream-118.php",
       "embeds": [
-        "https://deportelibres.shop/total/stream-118.php"
-      ]
-    },
-    {
-      "id": "depint_bein_sports_4",
-      "categoryId": "deportes_internacional",
-      "name": "Bein Sports 4",
-      "embedUrl": "https://deportelibres.shop/total/stream-494.php",
-      "embeds": [
+        "https://deportelibres.shop/total/stream-118.php",
         "https://deportelibres.shop/total/stream-494.php"
-      ]
+       ]
     },
     {
       "id": "depint_la_liga_tv",
@@ -1694,8 +1685,9 @@
       "embedUrl": "https://tvlibree.com/html/fl/?get=QWR1bHRfU3dpbQ==",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=QWR1bHRfU3dpbQ=="
-        ]
+       ]
     },
+    
     {
        "id": "mtv",
       "categoryId": "entretenimiento",
