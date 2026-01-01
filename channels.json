@@ -1689,7 +1689,7 @@
     },
     
     {
-       "id": "mtv",
+       "id": "inf_mtv",
       "categoryId": "entretenimiento",
       "name": "Mtv",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/MTV.png",
@@ -1703,7 +1703,7 @@
       ]
     },
     {
-      "id": "flow_music",
+      "id": "inf_flow_music",
       "categoryId": "entretenimiento",
       "name": "Flow Music",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Flow%20Music.png",
@@ -1717,7 +1717,7 @@
       ]
     },
     {
-      "id": "history_channel",
+      "id": "inf_history_channel",
       "categoryId": "entretenimiento",
       "name": "History Channel",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/History.png",
@@ -1730,7 +1730,7 @@
       ]
     },
     {
-      "id": "history_channel_2",
+      "id": "inf_history_channel_2",
       "categoryId": "entretenimiento",
       "name": "History Channel 2",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/History%202.png",
@@ -1742,7 +1742,7 @@
       ]
     },
     {
-      "id": "discovery_channel",
+      "id": "inf_discovery_channel",
       "categoryId": "entretenimiento",
       "name": "Discovery Channel",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Discovery.png",
@@ -1755,7 +1755,7 @@
       ]
     },
     {
-      "id": "discovery_tlc",
+      "id": "inf_discovery_tlc",
       "categoryId": "entretenimiento",
       "name": "Discovery TLC",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TLC%20Discovery.png",
@@ -1767,7 +1767,7 @@
       ]
     },
     {
-      "id": "national_geographic",
+      "id": "inf_national_geographic",
       "categoryId": "entretenimiento",
       "name": "National Geographic",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Nat%20Geo.png",
@@ -1780,7 +1780,7 @@
       ]
     },
     {
-      "id": "animal_planet",
+      "id": "inf_animal_planet",
       "categoryId": "entretenimiento",
       "name": "Animal Planet",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Animal%20Planet.png",
@@ -1793,7 +1793,7 @@
       ]
     },
     {
-      "id": "ae",
+      "id": "inf_ae",
       "categoryId": "entretenimiento",
       "name": "A&E",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A%26E.png",
@@ -1806,7 +1806,7 @@
       ]
     },
     {
-      "id": "las_estrellas",
+      "id": "inf_las_estrellas",
       "categoryId": "entretenimiento",
       "name": "Las Estrellas",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Las%20Estrellas.png",
@@ -1819,7 +1819,7 @@
       ]
     },
     {
-      "id": "telemundo",
+      "id": "inf_telemundo",
       "categoryId": "entretenimiento",
       "name": "Telemundo",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telemundo.png",
@@ -1831,7 +1831,7 @@
       ]
     },
     {
-      "id": "la_tele",
+      "id": "inf_la_tele",
       "categoryId": "entretenimiento",
       "name": "La Tele",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/LaTele.png",
@@ -1840,7 +1840,7 @@
       ]
     },
     {
-      "id": "snt",
+      "id": "inf_snt",
       "categoryId": "entretenimiento",
       "name": "SNT",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/SNT.png",
@@ -1849,7 +1849,7 @@
       ]
     },
     {
-      "id": "telefuturo",
+      "id": "inf_telefuturo",
       "categoryId": "entretenimiento",
       "name": "Telefuturo",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telefuturo.png",
