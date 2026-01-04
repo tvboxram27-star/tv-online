@@ -14,7 +14,7 @@
       "id": "ar_el_trece",
       "categoryId": "argentina",
       "name": "El trece",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Trece.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Trece2.png",
       "embedUrl": "https://telefullhd.net/canales/el-trece/",
       "embeds": [
         "https://telefullhd.net/canales/el-trece/",
@@ -86,7 +86,7 @@
       "id": "ar_el_nueve",
       "categoryId": "argentina",
       "name": "El Nueve",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Nueve.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Nueve2.png",
       "embedUrl": "https://telefullhd.net/canales/canal9/",
       "embeds": [
         "https://telefullhd.net/canales/canal9/",
@@ -117,7 +117,7 @@
       "id": "ar_america_tv",
       "categoryId": "argentina",
       "name": "America Tv",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/America.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/America2.png",
       "embedUrl": "https://telefullhd.net/canales/americatv/",
       "embeds": [
         "https://telefullhd.net/canales/americatv/",
@@ -147,7 +147,7 @@
       "id": "ar_c5n",
       "categoryId": "argentina",
       "name": "C5N",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/C5N.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/C5N2.png",
       "embedUrl": "https://telefullhd.net/canales/c5n/",
       "embeds": [
         "https://telefullhd.net/canales/c5n/",
@@ -161,7 +161,7 @@
       "id": "ar_a24",
       "categoryId": "argentina",
       "name": "A24",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A24.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A242.png",
       "embedUrl": "https://telefullhd.net/canales/a24/",
       "embeds": [
         "https://telefullhd.net/canales/a24/",
@@ -202,7 +202,7 @@
        "id": "ar_ipnoticias",
       "categoryId": "argentina",
       "name": "Ip Noticias",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Ip%20Noticias.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Ip%20Noticias2.png",
       "embedUrl": "https://tvlibree.com/html/fl/?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E="
@@ -212,7 +212,7 @@
       "id": "ar_net_tv",
       "categoryId": "argentina",
       "name": "Net TV",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Net%20Tv.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Net%20Tv2.png",
       "embedUrl": "https://bestleague.world/canal/?id=NETTV",
       "embeds": [
         "https://bestleague.world/canal/?id=NETTV",
@@ -251,7 +251,7 @@
       "id": "ar_encuentro",
       "categoryId": "argentina",
       "name": "Encuentro",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Encuentro.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Encuentro2.png",
       "embedUrl": "https://tele-libre.store/en-vivo/encuentro/embed.php",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=RW5jdWVudHJv"
@@ -783,7 +783,7 @@
       "id": "depint_win_sports",
       "categoryId": "deportes_internacional",
       "name": "Win Sports",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Win%20Sports.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Win%20Sports2.png",
       "embedUrl": "https://streamtpcloud.com/global1.php?stream=winsports",
       "embeds": [
         "https://streamtpcloud.com/global1.php?stream=winsports",
@@ -794,7 +794,7 @@
       "id": "depint_liga_1_max",
       "categoryId": "deportes_internacional",
       "name": "Liga 1 Max",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Liga%201%20Max.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Liga%201%20Max2.png",
       "embedUrl": "https://welivesports.shop/embed/liga1max.php",
       "embeds": [
         "https://welivesports.shop/embed/liga1max.php",
@@ -939,7 +939,7 @@
       "id": "depint_bein_sports_n",
       "categoryId": "deportes_internacional",
       "name": "Bein Sports Ñ",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Bein%20Sports%20%C3%91.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Bein%20Sports%20%C3%912.png",
       "embedUrl": "https://gollibre.com/en-vivo-online/bein-%C3%B1/embed.php",
       "embeds": [
         "https://gollibre.com/en-vivo-online/bein-%C3%B1/embed.php",
@@ -1083,7 +1083,7 @@
       "id": "pys_star_channel",
       "categoryId": "peliculas_y_series",
       "name": "Star Channel",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel2.png",
       "embedUrl": "https://telefullhd.net/canales/star-channel/",
       "embeds": [
         "https://telefullhd.net/canales/star-channel/",
@@ -1114,7 +1114,7 @@
       "id": "pys_tnt",
       "categoryId": "peliculas_y_series",
       "name": "TNT",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20HD.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20HD2.png",
       "embedUrl": "https://telefullhd.net/canales/tnt/",
       "embeds": [
         "https://telefullhd.net/canales/tnt/",
@@ -1145,7 +1145,7 @@
       "id": "pys_amc",
       "categoryId": "peliculas_y_series",
       "name": "AMC",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/AMC.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/AMC2.png",
       "embedUrl": "https://telefullhd.net/canales/amc/",
       "embeds": [
         "https://telefullhd.net/canales/amc/",
@@ -1176,7 +1176,7 @@
       "id": "pys_warner_channel",
       "categoryId": "peliculas_y_series",
       "name": "Warner Channel",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Warner%20Channel.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Warner%20Channel2.png",
       "embedUrl": "https://telefullhd.net/canales/warner/",
       "embeds": [
         "https://telefullhd.net/canales/warner/",
@@ -1223,7 +1223,7 @@
       "id": "pys_sony_channel",
       "categoryId": "peliculas_y_series",
       "name": "Sony Channel",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Sony%20Channel.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Sony%20Channel2.png",
       "embedUrl": "https://telefullhd.net/canales/sony/",
       "embeds": [
         "https://telefullhd.net/canales/sony/",
@@ -1268,7 +1268,7 @@
       "id": "pys_tnt_series",
       "categoryId": "peliculas_y_series",
       "name": "TNT Series",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Series.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Series2.png",
       "embedUrl": "https://telefullhd.net/canales/tnt-series/",
       "embeds": [
         "https://telefullhd.net/canales/tnt-series/",
@@ -1284,7 +1284,7 @@
       "id": "pys_tnt_novelas",
       "categoryId": "peliculas_y_series",
       "name": "TNT Novelas",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Novelas%202.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Novelas%2022.png",
       "embedUrl": "https://telefullhd.net/canales/tbs/",
       "embeds": [
         "https://telefullhd.net/canales/tbs/",
@@ -1352,7 +1352,7 @@
       "id": "pys_golden",
       "categoryId": "peliculas_y_series",
       "name": "Golden",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Golden3.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Golden32.png",
       "embedUrl": "https://tvlibree.com/html/fl/?get=R29sZGVu",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=R29sZGVu",
@@ -1384,7 +1384,7 @@
       "id": "pack_hbo",
       "categoryId": "pack_premium",
       "name": "HBO",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO2.png",
       "embedUrl": "https://telefullhd.net/canales/hbo/",
       "embeds": [
         "https://telefullhd.net/canales/hbo/",
@@ -1455,7 +1455,7 @@
       "id": "pack_hbo_xtreme",
       "categoryId": "pack_premium",
       "name": "HBO Xtreme",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20xtreme.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20xtreme2.png",
       "embedUrl": "https://telefullhd.net/canales/hbo-xtreme/",
       "embeds": [
         "https://telefullhd.net/canales/hbo-xtreme/",
@@ -1469,7 +1469,7 @@
       "id": "pack_hbo_mundi",
       "categoryId": "pack_premium",
       "name": "HBO Mundi",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20Mundi.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20Mundi2.png",
       "embedUrl": "https://telefullhd.net/canales/hbo-mundi/",
       "embeds": [
         "https://telefullhd.net/canales/hbo-mundi/",
@@ -1483,7 +1483,7 @@
       "id": "pack_hbo_pop",
       "categoryId": "pack_premium",
       "name": "HBO Pop",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20pop.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20pop2.png",
       "embedUrl": "https://telefullhd.net/canales/hbo-pop/",
       "embeds": [
         "https://telefullhd.net/canales/hbo-pop/",
@@ -1577,7 +1577,7 @@
       "id": "inf_cartoon_network",
       "categoryId": "infantil",
       "name": "Cartoon Network",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/cartoon%20Network.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/cartoon%20Network2.png",
       "embedUrl": "https://telefullhd.net/canales/cartoon-network/",
       "embeds": [
         "https://telefullhd.net/canales/cartoon-network/",
@@ -1592,7 +1592,7 @@
       "id": "inf_discovery_kids",
       "categoryId": "infantil",
       "name": "Discovery Kids",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Discovery%20Kids.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Discovery%20Kids2.png",
       "embedUrl": "https://telefullhd.net/canales/discovery-kids/",
       "embeds": [
         "https://telefullhd.net/canales/discovery-kids/",
@@ -1607,7 +1607,7 @@
       "id": "inf_nickelodeon",
       "categoryId": "infantil",
       "name": "Nickelodeon",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Nick.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Nick2.png",
       "embedUrl": "https://telefullhd.net/canales/nick/",
       "embeds": [
         "https://telefullhd.net/canales/nick/",
@@ -1646,7 +1646,7 @@
       "id": "inf_dreamworks",
       "categoryId": "infantil",
       "name": "DreamWorks",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DreamWorks.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DreamWorks2.png",
       "embedUrl": "https://tvlibree.com/html/fl/?get=RHJlYW13b3Jrcw==",
       "embeds": [
         "https://tvlibree.com/html/fl/?get=RHJlYW13b3Jrcw=="
@@ -1670,7 +1670,7 @@
       "id": "inf_paka_paka",
       "categoryId": "infantil",
       "name": "Paka Paka",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Paka%20Paka.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Paka%20Paka2.png",
       "embedUrl": "https://telefullhd.net/canales/paka-paka/",
       "embeds": [
         "https://telefullhd.net/canales/paka-paka/",
@@ -1692,7 +1692,7 @@
        "id": "ent_mtv",
       "categoryId": "entretenimiento",
       "name": "Mtv",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/MTV.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/MTV2.png",
       "embeds": [
         "https://telefullhd.net/canales/mtv/",
         "https://telefullhd.net/canales/mtv/op2.php",
@@ -1720,7 +1720,7 @@
       "id": "ent_history_channel",
       "categoryId": "entretenimiento",
       "name": "History Channel",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/History.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/History2.png",
       "embeds": [
         "https://telefullhd.net/canales/history/",
         "https://telefullhd.net/canales/history/op2.php",
@@ -1733,7 +1733,7 @@
       "id": "ent_history_channel_2",
       "categoryId": "entretenimiento",
       "name": "History Channel 2",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/History%202.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/History%2022.png",
       "embeds": [
         "https://telefullhd.net/canales/history-2/",
         "https://tvlibree.com/html/fl/?get=SGlzdG9yeV8y",
@@ -1745,7 +1745,7 @@
       "id": "ent_discovery_channel",
       "categoryId": "entretenimiento",
       "name": "Discovery Channel",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Discovery.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Discovery2.png",
       "embeds": [
         "https://tele-libre.store/en-vivo/discovery-channel/embed.php",
         "https://tele-libre.store/en-vivo/discovery-channel/embed2.php",
@@ -1758,7 +1758,7 @@
       "id": "ent_discovery_tlc",
       "categoryId": "entretenimiento",
       "name": "Discovery TLC",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TLC%20Discovery.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TLC%20Discovery2.png",
       "embeds": [
         "https://telefullhd.net/canales/discovery-tlc/",
         "https://telefullhd.net/canales/discovery-tlc/op2.php",
@@ -1783,7 +1783,7 @@
       "id": "ent_animal_planet",
       "categoryId": "entretenimiento",
       "name": "Animal Planet",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Animal%20Planet.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Animal%20Planet2.png",
       "embeds": [
         "https://telefullhd.net/canales/animal-planet/",
         "https://telefullhd.net/canales/animal-planet/op2.php",
@@ -1809,7 +1809,7 @@
       "id": "ent_las_estrellas",
       "categoryId": "entretenimiento",
       "name": "Las Estrellas",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Las%20Estrellas.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Las%20Estrellas2.png",
       "embeds": [
         "https://telefullhd.net/canales/estrellas/",
         "https://tvlibree.com/html/fl/?get=Q2FuYWxfZGVfbGFzX2VzdHJlbGxhcw=="
@@ -1822,7 +1822,7 @@
       "id": "ent_telemundo",
       "categoryId": "entretenimiento",
       "name": "Telemundo",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telemundo.png",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telemundo2.png",
       "embeds": [
         "https://telefullhd.net/canales/telemundo/op3.php",
         "https://telefullhd.net/canales/telemundo/",
