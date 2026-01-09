@@ -1549,8 +1549,9 @@
       "categoryId": "infantil",
       "name": "Disney Channel",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Channel.png",
-      "embedUrl": "https://telefullhd.net/canales/disney-channel/",
+      "embedUrl": "https://nog-live1-ott.izzigo.tv/2/out/u/dash/DISNEYCHANNELHD/default.mpd/36 ",
       "embeds": [
+        "https://nog-live1-ott.izzigo.tv/2/out/u/dash/DISNEYCHANNELHD/default.mpd/36",
         "https://telefullhd.net/canales/disney-channel/",
         "https://telefullhd.net/canales/disney-channel/op2.php",
         "https://tele-libre.store/en-vivo/disney-channel/embed.php",
