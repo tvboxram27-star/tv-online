@@ -577,6 +577,17 @@
       ]
     },
     {
+        "id": "depint_Flow_Sports",
+      "categoryId": "deportes_internacional",
+      "name": "Flow Sports",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Flow%20Sports%20x.png",
+      "embedUrl": "https://tvlibree.com/eventos/sin-chat/?r=L2h0bWwvZmwvP2dldD1SWFpsYm5SdmN6RklSQQ==",
+      "embeds": [
+        "https://tvlibree.com/eventos/sin-chat/?r=L2h0bWwvZmwvP2dldD1SWFpsYm5SdmN6RklSQQ=="
+      
+        ]
+    },
+    {        
       "id": "depint_fox_sports_1_mexico",
       "categoryId": "deportes_internacional",
       "name": "Fox Sports 1 Mexico",
