@@ -684,71 +684,6 @@
       ]
     },
     {
-      "id": "depint_dazn_formula_1",
-      "categoryId": "deportes_internacional",
-      "name": "DAZN Formula 1",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Dazn%20F1.png",
-      "embedUrl": "https://gollibre.com/en-vivo-online/dazn-formula-1-es/embed.php",
-      "embeds": [
-        "https://gollibre.com/en-vivo-online/dazn-formula-1-es/embed.php",
-        "https://gollibre.com/en-vivo-online/dazn-formula-1-es/embed3.php",
-        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/daznf1.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
-      ]
-    },
-    {
-      "id": "depint_dazn_1",
-      "categoryId": "deportes_internacional",
-      "name": "DAZN 1",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Dazn%201.png",
-      "embedUrl": "https://gollibre.com/en-vivo-online/dazn-1-es/embed.php",
-      "embeds": [
-        "https://gollibre.com/en-vivo-online/dazn-1-es/embed.php"
-      ]
-    },
-    {
-      "id": "depint_dazn_2",
-      "categoryId": "deportes_internacional",
-      "name": "DAZN 2",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Dazn%202.png",
-      "embedUrl": "https://gollibre.com/en-vivo-online/dazn-2-es/embed.php",
-      "embeds": [
-        "https://gollibre.com/en-vivo-online/dazn-2-es/embed.php",
-        "https://gollibre.com/en-vivo-online/dazn-2-es/embed3.php"
-      ]
-    },
-    {
-      "id": "depint_dazn_3",
-      "categoryId": "deportes_internacional",
-      "name": "DAZN 3",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Dazn%203.png",
-      "embedUrl": "https://gollibre.com/en-vivo-online/dazn-3-es/embed.php",
-      "embeds": [
-        "https://gollibre.com/en-vivo-online/dazn-3-es/embed.php"
-      ]
-    },
-    {
-      "id": "depint_dazn_4",
-      "categoryId": "deportes_internacional",
-      "name": "DAZN 4",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Dazn%204.png",
-      "embedUrl": "https://gollibre.com/en-vivo-online/dazn-4-es/embed.php",
-      "embeds": [
-        "https://gollibre.com/en-vivo-online/dazn-4-es/embed.php"
-      ]
-    },
-    {
-      "id": "depint_dazn_laliga",
-      "categoryId": "deportes_internacional",
-      "name": "DAZN LaLiga",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Dazn%20La%20Liga.png",
-      "embedUrl": "https://gollibre.com/en-vivo-online/dazn-laliga/embed.php",
-      "embeds": [
-        "https://gollibre.com/en-vivo-online/dazn-laliga/embed.php",
-        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/daznlaliga.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
-        "https://gollibre.com/en-vivo-online/dazn-laliga/embed3.php"
-      ]
-    },
-    {
       "id": "depint_espn_deportes",
       "categoryId": "deportes_internacional",
       "name": "ESPN Deportes",
@@ -759,7 +694,9 @@
         "https://welivesports.shop/embed/espndeportes.php",
         "https://rereyano.ru/player/2/71",
         "https://gollibre.com/en-vivo-online/espn-deportes/embed.php",
-        "https://gollibre.com/en-vivo-online/espn-deportes/embed2.php"
+        "https://gollibre.com/en-vivo-online/espn-deportes/embed2.php",
+        "https://telefullhd.net/en-vivo-online/espn-deportes/embed.php",
+        "https://telefullhd.net/en-vivo-online/espn-deportes/embed3.php"
       ]
     },
     {
@@ -776,6 +713,8 @@
         "https://streamtpcloud.com/global1.php?stream=winplus2",
         "https://elcanaldeportivo.com/winmas.php",
         "https://rereyano.ru/player/3/81",
+        "https://telefullhd.net/en-vivo-online/win-sports-premium/embed.php",
+        "https://telefullhd.net/en-vivo-online/win-sports-premium/embed3.php",
         { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/winsportsplus.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
@@ -867,41 +806,6 @@
       ]
     },
     {
-      "id": "depint_ecdf",
-      "categoryId": "deportes_internacional",
-      "name": "ECDF",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ECDF.png",
-      "embedUrl": "https://gollibre.com/en-vivo-online/ecdf/embed.php",
-      "embeds": [
-        "https://gollibre.com/en-vivo-online/ecdf/embed.php",
-        "https://gollibre.com/en-vivo-online/ecdf/embed2.php"
-      ]
-    },
-    {
-      "id": "depint_eurosport_1",
-      "categoryId": "deportes_internacional",
-      "name": "Eurosport 1",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Euro%20sport.png",
-      "embedUrl": "https://www.ontve.click/player/bypass.php?url=Ly9taXp0di50b3AvdG90YWwvc3RyZWFtLTUyNC5waHA=",
-      "embeds": [
-        { "html": "<iframe src=\"//www.ontve.click/player/bypass.php?url=Ly9taXp0di50b3AvdG90YWwvc3RyZWFtLTUyNC5waHA=\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" },
-        "https://gollibre.com/en-vivo-online/eurosport-1-es/embed.php",
-        "https://gollibre.com/en-vivo-online/eurosport-1-es/embed2.php"
-      ]
-    },
-    {
-      "id": "depint_eurosport_2",
-      "categoryId": "deportes_internacional",
-      "name": "Eurosport 2",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Euro%20sport%202.png",
-      "embedUrl": "https://www.ontve.click/player/bypass.php?url=Ly9taXp0di50b3AvdG90YWwvc3RyZWFtLTUyNS5waHA=",
-      "embeds": [
-        { "html": "<iframe src=\"//www.ontve.click/player/bypass.php?url=Ly9taXp0di50b3AvdG90YWwvc3RyZWFtLTUyNS5waHA=\" id=\"capa\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"encrypted-media\"></iframe>" },
-        "https://gollibre.com/en-vivo-online/eurosport-2-es/embed.php",
-        "https://gollibre.com/en-vivo-online/eurosport-2-es/embed2.php"
-      ]
-    },
-    {
       "id": "depint_tnt_sports_chile",
       "categoryId": "deportes_internacional",
       "name": "TNT Sports Chile",
@@ -945,6 +849,8 @@
         "https://gollibre.com/en-vivo-online/bein-%C3%B1/embed.php",
         "https://gollibre.com/en-vivo-online/bein-%C3%B1/embed2.php",
         "https://gollibre.com/en-vivo-online/bein-%C3%B1/embed3.php",
+        "https://telefullhd.net/en-vivo-online/bein-%C3%B1/embed.php",
+        "https://telefullhd.net/en-vivo-online/bein-%C3%B1/embed3.php",
         { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/beinsportsxtra.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
       ]
     },
@@ -1084,11 +990,11 @@
       "categoryId": "peliculas_y_series",
       "name": "Star Channel",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel2.png",
-      "embedUrl": "https://telefullhd.net/canales/star-channel/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=Rk9YSEQ=",
       "embeds": [
-        "https://telefullhd.net/canales/star-channel/",
-        "https://telefullhd.net/canales/star-channel/op2.php",
         "https://tvlibree.com/html/fl/?get=Rk9YSEQ=",
+        "https://telefullhd.net/canales/star-channel/",
+        "https://telefullhd.net/canales/star-channel/op2.php",        
         "https://tele-libre.store/en-vivo/star-channel/embed.php",
         "https://tele-libre.store/en-vivo/star-channel/embed2.php",
         { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/starchannel.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
@@ -1099,11 +1005,11 @@
       "categoryId": "peliculas_y_series",
       "name": "Cinecanal",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/CineCanal.png",
-      "embedUrl": "https://telefullhd.net/canales/cinecanal/",
+      "embedUrl": "https://dots.bestleague.world/cvatt.html?get=Q2luZWNhbmFsSEQ=&lang=1",
       "embeds": [
+         "https://dots.bestleague.world/cvatt.html?get=Q2luZWNhbmFsSEQ=&lang=1",
         "https://telefullhd.net/canales/cinecanal/",
         "https://telefullhd.net/canales/cinecanal/op2.php",
-        "https://dots.bestleague.world/cvatt.html?get=Q2luZWNhbmFsSEQ=&lang=1",
         "https://tvlibree.com/html/fl/?get=Q2luZWNhbmFsSEQ=",
         "https://tele-libre.store/en-vivo/cinecanal/embed.php",
         "https://tele-libre.store/en-vivo/cinecanal/embed2.php",
@@ -1115,11 +1021,11 @@
       "categoryId": "peliculas_y_series",
       "name": "TNT",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20HD2.png",
-      "embedUrl": "https://telefullhd.net/canales/tnt/",
+      "embedUrl": "https://dots.bestleague.world/cvatt.html?get=VE5UX0hEX0FyZw==&lang=1",
       "embeds": [
-        "https://telefullhd.net/canales/tnt/",
-        "https://telefullhd.net/canales/tnt/op2.php",
         "https://dots.bestleague.world/cvatt.html?get=VE5UX0hEX0FyZw==&lang=1",
+        "https://telefullhd.net/canales/tnt/",
+        "https://telefullhd.net/canales/tnt/op2.php",        
         { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/tnt.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" },
         "https://tvlibree.com/html/fl/?get=VE5UX0hEX0FyZw==",
         "https://tele-libre.store/en-vivo/tnt/embed.php",
@@ -1131,11 +1037,11 @@
       "categoryId": "peliculas_y_series",
       "name": "Space",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Space.png",
-      "embedUrl": "https://telefullhd.net/canales/space/",
+      "embedUrl": "https://dots.bestleague.world/cvatt.html?get=U3BhY2U=&lang=1",
       "embeds": [
+         "https://dots.bestleague.world/cvatt.html?get=U3BhY2U=&lang=1",
         "https://telefullhd.net/canales/space/",
-        "https://telefullhd.net/canales/space/op2.php",
-        "https://dots.bestleague.world/cvatt.html?get=U3BhY2U=&lang=1",
+        "https://telefullhd.net/canales/space/op2.php",       
         "https://tvlibree.com/html/fl/?get=U3BhY2U=",
         "https://tele-libre.store/en-vivo/space/embed.php",
         "https://tele-libre.store/en-vivo/space/embed2.php"
@@ -1146,11 +1052,11 @@
       "categoryId": "peliculas_y_series",
       "name": "AMC",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/AMC2.png",
-      "embedUrl": "https://telefullhd.net/canales/amc/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=QU1D",
       "embeds": [
-        "https://telefullhd.net/canales/amc/",
-        "https://telefullhd.net/canales/amc/op2.php",
         "https://tvlibree.com/html/fl/?get=QU1D",
+        "https://telefullhd.net/canales/amc/",
+        "https://telefullhd.net/canales/amc/op2.php",        
         "https://tele-libre.store/en-vivo/amc/embed.php",
         "https://tele-libre.store/en-vivo/amc/embed2.php",
         { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/amc.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
@@ -1177,11 +1083,11 @@
       "categoryId": "peliculas_y_series",
       "name": "Warner Channel",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Warner%20Channel2.png",
-      "embedUrl": "https://telefullhd.net/canales/warner/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=V2FybmVySEQ=",
       "embeds": [
-        "https://telefullhd.net/canales/warner/",
-        "https://telefullhd.net/canales/warner/op2.php",
         "https://tvlibree.com/html/fl/?get=V2FybmVySEQ=",
+        "https://telefullhd.net/canales/warner/",
+        "https://telefullhd.net/canales/warner/op2.php",        
         "https://tele-libre.store/en-vivo/warner/embed.php",
         "https://tele-libre.store/en-vivo/warner/embed2.php",
         { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/warnerchannel.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
@@ -1192,11 +1098,11 @@
       "categoryId": "peliculas_y_series",
       "name": "Cinemax",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cinemax.png",
-      "embedUrl": "https://telefullhd.net/canales/cinemax/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=Q2luZW1heA==",
       "embeds": [
-        "https://telefullhd.net/canales/cinemax/",
-        "https://telefullhd.net/canales/cinemax/op2.php",
         "https://tvlibree.com/html/fl/?get=Q2luZW1heA==",
+        "https://telefullhd.net/canales/cinemax/",
+        "https://telefullhd.net/canales/cinemax/op2.php",        
         "https://dots.bestleague.world/cvatt.html?get=Q2luZW1heA==",
         "https://tele-libre.store/en-vivo/cinemax/embed.php",
         "https://tele-libre.store/en-vivo/cinemax/embed2.php",
@@ -1208,12 +1114,12 @@
       "categoryId": "peliculas_y_series",
       "name": "AXN",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/AXN.png",
-      "embedUrl": "https://telefullhd.net/canales/axn/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=QVhOSEQ=",
       "embeds": [
+        "https://tvlibree.com/html/fl/?get=QVhOSEQ=",
         "https://telefullhd.net/canales/axn/",
         "https://telefullhd.net/canales/axn/op2.php",
-        "https://dots.bestleague.world/cvatt.html?get=QVhOSEQ=",
-        "https://tvlibree.com/html/fl/?get=QVhOSEQ=",
+        "https://dots.bestleague.world/cvatt.html?get=QVhOSEQ=",        
         "https://tele-libre.store/en-vivo/axn/embed.php",
         "https://tele-libre.store/en-vivo/axn/embed2.php",
         { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/axn.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
@@ -1224,11 +1130,11 @@
       "categoryId": "peliculas_y_series",
       "name": "Sony Channel",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Sony%20Channel2.png",
-      "embedUrl": "https://telefullhd.net/canales/sony/",
+      "embedUrl":  "https://tvlibree.com/html/fl/?get=U29ueUhE",
       "embeds": [
+         "https://tvlibree.com/html/fl/?get=U29ueUhE",
         "https://telefullhd.net/canales/sony/",
-        "https://telefullhd.net/canales/sony/op2.php",
-        "https://tvlibree.com/html/fl/?get=U29ueUhE",
+        "https://telefullhd.net/canales/sony/op2.php",       
         "https://dots.bestleague.world/cvatt.html?get=U29ueUhE&lang=1",
         "https://tele-libre.store/en-vivo/sony-channel/embed.php",
         "https://tele-libre.store/en-vivo/sony-channel/embed2.php",
@@ -1236,29 +1142,15 @@
       ]
     },
     {
-      "id": "pys_paramount_network",
-      "categoryId": "peliculas_y_series",
-      "name": "Paramount Network",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Paramount.png",
-      "embedUrl": "https://telefullhd.net/canales/paramount/",
-      "embeds": [
-        "https://telefullhd.net/canales/paramount/",
-        "https://telefullhd.net/canales/paramount/op2.php",
-        "https://tele-libre.store/en-vivo/paramount-network/embed.php",
-        "https://tele-libre.store/en-vivo/paramount-network/embed2.php",
-        { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/paramountchannel.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
-      ]
-    },
-    {
       "id": "pys_studio_universal",
       "categoryId": "peliculas_y_series",
       "name": "Studio Universal",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Studio%20Universal.png",
-      "embedUrl": "https://telefullhd.net/canales/studio-universal/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=U3R1ZGlvX1VuaXZlcnNhbA==",
       "embeds": [
-        "https://telefullhd.net/canales/studio-universal/",
-        "https://telefullhd.net/canales/studio-universal/op2.php",
         "https://tvlibree.com/html/fl/?get=U3R1ZGlvX1VuaXZlcnNhbA==",
+        "https://telefullhd.net/canales/studio-universal/",
+        "https://telefullhd.net/canales/studio-universal/op2.php",        
         "https://tele-libre.store/en-vivo/studio-universal/embed.php",
         "https://tele-libre.store/en-vivo/studio-universal/embed2.php",
         "https://dots.bestleague.world/cvatt.html?get=U3R1ZGlvX1VuaXZlcnNhbA==&lang=1"
@@ -1269,11 +1161,11 @@
       "categoryId": "peliculas_y_series",
       "name": "TNT Series",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Series2.png",
-      "embedUrl": "https://telefullhd.net/canales/tnt-series/",
+      "embedUrl": "https://dots.bestleague.world/cvatt.html?get=VE5UU2VyaWVz",
       "embeds": [
-        "https://telefullhd.net/canales/tnt-series/",
-        "https://telefullhd.net/canales/tnt-series/op2.php",
         "https://dots.bestleague.world/cvatt.html?get=VE5UU2VyaWVz",
+        "https://telefullhd.net/canales/tnt-series/",
+        "https://telefullhd.net/canales/tnt-series/op2.php",        
         "https://tvlibree.com/html/fl/?get=VE5UU2VyaWVz",
         "https://tele-libre.store/en-vivo/tnt-series/embed.php",
         "https://tele-libre.store/en-vivo/tnt-series/embed2.php",
@@ -1285,11 +1177,11 @@
       "categoryId": "peliculas_y_series",
       "name": "TNT Novelas",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Novelas%2022.png",
-      "embedUrl": "https://telefullhd.net/canales/tbs/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=VEJT",
       "embeds": [
-        "https://telefullhd.net/canales/tbs/",
-        "https://telefullhd.net/canales/tbs/op2.php",
         "https://tvlibree.com/html/fl/?get=VEJT",
+        "https://telefullhd.net/canales/tbs/",
+        "https://telefullhd.net/canales/tbs/op2.php",        
         "https://tele-libre.store/en-vivo/tnt-novelas/embed.php",
         "https://tele-libre.store/en-vivo/tnt-novelas/embed2.php",
         { "html": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/tntnovelas.html\" width=\"100%\" height=\"100%\"  scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>" }
@@ -1300,11 +1192,11 @@
       "categoryId": "peliculas_y_series",
       "name": "TCM",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TCM.png",
-      "embedUrl": "https://telefullhd.net/canales/tcm/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=VENN",
       "embeds": [
-        "https://telefullhd.net/canales/tcm/",
-        "https://telefullhd.net/canales/tcm/op2.php",
         "https://tvlibree.com/html/fl/?get=VENN",
+        "https://telefullhd.net/canales/tcm/",
+        "https://telefullhd.net/canales/tcm/op2.php",        
         "https://tele-libre.store/en-vivo/tcm/embed.php",
         "https://tele-libre.store/en-vivo/tcm/embed2.php"
       ]
@@ -1385,11 +1277,11 @@
       "categoryId": "pack_premium",
       "name": "HBO",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO2.png",
-      "embedUrl": "https://telefullhd.net/canales/hbo/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=SEJPSEQ=",
       "embeds": [
-        "https://telefullhd.net/canales/hbo/",
-        "https://telefullhd.net/canales/hbo/op2.php",
         "https://tvlibree.com/html/fl/?get=SEJPSEQ=",
+        "https://telefullhd.net/canales/hbo/op2.php",
+        "https://telefullhd.net/canales/hbo/",        
         "https://tele-libre.store/en-vivo/hbo/embed.php",
         "https://tele-libre.store/en-vivo/hbo/embed2.php"
       ]
@@ -1399,8 +1291,9 @@
       "categoryId": "pack_premium",
       "name": "HBO 2",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%202.png",
-      "embedUrl": "https://telefullhd.net/canales/hbo2/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=SEJPXzI=",
       "embeds": [
+        "https://tvlibree.com/html/fl/?get=SEJPXzI=",
         "https://telefullhd.net/canales/hbo2/",
         "https://telefullhd.net/canales/hbo2/op2.php",
         "https://tele-libre.store/en-vivo/hbo-2/embed2.php",
@@ -1413,8 +1306,9 @@
       "categoryId": "pack_premium",
       "name": "HBO Plus",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20Plus.png",
-      "embedUrl": "https://telefullhd.net/canales/hbo-plus/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=SEJPX1BsdXM=",
       "embeds": [
+        "https://tvlibree.com/html/fl/?get=SEJPX1BsdXM=",
         "https://telefullhd.net/canales/hbo-plus/",
         "https://tele-libre.store/en-vivo/hbo-plus/embed2.php",
         "https://tele-libre.store/en-vivo/hbo-plus/embed.php",
@@ -1427,8 +1321,9 @@
       "categoryId": "pack_premium",
       "name": "HBO Family",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20Family.png",
-      "embedUrl": "https://telefullhd.net/canales/hbo-family/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=SEJPX0ZhbWlseQ==",
       "embeds": [
+        "https://tvlibree.com/html/fl/?get=SEJPX0ZhbWlseQ==",
         "https://telefullhd.net/canales/hbo-family/",
         "https://telefullhd.net/canales/hbo-family/op2.php",
         "https://tele-libre.store/en-vivo/hbo-family/embed.php",
@@ -1442,8 +1337,9 @@
       "categoryId": "pack_premium",
       "name": "HBO Signature",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20Signature.png",
-      "embedUrl": "https://telefullhd.net/canales/hbo-signature/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=SEJPX1NpZ25hdHVyZQ==",
       "embeds": [
+        "https://tvlibree.com/html/fl/?get=SEJPX1NpZ25hdHVyZQ==",
         "https://telefullhd.net/canales/hbo-signature/",
         "https://telefullhd.net/canales/hbo-signature/op2.php",
         "https://tele-libre.store/en-vivo/hbo-signature/embed.php",
@@ -1456,8 +1352,9 @@
       "categoryId": "pack_premium",
       "name": "HBO Xtreme",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20xtreme2.png",
-      "embedUrl": "https://telefullhd.net/canales/hbo-xtreme/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=SEJPX0V4dHJlbWU=",
       "embeds": [
+        "https://tvlibree.com/html/fl/?get=SEJPX0V4dHJlbWU=",
         "https://telefullhd.net/canales/hbo-xtreme/",
         "https://telefullhd.net/canales/hbo-xtreme/op2.php",
         "https://tele-libre.store/en-vivo/hbo-xtreme/embed.php",
@@ -1470,8 +1367,9 @@
       "categoryId": "pack_premium",
       "name": "HBO Mundi",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20Mundi2.png",
-      "embedUrl": "https://telefullhd.net/canales/hbo-mundi/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=SEJPX011bmRp",
       "embeds": [
+        "https://tvlibree.com/html/fl/?get=SEJPX011bmRp",
         "https://telefullhd.net/canales/hbo-mundi/",
         "https://telefullhd.net/canales/hbo-mundi/op2.php",
         "https://tele-libre.store/en-vivo/hbo-mundi/embed.php",
@@ -1484,8 +1382,9 @@
       "categoryId": "pack_premium",
       "name": "HBO Pop",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/HBO%20pop2.png",
-      "embedUrl": "https://telefullhd.net/canales/hbo-pop/",
+      "embedUrl": "https://tvlibree.com/html/fl/?get=SEJPX1BPUA==",
       "embeds": [
+        "https://tvlibree.com/html/fl/?get=SEJPX1BPUA==",
         "https://telefullhd.net/canales/hbo-pop/",
         "https://telefullhd.net/canales/hbo-pop/op2.php",
         "https://tele-libre.store/en-vivo/hbo-pop/embed.php",
