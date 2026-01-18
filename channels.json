@@ -342,6 +342,19 @@
       ]
     },
     {
+       "id": "dep_disney_eventos",
+      "categoryId": "deportes",
+      "name": "Disney Eventos",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Plus.png",
+      "embedUrl": "https://tvlibree.com/eventos/?r=aHR0cHM6Ly9zdHJlYW10cGNsb3VkLmNvbS9nbG9iYWwxLnBocD9zdHJlYW09ZGlzbmV5Mg==",
+      "embeds": [
+        "https://tvlibree.com/eventos/?r=aHR0cHM6Ly9zdHJlYW10cGNsb3VkLmNvbS9nbG9iYWwxLnBocD9zdHJlYW09ZGlzbmV5Mg==",
+        "https://gollibre.com/en-vivo-online/?r=aHR0cHM6Ly9zdHJlYW10cGNsb3VkLmNvbS9nbG9iYWwxLnBocD9zdHJlYW09ZGlzbmV5NQ==",
+        "https://pelotalibretv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU=",
+        "https://streamtpcloud.com/global1.php?stream=disney5"   
+      ]
+    },
+    {
       "id": "dep_dsports",
       "categoryId": "deportes",
       "name": "DSports",
