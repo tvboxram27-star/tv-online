@@ -35,6 +35,7 @@
       "embeds": [
         "https://telefullhd.net/canales/telefe/",
         "https://tvlibree.com/html/fl/?get=Q2FuYWxfOF9DQkE",
+        "https://mitelefe.com/telefe-en-vivo",
         "https://tvlibree.com/html/fl/?get=Q2FuYWxfNV9Sb3Nhcmlv",
         "https://tvlibree.com/en-vivo/telefe/hl.html",
         "https://tvlibree.com/html/fl/?get=VGVsZWZlX1NhbHRh",
@@ -65,6 +66,7 @@
       "embeds": [
         "https://telefullhd.net/canales/tn/",
         "https://www.youtube.com/c/todonoticias/live",
+        "https://tn.com.ar/envivo/24hs/",
         "https://telefullhd.net/canales/tn/op2.php",
         "https://tvlibree.com/html/fl/?get=VG9kb05vdGljaWFz",
         "https://dots.bestleague.world/cvatt.html?get=VG9kb05vdGljaWFz",
@@ -154,6 +156,7 @@
       "embedUrl": "https://telefullhd.net/canales/c5n/",
       "embeds": [
         "https://telefullhd.net/canales/c5n/",
+        "https://www.tv-arg.net/2014/07/c5n-en-vivo.html",
         "https://telefullhd.net/canales/c5n/op2.php",
         "https://tvlibree.com/html/fl/?get=QzVO",
         "https://tele-libre.store/en-vivo/c5n/embed.php",
@@ -169,6 +172,7 @@
       "embeds": [
         "https://telefullhd.net/canales/a24/",
         "https://telefullhd.net/canales/a24/op2.php",
+        "https://www.tv-arg.net/2014/06/a24.html",
         "https://tvlibree.com/html/fl/?get=QW1lcmljYTI0",
         "https://dots.bestleague.world/cvatt.html?get=QW1lcmljYTI0",
         "https://tele-libre.store/en-vivo/a24/embed.php",
@@ -275,6 +279,16 @@
       ]
     },
 
+    {
+       "id": "dep_Eventos",
+      "categoryId": "deportes",
+      "name": "Eventos",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Eventos2.png",
+      "embedUrl": "https://streamtp10.com/eventos.html",
+      "embeds": [
+        "https://streamtp10.com/eventos.html"
+      ]
+    },
     {
       "id": "dep_espn_premium",
       "categoryId": "deportes",
