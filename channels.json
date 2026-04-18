@@ -4,6 +4,10 @@
     {
       "id": "argentina",
       "title": "Argentina"
+    },
+    {
+      "id": "eventos",
+      "title": "Eventos"
     }
   ],
   "channels": [
@@ -48,13 +52,21 @@
       "embedHtml": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><style>html,body{margin:0;padding:0;background:#000;width:100%;height:100%;overflow:hidden;}iframe{border:0;width:100vw;height:100vh;}</style></head><body><iframe src=\"https://www.youtube.com/embed/DVZ2rJQb_0g?autoplay=1&playsinline=1&fs=1&rel=0&modestbranding=1\" title=\"La Nacion en vivo\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></body></html>"
     },
     {
+      "id": "ar_c5n",
+      "categoryId": "argentina",
+      "name": "C5N",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/C5N.png",
+      "embedUrl": "about:blank",
+      "embedHtml": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><style>html,body{margin:0;padding:0;background:#000;width:100%;height:100%;overflow:hidden;}iframe{border:0;width:100vw;height:100vh;}</style></head><body><iframe src=\"https://www.youtube.com/embed/SF06Qy1Ct6Y?autoplay=1&playsinline=1&fs=1&rel=0&modestbranding=1\" title=\"C5N en vivo\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></body></html>"
+    },
+    {
       "id": "ar_telefe",
       "categoryId": "argentina",
       "name": "Telefe",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telefe.png",
-      "embedUrl": "https://mitelefe.com/",
+      "embedUrl": "https://mitelefe.com/telefe-en-vivo",
       "embeds": [
-        "https://mitelefe.com/"
+        "https://mitelefe.com/telefe-en-vivo"
       ]
     },
     {
@@ -75,6 +87,16 @@
       "embedUrl": "https://www.livehdtv.com/el-trece/",
       "embeds": [
         "https://www.livehdtv.com/el-trece/"
+      ]
+    },
+    {
+      "id": "ar_eventos",
+      "categoryId": "eventos",
+      "name": "Eventos",
+      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Eventos.png",
+      "embedUrl": "https://streamtpnew.com/eventos.html",
+      "embeds": [
+        "https://streamtpnew.com/eventos.html"
       ]
     }
   ]
