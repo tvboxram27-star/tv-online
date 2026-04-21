@@ -25,7 +25,7 @@
       "name": "Cronica Tv",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cronica.png",
       "embedUrl": "about:blank",
-      "embedHtml": "https://famelack.com/tv/ar/IKwTslDp6GIv1l"
+      "embedHtml": "https://famelack.com/tv/ar/0mvjkeLc7VCHKV"
     },
     {
       "id": "ar_a24",
@@ -34,6 +34,7 @@
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A242.png",
       "embedUrl": "about:blank",
       "embedHtml": "https://famelack.com/tv/ar/Wa2wvWwVF98vcA"
+    },
     {
       "id": "ar_canal_26",
       "categoryId": "argentina",
@@ -103,9 +104,9 @@
       "categoryId": "argentina",
       "name": "Star Channel",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel.png",
-      "embedUrl": "https://embed.ksdjugfsddeports.com/embed2/starchannel.html",
+      "embedUrl": "https://famelack.com/tv/ar/IKwTslDp6GIv1l",
       "embeds": [
-        "https://embed.ksdjugfsddeports.com/embed2/starchannel.html"
+        "https://famelack.com/tv/ar/IKwTslDp6GIv1l"
       ]
     },
     {
