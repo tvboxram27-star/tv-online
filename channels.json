@@ -41,7 +41,7 @@
       "name": "Canal 26",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Canal%2026.png",
       "embedUrl": "about:blank",
-      "embedHtml": "https://famelack.com/tv/ar/IKwTslDp6GIv1l"
+      "embedHtml": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
     },
     {
       "id": "ar_la_nacion",
@@ -94,9 +94,9 @@
       "categoryId": "argentina",
       "name": "ESPN",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
-      "embedUrl": "https://embed.ksdjugfsddeports.com/embed2/espnar.html",
+      "embedUrl": "https://tv247us.vip/embed/espn-argentina/",
       "embeds": [
-        "https://embed.ksdjugfsddeports.com/embed2/espnar.html"
+        "https://tv247us.vip/embed/espn-argentina/"
       ]
     },
     {
