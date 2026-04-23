@@ -17,7 +17,7 @@
       "name": "TN",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TN.png",
       "embedUrl": "about:blank",
-      "embedHtml": "https://www.teleonline.tv/canal/todo-noticias/"
+      "embedHtml": "https://www.youtube.com/watch?v=cb12KmMMDJA"
     },
     {
       "id": "ar_cronica_tv",
@@ -25,7 +25,7 @@
       "name": "Cronica Tv",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cronica.png",
       "embedUrl": "about:blank",
-      "embedHtml": "https://famelack.com/tv/ar/0mvjkeLc7VCHKV"
+      "embedHtml": "https://www.youtube.com/watch?v=JC7f3EUDaqw"
     },
     {
       "id": "ar_a24",
@@ -33,7 +33,7 @@
       "name": "A24",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A242.png",
       "embedUrl": "about:blank",
-      "embedHtml": "https://www.teleonline.tv/canal/america-24/"
+      "embedHtml": "https://www.youtube.com/watch?v=ArKbAx1K-2U"
     },
     {
       "id": "ar_canal_26",
@@ -49,7 +49,7 @@
       "name": "La Nacion",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/La%20Nacion.png",
       "embedUrl": "about:blank",
-      "embedHtml": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><style>html,body{margin:0;padding:0;background:#000;width:100%;height:100%;overflow:hidden;}iframe{border:0;width:100vw;height:100vh;}</style></head><body><iframe src=\"https://www.youtube.com/embed/DVZ2rJQb_0g?autoplay=1&playsinline=1&fs=1&rel=0&modestbranding=1\" title=\"La Nacion en vivo\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></body></html>"
+      "embedHtml": "https://www.youtube.com/watch?v=DVZ2rJQb_0g"
     },
     {
       "id": "ar_c5n",
@@ -57,7 +57,7 @@
       "name": "C5N",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/C5N.png",
       "embedUrl": "about:blank",
-      "embedHtml": "<!doctype html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><style>html,body{margin:0;padding:0;background:#000;width:100%;height:100%;overflow:hidden;}iframe{border:0;width:100vw;height:100vh;}</style></head><body><iframe src=\"https://www.youtube.com/embed/SF06Qy1Ct6Y?autoplay=1&playsinline=1&fs=1&rel=0&modestbranding=1\" title=\"C5N en vivo\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></body></html>"
+      "embedHtml": "https://www.youtube.com/watch?v=SF06Qy1Ct6Y"
     },
     {
       "id": "ar_telefe",
@@ -94,9 +94,9 @@
       "categoryId": "argentina",
       "name": "ESPN",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
-      "embedUrl": "https://embed.ksdjugfsddeports.com/embed2/espnar.html",
+      "embedUrl": "<iframe src="https://tv247us.vip/embed/espn-argentina/" width="100%" height="500" frameborder="0" allowfullscreen></iframe>",
       "embeds": [
-        "https://embed.ksdjugfsddeports.com/embed2/espnar.html"
+        "<iframe src="https://tv247us.vip/embed/espn-argentina/" width="100%" height="500" frameborder="0" allowfullscreen></iframe>"
       ]
     },
     {
