@@ -16,48 +16,42 @@
       "categoryId": "argentina",
       "name": "TN",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TN.png",
-      "embedUrl": "about:blank",
-      "embedHtml": "https://www.youtube.com/watch?v=cb12KmMMDJA"
+      "embedUrl": "https://www.youtube.com/embed/cb12KmMMDJA?autoplay=1&playsinline=1&controls=1&fs=1&rel=0&modestbranding=1"
     },
     {
       "id": "ar_cronica_tv",
       "categoryId": "argentina",
       "name": "Cronica Tv",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cronica.png",
-      "embedUrl": "about:blank",
-      "embedHtml": "https://www.youtube.com/watch?v=JC7f3EUDaqw"
+      "embedUrl": "https://www.youtube.com/embed/JC7f3EUDaqw?autoplay=1&playsinline=1&controls=1&fs=1&rel=0&modestbranding=1"
     },
     {
       "id": "ar_a24",
       "categoryId": "argentina",
       "name": "A24",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A242.png",
-      "embedUrl": "about:blank",
-      "embedHtml": "https://www.youtube.com/watch?v=ArKbAx1K-2U"
+      "embedUrl": "https://www.youtube.com/embed/ArKbAx1K-2U?autoplay=1&playsinline=1&controls=1&fs=1&rel=0&modestbranding=1"
     },
     {
       "id": "ar_canal_26",
       "categoryId": "argentina",
       "name": "Canal 26",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Canal%2026.png",
-      "embedUrl": "about:blank",
-      "embedHtml": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+      "embedUrl": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
     },
     {
       "id": "ar_la_nacion",
       "categoryId": "argentina",
       "name": "La Nacion",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/La%20Nacion.png",
-      "embedUrl": "about:blank",
-      "embedHtml": "https://www.youtube.com/watch?v=DVZ2rJQb_0g"
+      "embedUrl": "https://www.youtube.com/embed/DVZ2rJQb_0g?autoplay=1&playsinline=1&controls=1&fs=1&rel=0&modestbranding=1"
     },
     {
       "id": "ar_c5n",
       "categoryId": "argentina",
       "name": "C5N",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/C5N.png",
-      "embedUrl": "about:blank",
-      "embedHtml": "https://www.youtube.com/watch?v=SF06Qy1Ct6Y"
+      "embedUrl": "https://www.youtube.com/embed/SF06Qy1Ct6Y?autoplay=1&playsinline=1&controls=1&fs=1&rel=0&modestbranding=1"
     },
     {
       "id": "ar_telefe",
@@ -74,9 +68,9 @@
       "categoryId": "argentina",
       "name": "Tv Publica",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Tv%20Publica.png",
-      "embedUrl": "https://www.youtube.com/watch?v=P5kePDsFUBg",
+      "embedUrl": "https://www.tvpublica.com.ar/vivo",
       "embeds": [
-        "https://www.youtube.com/watch?v=P5kePDsFUBg"
+        "https://www.tvpublica.com.ar/vivo"
       ]
     },
     {
@@ -84,9 +78,9 @@
       "categoryId": "argentina",
       "name": "El trece",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Trece2.png",
-      "embedUrl": "https://www.livehdtv.com/el-trece/",
+      "embedUrl": "https://www.livehdtv.com/embed/el-trece/",
       "embeds": [
-        "https://www.livehdtv.com/el-trece/"
+        "https://www.livehdtv.com/embed/el-trece/"
       ]
     },
     {
@@ -94,9 +88,9 @@
       "categoryId": "argentina",
       "name": "ESPN",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
-      "embedUrl": "<iframe src="https://tv247us.vip/embed/espn-argentina/" width="100%" height="500" frameborder="0" allowfullscreen></iframe>",
+      "embedUrl": "https://tv247us.vip/embed/espn-argentina/",
       "embeds": [
-        "<iframe src="https://tv247us.vip/embed/espn-argentina/" width="100%" height="500" frameborder="0" allowfullscreen></iframe>"
+        "https://tv247us.vip/embed/espn-argentina/"
       ]
     },
     {
