@@ -74,9 +74,9 @@
       "categoryId": "argentina",
       "name": "Tv Publica",
       "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Tv%20Publica.png",
-      "embedUrl": "https://www.tvpublica.com.ar/vivo",
+      "embedUrl": "https://www.youtube.com/watch?v=P5kePDsFUBg",
       "embeds": [
-        "https://www.tvpublica.com.ar/vivo"
+        "https://www.youtube.com/watch?v=P5kePDsFUBg"
       ]
     },
     {
