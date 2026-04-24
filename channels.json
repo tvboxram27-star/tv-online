@@ -1,129 +1,106 @@
 {
   "version": 2,
-  "categories": [
-    {
-      "id": "argentina",
-      "title": "Argentina"
-    },
-    {
-      "id": "eventos",
-      "title": "Eventos"
-    }
-  ],
   "channels": [
     {
       "id": "ar_tn",
-      "categoryId": "argentina",
-      "name": "TN",
-      "type": "youtube_embed",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TN.png",
-      "embedUrl": "https://www.youtube.com/embed/cb12KmMMDJA?autoplay=1&playsinline=1&controls=1&fs=1&rel=0&modestbranding=1"
+      "title": "TN",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TN.png",
+      "sourceType": "youtube_embed",
+      "videoId": "cb12KmMMDJA",
+      "url": "https://www.youtube.com/live/cb12KmMMDJA",
+      "enabled": true
     },
     {
       "id": "ar_cronica_tv",
-      "categoryId": "argentina",
-      "name": "Cronica Tv",
-      "type": "youtube_embed",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cronica.png",
-      "embedUrl": "https://www.youtube.com/embed/JC7f3EUDaqw?autoplay=1&playsinline=1&controls=1&fs=1&rel=0&modestbranding=1"
+      "title": "Cronica Tv",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cronica.png",
+      "sourceType": "youtube_embed",
+      "videoId": "JC7f3EUDaqw",
+      "url": "https://www.youtube.com/live/JC7f3EUDaqw",
+      "enabled": true
     },
     {
       "id": "ar_a24",
-      "categoryId": "argentina",
-      "name": "A24",
-      "type": "youtube_embed",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A242.png",
-      "embedUrl": "https://www.youtube.com/embed/ArKbAx1K-2U?autoplay=1&playsinline=1&controls=1&fs=1&rel=0&modestbranding=1"
+      "title": "A24",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A242.png",
+      "sourceType": "youtube_embed",
+      "videoId": "ArKbAx1K-2U",
+      "url": "https://www.youtube.com/live/ArKbAx1K-2U",
+      "enabled": true
     },
     {
       "id": "ar_canal_26",
-      "categoryId": "argentina",
-      "name": "Canal 26",
-      "type": "direct",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Canal%2026.png",
-      "embedUrl": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+      "title": "Canal 26",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Canal%2026.png",
+      "sourceType": "hls",
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "enabled": true
     },
     {
       "id": "ar_la_nacion",
-      "categoryId": "argentina",
-      "name": "La Nacion",
-      "type": "youtube_embed",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/La%20Nacion.png",
-      "embedUrl": "https://www.youtube.com/embed/DVZ2rJQb_0g?autoplay=1&playsinline=1&controls=1&fs=1&rel=0&modestbranding=1"
+      "title": "La Nacion",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/La%20Nacion.png",
+      "sourceType": "youtube_embed",
+      "videoId": "DVZ2rJQb_0g",
+      "url": "https://www.youtube.com/live/DVZ2rJQb_0g",
+      "enabled": true
     },
     {
       "id": "ar_c5n",
-      "categoryId": "argentina",
-      "name": "C5N",
-      "type": "youtube_embed",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/C5N.png",
-      "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UCFgk2Q2mVO1BklRQhSv6p0w&autoplay=1&playsinline=0&controls=0&rel=0"
+      "title": "C5N",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/C5N.png",
+      "sourceType": "youtube_embed",
+      "videoId": "NdQSOItOQ5Y",
+      "url": "https://www.youtube.com/live/NdQSOItOQ5Y",
+      "enabled": true
     },
     {
       "id": "ar_telefe",
-      "categoryId": "argentina",
-      "name": "Telefe",
-      "type": "resolved",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telefe.png",
-      "embedUrl": "https://mitelefe.com/telefe-en-vivo",
-      "embeds": [
-        "https://mitelefe.com/telefe-en-vivo"
-      ]
+      "title": "Telefe",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telefe.png",
+      "sourceType": "resolved",
+      "url": "https://mitelefe.com/telefe-en-vivo",
+      "enabled": true
     },
     {
       "id": "ar_tv_publica",
-      "categoryId": "argentina",
-      "name": "Tv Publica",
-      "type": "resolved",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Tv%20Publica.png",
-      "embedUrl": "https://www.tvpublica.com.ar/vivo",
-      "embeds": [
-        "https://www.tvpublica.com.ar/vivo"
-      ]
+      "title": "Tv Publica",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Tv%20Publica.png",
+      "sourceType": "resolved",
+      "url": "https://www.tvpublica.com.ar/vivo",
+      "enabled": true
     },
     {
       "id": "ar_el_trece",
-      "categoryId": "argentina",
-      "name": "El trece",
-      "type": "resolved",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Trece2.png",
-      "embedUrl": "https://famelack.com/tv/ar/WqrxuaH4hV825l",
-      "embeds": [
-        "https://famelack.com/tv/ar/WqrxuaH4hV825l"
-      ]
+      "title": "El trece",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Trece2.png",
+      "sourceType": "resolved",
+      "url": "https://famelack.com/tv/ar/WqrxuaH4hV825l",
+      "enabled": true
     },
     {
       "id": "ar_espn",
-      "categoryId": "argentina",
-      "name": "ESPN",
-      "type": "resolved",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
-      "embedUrl": "https://tv247us.vip/embed/espn-argentina/",
-      "embeds": [
-        "https://tv247us.vip/embed/espn-argentina/"
-      ]
+      "title": "ESPN",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
+      "sourceType": "resolved",
+      "url": "https://tv247us.vip/embed/espn-argentina/",
+      "enabled": true
     },
     {
       "id": "ar_star_channel",
-      "categoryId": "argentina",
-      "name": "Star Channel",
-      "type": "resolved",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel.png",
-      "embedUrl": "https://embed.ksdjugfsddeports.com/embed2/starchannel.html",
-      "embeds": [
-        "https://embed.ksdjugfsddeports.com/embed2/starchannel.html"
-      ]
+      "title": "Star Channel",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel.png",
+      "sourceType": "resolved",
+      "url": "https://embed.ksdjugfsddeports.com/embed2/starchannel.html",
+      "enabled": true
     },
     {
       "id": "ar_eventos",
-      "categoryId": "eventos",
-      "name": "Eventos",
-      "type": "web",
-      "logoUrl": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Eventos.png",
-      "embedUrl": "https://streamtpnew.com/eventos.html",
-      "embeds": [
-        "https://streamtpnew.com/eventos.html"
-      ]
+      "title": "Eventos",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Eventos.png",
+      "sourceType": "web",
+      "url": "https://streamtpnew.com/eventos.html",
+      "enabled": true
     }
   ]
 }
