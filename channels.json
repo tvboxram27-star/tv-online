@@ -5,9 +5,8 @@
       "id": "ar_tn",
       "title": "TN",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TN.png",
-      "sourceType": "youtube_embed",
-      "videoId": "cb12KmMMDJA",
-      "url": "https://www.youtube.com/live/cb12KmMMDJA",
+      "sourceType": "resolved",
+      "url": "https://tn.com.ar/envivo/24hs/",
       "enabled": true
     },
     {
