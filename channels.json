@@ -118,7 +118,16 @@
       "title": "ESPN",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
       "sourceType": "resolved",
-      "url": "https://tv247us.vip/embed/espn-argentina/",
+      "url": "https://dlstreams.com/casting/stream-149.php",
+      "enabled": true
+    },
+    {
+      "id": "ar_tycsports",
+      "categoryId": "deportes",
+      "title": "TyC Sports",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TyC%20sports%202.png",
+      "sourceType": "resolved",
+      "url": "https://tv247us.vip/embed/tyc-sports",
       "enabled": true
     },
     {
