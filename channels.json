@@ -1,8 +1,35 @@
 {
   "version": 2,
+  "categories": [
+    {
+      "id": "argentina",
+      "title": "Argentina"
+    },
+    {
+      "id": "deportes",
+      "title": "Deportes"
+    },
+    {
+      "id": "cine",
+      "title": "Cine"
+    },
+    {
+      "id": "infantil",
+      "title": "Infantil"
+    },
+    {
+      "id": "musica",
+      "title": "Musica"
+    },
+    {
+      "id": "entretenimiento",
+      "title": "Entretenimiento"
+    }
+  ],
   "channels": [
     {
       "id": "ar_tn",
+      "categoryId": "argentina",
       "title": "TN",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TN.png",
       "sourceType": "resolved",
@@ -11,6 +38,7 @@
     },
     {
       "id": "ar_cronica_tv",
+      "categoryId": "argentina",
       "title": "Cronica Tv",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cronica.png",
       "sourceType": "youtube_embed",
@@ -20,6 +48,7 @@
     },
     {
       "id": "ar_a24",
+      "categoryId": "argentina",
       "title": "A24",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A242.png",
       "sourceType": "youtube_embed",
@@ -29,6 +58,7 @@
     },
     {
       "id": "ar_canal_26",
+      "categoryId": "argentina",
       "title": "Canal 26",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Canal%2026.png",
       "sourceType": "hls",
@@ -37,6 +67,7 @@
     },
     {
       "id": "ar_la_nacion",
+      "categoryId": "argentina",
       "title": "La Nacion",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/La%20Nacion.png",
       "sourceType": "youtube_embed",
@@ -46,6 +77,7 @@
     },
     {
       "id": "ar_c5n",
+      "categoryId": "argentina",
       "title": "C5N",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/C5N.png",
       "sourceType": "youtube_embed",
@@ -55,6 +87,7 @@
     },
     {
       "id": "ar_telefe",
+      "categoryId": "argentina",
       "title": "Telefe",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telefe.png",
       "sourceType": "resolved",
@@ -63,6 +96,7 @@
     },
     {
       "id": "ar_tv_publica",
+      "categoryId": "argentina",
       "title": "Tv Publica",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Tv%20Publica.png",
       "sourceType": "resolved",
@@ -71,6 +105,7 @@
     },
     {
       "id": "ar_el_trece",
+      "categoryId": "argentina",
       "title": "El trece",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Trece2.png",
       "sourceType": "resolved",
@@ -79,26 +114,29 @@
     },
     {
       "id": "ar_espn",
+      "categoryId": "deportes",
       "title": "ESPN",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
       "sourceType": "resolved",
-      "url": "https://dlstreams.com/stream/stream-149.php",
-      "enabled": true
-    },
-    {
-      "id": "ar_star_channel",
-      "title": "Star Channel",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel.png",
-      "sourceType": "resolved",
-      "url": "https://embed.ksdjugfsddeports.com/embed2/starchannel.html",
+      "url": "https://tv247us.vip/embed/espn-argentina/",
       "enabled": true
     },
     {
       "id": "ar_eventos",
+      "categoryId": "deportes",
       "title": "Eventos",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Eventos.png",
       "sourceType": "web",
       "url": "https://streamtpnew.com/eventos.html",
+      "enabled": true
+    },
+    {
+      "id": "ar_star_channel",
+      "categoryId": "cine",
+      "title": "Star Channel",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel.png",
+      "sourceType": "resolved",
+      "url": "https://embed.ksdjugfsddeports.com/embed2/starchannel.html",
       "enabled": true
     }
   ]
