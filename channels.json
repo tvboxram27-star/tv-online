@@ -147,6 +147,15 @@
       "sourceType": "resolved",
       "url": "https://embed.ksdjugfsddeports.com/embed2/starchannel.html",
       "enabled": true
+    },
+    {
+      "id": "ar_infantil",
+      "categoryId": "Infantil",
+      "title": "Cartoon Network",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Eventos.png",
+      "sourceType": "resolved",
+      "url": "https://embed.ksdjugfsddeports.com/embed2/cartoonnetwork.html",
+      "enabled": true
     }
   ]
 }
