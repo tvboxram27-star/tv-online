@@ -149,6 +149,24 @@
       "enabled": true
     },
     {
+       "id": "ar_espndeportes",
+      "categoryId": "deportes",
+      "title": "ESPN Deportes",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Deportes2.png",
+      "sourceType": "resolved",
+      "url": "https://dlstreams.com/stream/stream-375.php",
+      "enabled": true
+    },
+    {
+      "id": "ar_espnpremium",
+      "categoryId": "deportes",
+      "title": "ESPN Premium",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Premium.png",
+      "sourceType": "resolved",
+      "url": "https://dlstreams.com/stream/stream-387.php",
+      "enabled": true
+    },
+    {
       "id": "ar_eventos",
       "categoryId": "deportes",
       "title": "Eventos",
