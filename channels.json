@@ -131,6 +131,15 @@
       "enabled": true
     },
     {
+      "id": "ar_tntsports",
+      "categoryId": "deportes",
+      "title": "TNT Sports",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Sports.png",
+      "sourceType": "resolved",
+      "url": "https://tv247us.vip/embed/tnt-sports-argentina/",
+      "enabled": true
+    },
+    {
       "id": "ar_eventos",
       "categoryId": "deportes",
       "title": "Eventos",
