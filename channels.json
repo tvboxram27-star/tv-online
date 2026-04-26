@@ -127,7 +127,7 @@
       "title": "TyC Sports",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TyC%20sports%202.png",
       "sourceType": "resolved",
-      "url": "https://dlstreams.com/watch.php?id=746",
+      "url": "https://dlstreams.com/watch/stream-746.php",
       "enabled": true
     },
     {
@@ -137,6 +137,15 @@
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Sports.png",
       "sourceType": "resolved",
       "url": "https://tv247us.vip/embed/tnt-sports-argentina/",
+      "enabled": true
+    },
+    {
+      "id": "ar_foxsports",
+      "categoryId": "deportes",
+      "title": "Fox Sports",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Fox%20Sports.png",
+      "sourceType": "resolved",
+      "url": "https://dlstreams.com/player/stream-787.php",
       "enabled": true
     },
     {
