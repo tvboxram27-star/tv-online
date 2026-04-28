@@ -136,7 +136,7 @@
       "enabled": true
     },
     {
-       "id": "ar_espndeportes",
+      "id": "ar_espndeportes",
       "categoryId": "deportes",
       "title": "ESPN Deportes",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Deportes2.png",
@@ -171,7 +171,7 @@
       "url": "https://embed.ksdjugfsddeports.com/embed2/starchannel.html",
       "enabled": true
     },
-    {  
+    {
       "id": "ar_cinecanal",
       "categoryId": "cine",
       "title": "Cinecanal",
@@ -181,17 +181,17 @@
       "enabled": true
     },
     {
-      "id": "ar_infantil",
-      "categoryId": "Infantil",
+      "id": "ar_cartoon_network",
+      "categoryId": "infantil",
       "title": "Cartoon Network",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/cartoon%20Network2.png",
       "sourceType": "resolved",
       "url": "https://embed.ksdjugfsddeports.com/embed2/cartoonnetwork.html",
       "enabled": true
-      },
-      {
-       "id": "ar_infantil",
-      "categoryId": "Infantil",
+    },
+    {
+      "id": "ar_disney_junior",
+      "categoryId": "infantil",
       "title": "Disney Junior",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Junior.png",
       "sourceType": "resolved",
