@@ -55,6 +55,15 @@
       "enabled": true
     },
     {
+      "id": "ar_a24",
+      "categoryId": "argentina",
+      "title": "A24",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A242.png",
+      "sourceType": "resolved",
+      "url": "https://www.livehdtv.com/embed/a-24-argentina/",
+      "enabled": true
+    },
+    {
       "id": "ar_canal_26",
       "categoryId": "argentina",
       "title": "Canal 26",
