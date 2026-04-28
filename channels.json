@@ -154,7 +154,7 @@
       "title": "ESPN Deportes",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Deportes2.png",
       "sourceType": "resolved",
-      "url": "https://dlstreams.com/stream/stream-375.php",
+      "url": "https://dlstreams.com/player/stream-375.php",
       "enabled": true
     },
     {
@@ -163,7 +163,7 @@
       "title": "ESPN Premium",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Premium.png",
       "sourceType": "resolved",
-      "url": "https://dlstreams.com/stream/stream-387.php",
+      "url": "https://dlstreams.com/player/stream-387.php",
       "enabled": true
     },
     {
