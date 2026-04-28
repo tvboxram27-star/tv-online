@@ -37,23 +37,21 @@
       "enabled": true
     },
     {
-      "id": "ar_cronica_tv",
+      "id": "ar_telemax",
       "categoryId": "argentina",
-      "title": "Cronica Tv",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cronica.png",
-      "sourceType": "youtube_embed",
-      "videoId": "JC7f3EUDaqw",
-      "url": "https://www.youtube.com/live/JC7f3EUDaqw",
+      "title": "Telemax",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telemax.png",
+      "sourceType": "resolved",
+      "url": "https://famelack.com/tv/ar/rMuHd71jVt63rI",
       "enabled": true
     },
     {
-      "id": "ar_a24",
+      "id": "ar_nettv",
       "categoryId": "argentina",
-      "title": "A24",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A242.png",
-      "sourceType": "youtube_embed",
-      "videoId": "ArKbAx1K-2U",
-      "url": "https://www.youtube.com/live/ArKbAx1K-2U",
+      "title": "NET TV",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Net%20Tv2.png",
+      "sourceType": "resolved",
+      "url": "https://famelack.com/tv/ar/nCjEym27rIb7Sc",
       "enabled": true
     },
     {
@@ -66,32 +64,12 @@
       "enabled": true
     },
     {
-      "id": "ar_la_nacion",
-      "categoryId": "argentina",
-      "title": "La Nacion",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/La%20Nacion.png",
-      "sourceType": "youtube_embed",
-      "videoId": "DVZ2rJQb_0g",
-      "url": "https://www.youtube.com/live/DVZ2rJQb_0g",
-      "enabled": true
-    },
-    {
-      "id": "ar_c5n",
-      "categoryId": "argentina",
-      "title": "C5N",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/C5N.png",
-      "sourceType": "youtube_embed",
-      "videoId": "NdQSOItOQ5Y",
-      "url": "https://www.youtube.com/live/NdQSOItOQ5Y",
-      "enabled": true
-    },
-    {
       "id": "ar_telefe",
       "categoryId": "argentina",
       "title": "Telefe",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telefe.png",
       "sourceType": "resolved",
-      "url": "https://mitelefe.com/telefe-en-vivo",
+      "url": "https://embed.ksdjugfsddeports.com/embed2/telefe.html",
       "enabled": true
     },
     {
@@ -118,7 +96,7 @@
       "title": "ESPN",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
       "sourceType": "resolved",
-      "url": "https://tv247us.vip/watch/espn-argentina/",
+      "url": "https://embed.ksdjugfsddeports.com/embed2/espn.html"",
       "enabled": true
     },
     {
@@ -184,6 +162,15 @@
       "url": "https://embed.ksdjugfsddeports.com/embed2/starchannel.html",
       "enabled": true
     },
+    {  
+      "id": "ar_cinecanal",
+      "categoryId": "cine",
+      "title": "Cinecanal",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/CineCanal.png",
+      "sourceType": "resolved",
+      "url": "https://embed.ksdjugfsddeports.com/embed2/cinecanal.html",
+      "enabled": true
+    },
     {
       "id": "ar_infantil",
       "categoryId": "Infantil",
@@ -191,6 +178,15 @@
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/cartoon%20Network2.png",
       "sourceType": "resolved",
       "url": "https://embed.ksdjugfsddeports.com/embed2/cartoonnetwork.html",
+      "enabled": true
+      },
+      {
+       "id": "ar_infantil",
+      "categoryId": "Infantil",
+      "title": "Disney Junior",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Junior.png",
+      "sourceType": "resolved",
+      "url": "https://famelack.com/tv/ar/aDVjvDueowqzIg",
       "enabled": true
     }
   ]
