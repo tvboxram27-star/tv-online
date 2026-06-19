@@ -51,7 +51,7 @@
       "title": "NET TV",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Net%20Tv2.png",
       "sourceType": "resolved",
-      "url": "https://famelack.com/tv/ar/nCjEym27rIb7Sc",
+      "url": "https://frantdse.github.io/TVArgentinaOnline/nettv.html",
       "enabled": true
     },
     {
@@ -60,7 +60,7 @@
       "title": "A24",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A242.png",
       "sourceType": "resolved",
-      "url": "https://www.livehdtv.com/embed/a-24-argentina/",
+      "url": "https://frantdse.github.io/TVArgentinaOnline/a24.html",
       "enabled": true
     },
     {
@@ -78,7 +78,7 @@
       "title": "Telefe",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telefe.png",
       "sourceType": "resolved",
-      "url": "https://embed.ksdjugfsddeports.com/embed2/telefe.html",
+      "url": "https://www.mitelefe.com/telefe-en-vivo",
       "enabled": true
     },
     {
@@ -105,7 +105,7 @@
       "title": "ESPN",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
       "sourceType": "resolved",
-      "url": "https://embed.ksdjugfsddeports.com/embed2/espn.html",
+      "url": "https://daddylive.org/embed/embed.php?id=ESPN-AR&player=4&source=list",
       "enabled": true
     },
     {
@@ -114,7 +114,7 @@
       "title": "TyC Sports",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TyC%20sports%202.png",
       "sourceType": "resolved",
-      "url": "https://streamtpnew.com/global1.php?stream=tycsports",
+      "url": "https://streamtpday1.xyz/global1.php?stream=tycsports",
       "enabled": true
     },
     {
@@ -123,7 +123,7 @@
       "title": "TNT Sports",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Sports.png",
       "sourceType": "resolved",
-      "url": "https://streamtpnew.com/global1.php?stream=tntsports",
+      "url": "https://streamtpday1.xyz/global1.php?stream=tntsports",
       "enabled": true
     },
     {
@@ -132,7 +132,7 @@
       "title": "Fox Sports",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Fox%20Sports.png",
       "sourceType": "resolved",
-      "url": "https://la14hd.com/vivo/canales.php?stream=foxsports",
+      "url": "https://streamtpday1.xyz/global1.php?stream=fox1ar",
       "enabled": true
     },
     {
@@ -141,7 +141,7 @@
       "title": "ESPN Deportes",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Deportes2.png",
       "sourceType": "resolved",
-      "url": "https://dlstreams.com/player/stream-375.php",
+      "url": "https://streamtpday1.xyz/global1.php?stream=espndeportes",
       "enabled": true
     },
     {
@@ -150,16 +150,16 @@
       "title": "ESPN Premium",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Premium.png",
       "sourceType": "resolved",
-      "url": "https://streamtpnew.com/global1.php?stream=espnpremium",
+      "url": "https://streamtpday1.xyz/global1.php?stream=espnpremium",
       "enabled": true
     },
     {
-      "id": "ar_eventos",
+      "id": "ar_tudn",
       "categoryId": "deportes",
-      "title": "Eventos",
+      "title": "TUDN",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Eventos.png",
-      "sourceType": "web",
-      "url": "https://streamtpnew.com/eventos.html",
+      "sourceType": "resolved",
+      "url": "https://daddylive.org/embed/embed.php?id=935&player=3&source=tv.json",
       "enabled": true
     },
     {
