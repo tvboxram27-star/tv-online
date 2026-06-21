@@ -105,7 +105,7 @@
       "title": "ESPN",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
       "sourceType": "resolved",
-      "url": "https://daddylive.org/embed/embed.php?id=ESPN-AR&player=4&source=list",
+      "url": "https://deporte-libre.online/en-vivo-online/espn/embed5.php",
       "enabled": true
     },
     {
@@ -154,12 +154,12 @@
       "enabled": true
     },
     {
-      "id": "ar_tudn",
+      "id": "ar_dsports",
       "categoryId": "deportes",
-      "title": "TUDN",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Tudn.png",
+      "title": "Dsports",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DSports.png",
       "sourceType": "resolved",
-      "url": "https://daddylive.org/embed/embed.php?id=935&player=3&source=tv.json",
+      "url": "https://streamtpday1.xyz/global1.php?stream=dsports",
       "enabled": true
     },
     {
@@ -190,12 +190,12 @@
       "enabled": true
     },
     {
-      "id": "ar_disney_junior",
+      "id": "ar_disney_channel",
       "categoryId": "infantil",
-      "title": "Disney Junior",
+      "title": "Disney Channel",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Junior.png",
       "sourceType": "resolved",
-      "url": "https://famelack.com/tv/ar/aDVjvDueowqzIg",
+      "url": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Channel.png",
       "enabled": true
     }
   ]
