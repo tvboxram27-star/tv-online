@@ -105,7 +105,7 @@
       "title": "ESPN",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
       "sourceType": "resolved",
-      "url": "https://deporte-libre.online/en-vivo-online/espn/embed5.php",
+      "url": "https://streamtpday1.xyz/global1.php?stream=espn",
       "enabled": true
     },
     {
@@ -193,9 +193,9 @@
       "id": "ar_disney_channel",
       "categoryId": "infantil",
       "title": "Disney Channel",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Junior.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Channel.png",
       "sourceType": "resolved",
-      "url": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Channel.png",
+      "url": "https://embed.ksdjugfsddeports.com/embed2/disneychannel.html",
       "enabled": true
     }
   ]
