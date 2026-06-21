@@ -33,7 +33,7 @@
       "title": "TN",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TN.png",
       "sourceType": "resolved",
-      "url": "https://tn.com.ar/envivo/24hs/",
+      "url": "https://www.youtube.com/watch?v=cb12KmMMDJA",
       "enabled": true
     },
     {
@@ -60,7 +60,7 @@
       "title": "A24",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A242.png",
       "sourceType": "resolved",
-      "url": "https://frantdse.github.io/TVArgentinaOnline/a24.html",
+      "url": "https://www.youtube.com/watch?v=ArKbAx1K-2U",
       "enabled": true
     },
     {
@@ -69,7 +69,7 @@
       "title": "Canal 26",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Canal%2026.png",
       "sourceType": "hls",
-      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "url": "https://www.youtube.com/watch?v=Td0rCxY0pRs",
       "enabled": true
     },
     {
