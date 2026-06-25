@@ -33,7 +33,7 @@
       "title": "TN",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TN.png",
       "sourceType": "resolved",
-      "url": "https://www.youtube.com/watch?v=cb12KmMMDJA",
+      "url": "https://www.youtube.com/embed/cb12KmMMDJA?si=K7XAU08_4pcLljvg",
       "enabled": true
     },
     {
@@ -42,7 +42,7 @@
       "title": "Telemax",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telemax.png",
       "sourceType": "resolved",
-      "url": "https://www.youtube.com/watch?v=VWhQ6xspnSc",
+      "url": "https://globetv.app/embed/?cc=AR&cid=Telemax.ar&lang=eng",
       "enabled": true
     },
     {
@@ -51,7 +51,7 @@
       "title": "NET TV",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Net%20Tv2.png",
       "sourceType": "resolved",
-      "url": "https://frantdse.github.io/TVArgentinaOnline/nettv.html",
+      "url": "https://globetv.app/embed/?cc=AR&cid=NETTV.ar&lang=eng",
       "enabled": true
     },
     {
@@ -60,7 +60,7 @@
       "title": "A24",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A242.png",
       "sourceType": "resolved",
-      "url": "https://www.youtube.com/watch?v=ArKbAx1K-2U",
+      "url": "https://www.youtube.com/embed/ArKbAx1K-2U?si=duG3siNUj4-_6Dya",
       "enabled": true
     },
     {
@@ -168,7 +168,7 @@
       "title": "Star Channel",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel.png",
       "sourceType": "resolved",
-      "url": "https://embed.ksdjugfsddeports.com/embed2/starchannel.html",
+      "url": "http://45.5.118.152:8000/play/a04m/index.m3u8",
       "enabled": true
     },
     {
@@ -186,7 +186,7 @@
       "title": "Cartoon Network",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/cartoon%20Network2.png",
       "sourceType": "resolved",
-      "url": "https://embed.ksdjugfsddeports.com/embed2/cartoonnetwork.html",
+      "url": "http://45.5.118.152:8000/play/a0bl/index.m3u8",
       "enabled": true
     },
     {
