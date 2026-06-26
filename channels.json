@@ -105,7 +105,7 @@
       "title": "ESPN",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
       "sourceType": "resolved",
-      "url": "https://streamtpday1.xyz/global1.php?stream=espn",
+      "url": "http://190.238.43.117:9000/play/a0d6/index.m3u8",
       "enabled": true
     },
     {
@@ -150,7 +150,7 @@
       "title": "ESPN Premium",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Premium.png",
       "sourceType": "resolved",
-      "url": "https://streamtpday1.xyz/global1.php?stream=espnpremium",
+      "url": "http://181.224.255.210:8001/play/a0pt/index.m3u8?hls",
       "enabled": true
     },
     {
@@ -159,7 +159,7 @@
       "title": "Dsports",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DSports.png",
       "sourceType": "resolved",
-      "url": "https://streamtpday1.xyz/global1.php?stream=dsports",
+      "url": "http://190.238.43.117:9000/play/a09d/index.m3u8",
       "enabled": true
     },
     {
@@ -172,12 +172,30 @@
       "enabled": true
     },
     {
+      "id": "ar_tnt",
+      "categoryId": "cine",
+      "title": "TNT",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20HD2.png",
+      "sourceType": "resolved",
+      "url": "http://190.238.43.117:9000/play/a0gl/index.m3u8",
+      "enabled": true
+    },
+    {
       "id": "ar_cinecanal",
       "categoryId": "cine",
       "title": "Cinecanal",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/CineCanal.png",
       "sourceType": "resolved",
-      "url": "https://embed.ksdjugfsddeports.com/embed2/cinecanal.html",
+      "url": "http://181.224.255.210:8001/play/a0ob/index.m3u8?hls",
+      "enabled": true
+    },
+    {
+      "id": "ar_space",
+      "categoryId": "cine",
+      "title": "Space",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Space.png",
+      "sourceType": "resolved",
+      "url": "http://181.224.255.210:8001/play/a0ma/index.m3u8?hls",
       "enabled": true
     },
     {
@@ -195,7 +213,7 @@
       "title": "Disney Channel",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Channel.png",
       "sourceType": "resolved",
-      "url": "https://sudamericaplay2.com/canal_8112/dsports2.html",
+      "url": "http://190.60.45.197:2222/play/a01l/index.m3u8?hls",
       "enabled": true
     }
   ]
