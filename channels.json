@@ -168,7 +168,7 @@
       "title": "Star Channel",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel.png",
       "sourceType": "resolved",
-      "url": "http://45.5.118.152:8000/play/a04m/index.m3u8",
+      "url": "http://190.238.43.117:9000/play/a0gx/index.m3u8",
       "enabled": true
     },
     {
@@ -195,7 +195,7 @@
       "title": "Space",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Space.png",
       "sourceType": "resolved",
-      "url": "http://181.224.255.210:8001/play/a0ma/42967322.m3u8",
+      "url": "http://190.238.43.117:9000/play/a0gt/index.m3u8",
       "enabled": true
     },
     {
