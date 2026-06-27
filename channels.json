@@ -96,7 +96,7 @@
       "title": "El trece",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Trece2.png",
       "sourceType": "resolved",
-      "url": "https://www.youtube.com/live/VWhQ6xspnSc?si=LHYDssFTv22W6giO",
+      "url": "http://138.59.227.20:8000/play/a07b/index.m3u8",
       "enabled": true
     },
     {
@@ -141,7 +141,7 @@
       "title": "ESPN Deportes",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Deportes2.png",
       "sourceType": "resolved",
-      "url": "https://streamtpday1.xyz/global1.php?stream=espndeportes",
+      "url": "http://138.59.227.20:8000/play/a086/index.m3u8",
       "enabled": true
     },
     {
