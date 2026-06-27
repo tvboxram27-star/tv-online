@@ -51,7 +51,7 @@
       "title": "NET TV",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Net%20Tv2.png",
       "sourceType": "resolved",
-      "url": "https://globetv.app/embed/?cc=AR&cid=NETTV.ar&lang=eng",
+      "url": "http://181.224.255.210:8001/play/a0q5/74361659.m3u8",
       "enabled": true
     },
     {
