@@ -123,7 +123,7 @@
       "title": "TyC Sports",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TyC%20sports%202.png",
       "sourceType": "resolved",
-      "url": "https://streamtpday1.xyz/global1.php?stream=tycsports",
+      "url": "http://138.59.227.20:8000/play/a06x/index.m3u8",
       "enabled": true
     },
     {
@@ -172,6 +172,24 @@
       "enabled": true
     },
     {
+      "id": "ar_dsports2",
+      "categoryId": "deportes",
+      "title": "Dsports 2",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DSports%202.png",
+      "sourceType": "resolved",
+      "url": "http://190.238.43.117:9000/play/a09f/index.m3u8",
+      "enabled": true
+    },
+    {
+      "id": "ar_dsportsplus",
+      "categoryId": "deportes",
+      "title": "Dsports+",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DSports%20Plus.png",
+      "sourceType": "resolved",
+      "url": "http://190.238.43.117:9000/play/a09g/index.m3u8",
+      "enabled": true
+    },
+    {
       "id": "ar_star_channel",
       "categoryId": "cine",
       "title": "Star Channel",
@@ -214,6 +232,24 @@
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Space.png",
       "sourceType": "resolved",
       "url": "http://190.238.43.117:9000/play/a0gt/index.m3u8",
+      "enabled": true
+    },
+    {
+      "id": "ar_golden",
+      "categoryId": "cine",
+      "title": "Golden",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Golden3.png",
+      "sourceType": "resolved",
+      "url": "http://190.238.43.117:9000/play/a0dm/index.m3u8",
+      "enabled": true
+    },
+    {
+      "id": "ar_cinemax",
+      "categoryId": "cine",
+      "title": "Cinemax",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cinemax.png",
+      "sourceType": "resolved",
+      "url": "http://190.238.43.117:9000/play/a0ep/index.m3u8",
       "enabled": true
     },
     {
