@@ -37,21 +37,21 @@
       "enabled": true
     },
     {
-      "id": "ar_telemax",
+      "id": "ar_c5n",
       "categoryId": "argentina",
-      "title": "Telemax",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telemax.png",
+      "title": "C5N",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/C5N2.png",
       "sourceType": "resolved",
-      "url": "https://globetv.app/embed/?cc=AR&cid=Telemax.ar&lang=eng",
+      "url": "https://www.youtube.com/embed/VWhQ6xspnSc?si=AKVMnWk28CzC2eyl",
       "enabled": true
     },
     {
-      "id": "ar_nettv",
+      "id": "ar_cronica",
       "categoryId": "argentina",
-      "title": "NET TV",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Net%20Tv2.png",
+      "title": "Cronica",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cronica.png",
       "sourceType": "resolved",
-      "url": "http://181.224.255.210:8001/play/a0q5/74361659.m3u8",
+      "url": "https://www.youtube.com/embed/JC7f3EUDaqw?si=uOT1xS73hohQrcVy",
       "enabled": true
     },
     {
@@ -93,10 +93,19 @@
     {
       "id": "ar_el_trece",
       "categoryId": "argentina",
-      "title": "El trece",
+      "title": "El Trece",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Trece2.png",
       "sourceType": "resolved",
       "url": "http://138.59.227.20:8000/play/a07b/index.m3u8",
+      "enabled": true
+    },
+    {
+      "id": "ar_el_trece",
+      "categoryId": "argentina",
+      "title": "Bayres Tv",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Trece2.png",
+      "sourceType": "resolved",
+      "url": "https://bayrestv.com.ar/repro9.html",
       "enabled": true
     },
     {
@@ -172,6 +181,15 @@
       "enabled": true
     },
     {
+      "id": "ar_next_tv",
+      "categoryId": "cine",
+      "title": "Next Tv",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel.png",
+      "sourceType": "resolved",
+      "url": "https://edge.enhdtv.com/nexthd/tracks-v1a1/mono.m3u8",
+      "enabled": true
+    },
+    {
       "id": "ar_tnt",
       "categoryId": "cine",
       "title": "TNT",
@@ -214,6 +232,15 @@
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Channel.png",
       "sourceType": "resolved",
       "url": "http://190.238.43.117:9000/play/a0gu/index.m3u8",
+      "enabled": true
+    },
+    {
+      "id": "ar_quiero_musica",
+      "categoryId": "musica",
+      "title": "Quiero Musica",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Quiero.png",
+      "sourceType": "resolved",
+      "url": "https://www.youtube.com/embed/vGNglKWqwcQ?si=LMCyG8dTvqg0mkZi",
       "enabled": true
     }
   ]
