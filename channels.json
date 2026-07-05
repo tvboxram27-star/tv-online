@@ -114,7 +114,7 @@
       "title": "ESPN",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
       "sourceType": "resolved",
-      "url": "http://190.238.43.117:9000/play/a0d6/index.m3u8",
+      "url": "https://deporte-libre.live/en-vivo-online/espn/embed5.php",
       "enabled": true
     },
     {
@@ -123,7 +123,7 @@
       "title": "TyC Sports",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TyC%20sports%202.png",
       "sourceType": "resolved",
-      "url": "http://138.59.227.20:8000/play/a06x/index.m3u8",
+      "url": "https://deporte-libre.live/en-vivo-online/tyc-sports/embed2.php",
       "enabled": true
     },
     {
@@ -132,7 +132,7 @@
       "title": "TNT Sports",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Sports.png",
       "sourceType": "resolved",
-      "url": "https://streamtpday1.xyz/global1.php?stream=tntsports",
+      "url": "https://streamtp.sbs/global1.php?stream=tntsports",
       "enabled": true
     },
     {
@@ -141,7 +141,7 @@
       "title": "Fox Sports",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Fox%20Sports.png",
       "sourceType": "resolved",
-      "url": "https://rudo.video/live/bravo",
+      "url": "https://deporte-libre.live/en-vivo-online/fox-sports/embed2.php",
       "enabled": true
     },
     {
@@ -159,7 +159,7 @@
       "title": "ESPN Premium",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Premium.png",
       "sourceType": "resolved",
-      "url": "http://181.224.255.210:8001/play/a0pt/index.m3u8?hls",
+      "url": "https://deporte-libre.live/en-vivo-online/espn-premium/embed3.php",
       "enabled": true
     },
     {
@@ -168,7 +168,7 @@
       "title": "Dsports",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DSports.png",
       "sourceType": "resolved",
-      "url": "http://190.238.43.117:9000/play/a09d/index.m3u8",
+      "url": "https://streamtp.sbs/global1.php?stream=dsports",
       "enabled": true
     },
     {
@@ -186,7 +186,7 @@
       "title": "Dsports+",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DSports%20Plus.png",
       "sourceType": "resolved",
-      "url": "http://190.238.43.117:9000/play/a09g/index.m3u8",
+      "url": "https://deporte-libre.live/en-vivo-online/dsports-2/embed.php",
       "enabled": true
     },
     {
