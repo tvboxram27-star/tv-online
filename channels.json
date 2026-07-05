@@ -31,7 +31,7 @@
       "id": "ar_tn",
       "categoryId": "argentina",
       "title": "TN",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TN.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/TN_resultado.webp",
       "sourceType": "resolved",
       "url": "https://www.youtube.com/embed/cb12KmMMDJA?si=K7XAU08_4pcLljvg",
       "enabled": true
@@ -40,7 +40,7 @@
       "id": "ar_c5n",
       "categoryId": "argentina",
       "title": "C5N",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/C5N2.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/C5N_resultado.webp",
       "sourceType": "resolved",
       "url": "https://www.youtube.com/embed/VWhQ6xspnSc?si=AKVMnWk28CzC2eyl",
       "enabled": true
@@ -51,14 +51,14 @@
       "title": "Cronica",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cronica.png",
       "sourceType": "resolved",
-      "url": "https://www.youtube.com/embed/JC7f3EUDaqw?si=uOT1xS73hohQrcVy",
+      "url": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cronica_resultado.webp",
       "enabled": true
     },
     {
       "id": "ar_a24",
       "categoryId": "argentina",
       "title": "A24",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/A242.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/a24_resultado.webp",
       "sourceType": "resolved",
       "url": "https://www.youtube.com/embed/ArKbAx1K-2U?si=duG3siNUj4-_6Dya",
       "enabled": true
@@ -76,7 +76,7 @@
       "id": "ar_telefe",
       "categoryId": "argentina",
       "title": "Telefe",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Telefe.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Telefe_resultado.webp",
       "sourceType": "resolved",
       "url": "https://www.mitelefe.com/telefe-en-vivo",
       "enabled": true
@@ -85,7 +85,7 @@
       "id": "ar_tv_publica",
       "categoryId": "argentina",
       "title": "Tv Publica",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Tv%20Publica.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Tv%20Publica_resultado.webp",
       "sourceType": "resolved",
       "url": "https://www.tvpublica.com.ar/vivo",
       "enabled": true
@@ -94,7 +94,7 @@
       "id": "ar_el_trece",
       "categoryId": "argentina",
       "title": "El Trece",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Trece2.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/El%20trece_resultado.webp",
       "sourceType": "resolved",
       "url": "http://138.59.227.20:8000/play/a07b/index.m3u8",
       "enabled": true
@@ -103,7 +103,7 @@
       "id": "ar_bayrestv",
       "categoryId": "argentina",
       "title": "Bayres Tv",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/El%20Trece2.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/BayresTV_resultado.webp",
       "sourceType": "resolved",
       "url": "https://bayrestv.com.ar/repro9.html",
       "enabled": true
@@ -112,7 +112,7 @@
       "id": "ar_espn",
       "categoryId": "deportes",
       "title": "ESPN",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%201.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/ESPN_resultado.webp",
       "sourceType": "resolved",
       "url": "https://deporte-libre.live/en-vivo-online/espn/embed5.php",
       "enabled": true
@@ -121,7 +121,7 @@
       "id": "ar_tycsports",
       "categoryId": "deportes",
       "title": "TyC Sports",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TyC%20sports%202.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/TyC%20Sports_resultado.webp",
       "sourceType": "resolved",
       "url": "https://deporte-libre.live/en-vivo-online/tyc-sports/embed2.php",
       "enabled": true
@@ -130,7 +130,7 @@
       "id": "ar_tntsports",
       "categoryId": "deportes",
       "title": "TNT Sports",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20Sports.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/TT%20Sports_resultado.webp",
       "sourceType": "resolved",
       "url": "https://streamtp.sbs/global1.php?stream=tntsports",
       "enabled": true
@@ -139,7 +139,7 @@
       "id": "ar_foxsports",
       "categoryId": "deportes",
       "title": "Fox Sports",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Fox%20Sports.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Fox%20Sports_resultado.webp",
       "sourceType": "resolved",
       "url": "https://deporte-libre.live/en-vivo-online/fox-sports/embed2.php",
       "enabled": true
@@ -148,7 +148,7 @@
       "id": "ar_espn2",
       "categoryId": "deportes",
       "title": "ESPN 2",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%202.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/ESPN%202_resultado.webp",
       "sourceType": "resolved",
       "url": "https://deporte-libre.live/en-vivo-online/espn-2/embed4.php",
       "enabled": true
@@ -157,7 +157,7 @@
       "id": "ar_espnpremium",
       "categoryId": "deportes",
       "title": "ESPN Premium",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Premium.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/ESPN%20Premium_resultado.webp",
       "sourceType": "resolved",
       "url": "https://deporte-libre.live/en-vivo-online/espn-premium/embed3.php",
       "enabled": true
@@ -166,7 +166,7 @@
       "id": "ar_dsports",
       "categoryId": "deportes",
       "title": "Dsports",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DSports.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/DSports1_resultado.webp",
       "sourceType": "resolved",
       "url": "https://streamtp.sbs/global1.php?stream=dsports",
       "enabled": true
@@ -175,7 +175,7 @@
       "id": "ar_dsports2",
       "categoryId": "deportes",
       "title": "Dsports 2",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DSports%202.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/DSports2_resultado.webp",
       "sourceType": "resolved",
       "url": "https://streamtp.sbs/global1.php?stream=dsports2",
       "enabled": true
@@ -184,7 +184,7 @@
       "id": "ar_dsportsplus",
       "categoryId": "deportes",
       "title": "Dsports+",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DSports%20Plus.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/DSports%2B_resultado.webp",
       "sourceType": "resolved",
       "url": "https://deporte-libre.live/en-vivo-online/dsports-2/embed.php",
       "enabled": true
@@ -193,7 +193,7 @@
       "id": "ar_star_channel",
       "categoryId": "cine",
       "title": "Star Channel",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Star%20Channel_resultado.webp",
       "sourceType": "resolved",
       "url": "http://190.238.43.117:9000/play/a0gx/index.m3u8",
       "enabled": true
@@ -202,7 +202,7 @@
       "id": "ar_net_tv",
       "categoryId": "cine",
       "title": "Net Tv",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Net%20Tv_resultado.webp",
       "sourceType": "resolved",
       "url": "https://edge.enhdtv.com/nexthd/tracks-v1a1/mono.m3u8",
       "enabled": true
@@ -211,7 +211,7 @@
       "id": "ar_tnt",
       "categoryId": "cine",
       "title": "TNT",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/TNT%20HD2.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/TNT_resultado.webp",
       "sourceType": "resolved",
       "url": "http://190.238.43.117:9000/play/a0gl/index.m3u8",
       "enabled": true
@@ -220,7 +220,7 @@
       "id": "ar_cinecanal",
       "categoryId": "cine",
       "title": "Cinecanal",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/CineCanal.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/CineCanal_resultado.webp",
       "sourceType": "resolved",
       "url": "http://190.238.43.117:9000/play/a0gm/index.m3u8",
       "enabled": true
@@ -229,7 +229,7 @@
       "id": "ar_space",
       "categoryId": "cine",
       "title": "Space",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Space.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Space_resultado.webp",
       "sourceType": "resolved",
       "url": "http://190.238.43.117:9000/play/a0gt/index.m3u8",
       "enabled": true
@@ -238,7 +238,7 @@
       "id": "ar_golden",
       "categoryId": "cine",
       "title": "Golden",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Golden3.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Golden_resultado.webp",
       "sourceType": "resolved",
       "url": "http://190.238.43.117:9000/play/a0dm/index.m3u8",
       "enabled": true
@@ -247,7 +247,7 @@
       "id": "ar_cinemax",
       "categoryId": "cine",
       "title": "Cinemax",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cinemax.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cinemax_resultado.webp",
       "sourceType": "resolved",
       "url": "http://190.238.43.117:9000/play/a0ep/index.m3u8",
       "enabled": true
