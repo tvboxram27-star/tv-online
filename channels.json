@@ -199,9 +199,9 @@
       "enabled": true
     },
     {
-      "id": "ar_next_tv",
+      "id": "ar_net_tv",
       "categoryId": "cine",
-      "title": "Next Tv",
+      "title": "Net Tv",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/StarChannel.png",
       "sourceType": "resolved",
       "url": "https://edge.enhdtv.com/nexthd/tracks-v1a1/mono.m3u8",
