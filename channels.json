@@ -145,12 +145,12 @@
       "enabled": true
     },
     {
-      "id": "ar_espndeportes",
+      "id": "ar_espn2",
       "categoryId": "deportes",
-      "title": "ESPN Deportes",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%20Deportes2.png",
+      "title": "ESPN 2",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/ESPN%202.png",
       "sourceType": "resolved",
-      "url": "https://www.canalnet.tv/page/en-vivo",
+      "url": "https://deporte-libre.live/en-vivo-online/espn-2/embed4.php",
       "enabled": true
     },
     {
@@ -177,7 +177,7 @@
       "title": "Dsports 2",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/DSports%202.png",
       "sourceType": "resolved",
-      "url": "http://190.238.43.117:9000/play/a09f/index.m3u8",
+      "url": "https://streamtp.sbs/global1.php?stream=dsports2",
       "enabled": true
     },
     {
