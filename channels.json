@@ -67,7 +67,7 @@
       "id": "ar_canal_26",
       "categoryId": "argentina",
       "title": "Canal 26",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Canal%2026.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Canal%2026_resultado.webp",
       "sourceType": "hls",
       "url": "https://www.youtube.com/embed/VLjvS3uflXc?si=5kuA5vWnUa6iw5Na",
       "enabled": true
@@ -355,7 +355,7 @@
       "id": "ar_quiero_musica",
       "categoryId": "musica",
       "title": "Quiero Musica",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Quiero.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Quieromusica_resultado.webp",
       "sourceType": "resolved",
       "url": "https://www.youtube.com/embed/vGNglKWqwcQ?si=LMCyG8dTvqg0mkZi",
       "enabled": true
