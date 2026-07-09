@@ -49,9 +49,9 @@
       "id": "ar_cronica",
       "categoryId": "argentina",
       "title": "Cronica",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Cronica.png",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cronica_resultado.webp",
       "sourceType": "resolved",
-      "url": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cronica_resultado.webp",
+      "url": "https://www.youtube.com/embed/hw4uHyct4vg?si=pXvSfuBgLoNwC3Hs",
       "enabled": true
     },
     {
@@ -91,21 +91,39 @@
       "enabled": true
     },
     {
-      "id": "ar_el_trece",
+      "id": "ar_la_nacion",
       "categoryId": "argentina",
-      "title": "El Trece",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/El%20trece_resultado.webp",
+      "title": "La Nacion",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/La%20Nacion_resultado.webp",
       "sourceType": "resolved",
-      "url": "http://138.59.227.20:8000/play/a07b/index.m3u8",
+      "url": "https://www.youtube.com/embed/FEWZjXJ7M0c?si=xyFyBbEZ4ha-qI4G",
       "enabled": true
     },
     {
-      "id": "ar_bayrestv",
+      "id": "ar_elnueve",
       "categoryId": "argentina",
-      "title": "Bayres Tv",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/BayresTV_resultado.webp",
+      "title": "El Nueve",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/El%20Nueve_resultado.webp",
       "sourceType": "resolved",
-      "url": "https://bayrestv.com.ar/repro9.html",
+      "url": "https://www.youtube.com/embed/C1DhpJ07ZuE?si=uJXkqTDwsXFJ47__",
+      "enabled": true
+    },
+    {
+      "id": "ar_bravotv",
+      "categoryId": "argentina",
+      "title": "Bravo Tv",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Bravo%20tv_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://rudo.video/live/bravo",
+      "enabled": true
+    },
+    {
+      "id": "ar_nettv",
+      "categoryId": "argentina",
+      "title": "Net Tv",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Net%20Tv_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://rudo.video/live/nettv",
       "enabled": true
     },
     {
@@ -117,7 +135,7 @@
       "url": "https://streamtp.sbs//global1.php?stream=espn",
       "enabled": true
     },
-    {
+    {      
       "id": "ar_tycsports",
       "categoryId": "deportes",
       "title": "TyC Sports",
@@ -136,30 +154,21 @@
       "enabled": true
     },
     {
-      "id": "ar_foxsports",
-      "categoryId": "deportes",
-      "title": "Fox Sports",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Fox%20Sports_resultado.webp",
-      "sourceType": "resolved",
-      "url": "https://deporte-libre.live/en-vivo-online/fox-sports/embed3.php",
-      "enabled": true
-    },
-    {
-      "id": "ar_espn2",
-      "categoryId": "deportes",
-      "title": "ESPN 2",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/ESPN%202_resultado.webp",
-      "sourceType": "resolved",
-      "url": "https://deporte-libre.live/en-vivo-online/espn-2/embed4.php",
-      "enabled": true
-    },
-    {
       "id": "ar_espnpremium",
       "categoryId": "deportes",
       "title": "ESPN Premium",
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/ESPN%20Premium_resultado.webp",
       "sourceType": "resolved",
       "url": "https://deporte-libre.live/en-vivo-online/espn-premium/embed3.php",
+      "enabled": true
+    },
+    {
+      "id": "ar_foxsports",
+      "categoryId": "deportes",
+      "title": "Fox Sports",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Fox%20Sports_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://deporte-libre.live/en-vivo-online/fox-sports/embed3.php",
       "enabled": true
     },
     {
@@ -190,66 +199,138 @@
       "enabled": true
     },
     {
-      "id": "ar_star_channel",
+      "id": "ar_cine_estelar",
       "categoryId": "cine",
-      "title": "Star Channel",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Star%20Channel_resultado.webp",
+      "title": "Cine Estelar",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Estelar_resultado.webp",
       "sourceType": "resolved",
-      "url": "http://190.238.43.117:9000/play/a0gx/index.m3u8",
+      "url": "https://pluto.tv/latam/live-tv/5dcde437229eff00091b6c30",
       "enabled": true
     },
     {
-      "id": "ar_net_tv",
+      "id": "ar_cine_accion",
       "categoryId": "cine",
-      "title": "Net Tv",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Net%20Tv_resultado.webp",
+      "title": "Cine Accion",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Accion_resultado.webp",
       "sourceType": "resolved",
-      "url": "https://edge.enhdtv.com/nexthd/tracks-v1a1/mono.m3u8",
+      "url": "https://pluto.tv/latam/live-tv/5dcb62e63d4d8f0009f36881",
       "enabled": true
     },
     {
-      "id": "ar_tnt",
+      "id": "ar_estrellas_deaccion",
       "categoryId": "cine",
-      "title": "TNT",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/TNT_resultado.webp",
+      "title": "Estrellas de Accion",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Estrellas%20de%20Accion_resultado.webp",
       "sourceType": "resolved",
-      "url": "http://190.238.43.117:9000/play/a0gl/index.m3u8",
+      "url": "https://pluto.tv/latam/live-tv/5e972a21ad709d00074195ba",
       "enabled": true
     },
     {
-      "id": "ar_cinecanal",
+      "id": "ar_adrenalina_puratv",
       "categoryId": "cine",
-      "title": "Cinecanal",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/CineCanal_resultado.webp",
+      "title": "Adrenalina Pura Tv",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Adrenalina%20Pura%20Tv_resultado.webp",
       "sourceType": "resolved",
-      "url": "http://190.238.43.117:9000/play/a0gm/index.m3u8",
+      "url": "https://pluto.tv/latam/live-tv/61b793ccf571b80007b7a610",
       "enabled": true
     },
     {
-      "id": "ar_space",
+      "id": "ar_cine_comedia",
       "categoryId": "cine",
-      "title": "Space",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Space_resultado.webp",
+      "title": "Cine Comedia",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Comedia_resultado.webp",
       "sourceType": "resolved",
-      "url": "http://190.238.43.117:9000/play/a0gt/index.m3u8",
+      "url": "https://pluto.tv/latam/live-tv/5dcdde78f080d900098550e4",
       "enabled": true
     },
     {
-      "id": "ar_golden",
+      "id": "ar_cine_drama",
       "categoryId": "cine",
-      "title": "Golden",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Golden_resultado.webp",
+      "title": "Cine Drama",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Drama_resultado.webp",
       "sourceType": "resolved",
-      "url": "http://190.238.43.117:9000/play/a0dm/index.m3u8",
+      "url": "https://pluto.tv/latam/live-tv/5dcddfcb229eff00091b6bdf",
       "enabled": true
     },
     {
-      "id": "ar_cinemax",
+      "id": "ar_cine_romance",
       "categoryId": "cine",
-      "title": "Cinemax",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cinemax_resultado.webp",
+      "title": "Cine Romance",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Romance_resultado.webp",
       "sourceType": "resolved",
-      "url": "http://190.238.43.117:9000/play/a0ep/index.m3u8",
+      "url": "https://pluto.tv/latam/live-tv/5dd7ea2aeab5230009986735",
+      "enabled": true
+    },
+    {
+      "id": "ar_cine_suspenso",
+      "categoryId": "cine",
+      "title": "Cine Suspenso",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Suspenso_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/5ddc4e8bcbb9010009b4e84f",
+      "enabled": true
+    },
+    {
+      "id": "ar_cine_crimen",
+      "categoryId": "cine",
+      "title": "Cine Crimen",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Crimen_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/624af40c004f8000079b784d",
+      "enabled": true
+    },
+    {
+      "id": "ar_cine_terror",
+      "categoryId": "cine",
+      "title": "Cine Terror",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Terror_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/5dcddf1ed95e740009fef7ab",
+      "enabled": true
+    },
+    {
+      "id": "ar_cine_scifi",
+      "categoryId": "cine",
+      "title": "Cine Scifi",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Scifi_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/5f2817d3d7573a00080f9175",
+      "enabled": true
+    },
+    {
+      "id": "ar_runtime",
+      "categoryId": "cine",
+      "title": "Run time",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/RunTime_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/62c5d80dc6de440007e033eb",
+      "enabled": true
+    },
+    {
+      "id": "ar_thewalkingdead",
+      "categoryId": "cine",
+      "title": "The Walking Dead",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/The%20Walking%20Dead_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/678aa0b3680721c77c5035dd",
+      "enabled": true
+    },
+    {
+      "id": "ar_seriesdecomedia",
+      "categoryId": "cine",
+      "title": "Series de comedia",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Series%20Comedia_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/655f626d57fe4a00085c7c3e",
+      "enabled": true
+    },
+    {
+      "id": "ar_dramascoreanos",
+      "categoryId": "cine",
+      "title": "Dramas Coreanos",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Dramas%20Coreanos_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/6185a9a88b2ce30007de5128",
       "enabled": true
     },
     {
