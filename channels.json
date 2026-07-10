@@ -202,7 +202,7 @@
       "id": "ar_cine_estelar",
       "categoryId": "cine",
       "title": "Cine Estelar",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Estelar_resultado.webp",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Estelar2_resultado.webp",
       "sourceType": "resolved",
       "url": "https://pluto.tv/latam/live-tv/5dcde437229eff00091b6c30",
       "enabled": true
@@ -229,7 +229,7 @@
       "id": "ar_adrenalina_puratv",
       "categoryId": "cine",
       "title": "Adrenalina Pura Tv",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Adrenalina%20Pura%20Tv_resultado.webp",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Adrenalina%20Tv_resultado.webp",
       "sourceType": "resolved",
       "url": "https://pluto.tv/latam/live-tv/61b793ccf571b80007b7a610",
       "enabled": true
@@ -247,7 +247,7 @@
       "id": "ar_cine_drama",
       "categoryId": "cine",
       "title": "Cine Drama",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Drama_resultado.webp",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Comedia_resultado.webp",
       "sourceType": "resolved",
       "url": "https://pluto.tv/latam/live-tv/5dcddfcb229eff00091b6bdf",
       "enabled": true
@@ -310,7 +310,7 @@
       "id": "ar_thewalkingdead",
       "categoryId": "cine",
       "title": "The Walking Dead",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/The%20Walking%20Dead_resultado.webp",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/The%20Walking%20Dead2_resultado.webp",
       "sourceType": "resolved",
       "url": "https://pluto.tv/latam/live-tv/678aa0b3680721c77c5035dd",
       "enabled": true
@@ -319,7 +319,7 @@
       "id": "ar_seriesdecomedia",
       "categoryId": "cine",
       "title": "Series de comedia",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Series%20Comedia_resultado.webp",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Series%20de%20comedia_resultado.webp",
       "sourceType": "resolved",
       "url": "https://pluto.tv/latam/live-tv/655f626d57fe4a00085c7c3e",
       "enabled": true
