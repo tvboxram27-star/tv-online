@@ -334,21 +334,84 @@
       "enabled": true
     },
     {
-      "id": "ar_cartoon_network",
+      "id": "ar_south_park",
       "categoryId": "infantil",
-      "title": "Cartoon Network",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/cartoon%20Network2.png",
+      "title": "South Park",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/South%20Park_resultado.webp",
       "sourceType": "resolved",
-      "url": "http://190.238.43.117:9000/play/a0fv/index.m3u8",
+      "url": "https://pluto.tv/latam/live-tv/609ae5cd48d3200007b0a98e",
       "enabled": true
     },
     {
-      "id": "ar_disney_channel",
+      "id": "ar_bob_esponja",
       "categoryId": "infantil",
-      "title": "Disney Channel",
-      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Logos/Disney%20Channel.png",
+      "title": "Bob Esponja",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Bob%20Esponja_resultado.webp",
       "sourceType": "resolved",
-      "url": "http://190.238.43.117:9000/play/a0gu/index.m3u8",
+      "url": "https://pluto.tv/latam/live-tv/6254598f5083f800076d8563",
+      "enabled": true
+    },
+    {
+      "id": "ar_lospadrinos_magicos",
+      "categoryId": "infantil",
+      "title": "Los Padrinos Magicos",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Los%20padrinos%20Magicos_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/6322099c822bbc00074857db",
+      "enabled": true
+    },
+    {
+       "id": "ar_popeye",
+      "categoryId": "infantil",
+      "title": "Popeye",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Popeye_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/677d93afe650a700081e5f18",
+      "enabled": true
+    },
+    {
+      "id": "ar_mr_bean",
+      "categoryId": "infantil",
+      "title": "Mr Bean",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Mr%20Bean_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/69fca9f9b9c0f0d444f631ca",
+      "enabled": true
+    },
+    {
+      "id": "ar_avatar",
+      "categoryId": "infantil",
+      "title": "Avatar",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Avatar_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/6759ee82bd523200083b4f0f",
+      "enabled": true
+    },
+    {
+      "id": "ar_nick_clasico",
+      "categoryId": "infantil",
+      "title": "Nick Clasico",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Nick%20Clasico_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/6824cda00101510f9eeaa011",
+      "enabled": true
+    },
+    {
+      "id": "ar_lospitufos",
+      "categoryId": "infantil",
+      "title": "Los Pitufos",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Los%20Pitufos_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/68a3a97fd8f7693ae3f8575f",
+      "enabled": true
+    },
+    {
+      "id": "ar_pokemon",
+      "categoryId": "infantil",
+      "title": "Pokemon",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Pokemon_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/6870072ca9d5c45c3e9466f1",
       "enabled": true
     },
     {
@@ -358,6 +421,24 @@
       "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Quieromusica_resultado.webp",
       "sourceType": "resolved",
       "url": "https://www.youtube.com/embed/vGNglKWqwcQ?si=LMCyG8dTvqg0mkZi",
+      "enabled": true
+    },
+    {
+      "id": "ar_mtv_classic",
+      "categoryId": "musica",
+      "title": "Quiero Musica",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Mtv%20Classic_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/66a11a21a79dea0008aa90ca",
+      "enabled": true
+    },
+    {
+      "id": "ar_mtv_flowlatino",
+      "categoryId": "musica",
+      "title": "Mtv Flow Latino",
+      "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Mtv%20Flow_resultado.webp",
+      "sourceType": "resolved",
+      "url": "https://pluto.tv/latam/live-tv/62b218fc511d4b00070ddc0c",
       "enabled": true
     }
   ]
