@@ -143,7 +143,7 @@
             "title": "TyC Sports",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/TyC%20Sports_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://streamtp.sbs/global1.php?stream=tycsports",
+            "url": "https://streamtp99a.sbs/global1.php?stream=tycsports",
             "enabled": true
         },
         {
@@ -152,7 +152,7 @@
             "title": "TNT Sports",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/TT%20Sports_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://streamtp.sbs/global1.php?stream=tntsports",
+            "url": "https://streamtp99a.sbs/global1.php?stream=tntsports",
             "enabled": true
         },
         {
@@ -161,7 +161,7 @@
             "title": "ESPN Premium",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/ESPN%20Premium_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://streamtp.sbs/global1.php?stream=espnpremium",
+            "url": "https://streamtp99a.sbs/global1.php?stream=espnpremium",
             "enabled": true
         },
         {
@@ -170,7 +170,7 @@
             "title": "Fox Sports",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Fox%20Sports_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://streamtp.sbs/global1.php?stream=fox1ar",
+            "url": "https://streamtp99a.sbs/global1.php?stream=fox1ar",
             "enabled": true
         },
         {
@@ -179,7 +179,7 @@
             "title": "Dsports",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/DSports1_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://streamtp.sbs/global1.php?stream=dsports",
+            "url": "https://streamtp99a.sbs/global1.php?stream=dsports",
             "enabled": true
         },
         {
@@ -188,7 +188,7 @@
             "title": "Dsports 2",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/DSports2_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://streamtp.sbs/global1.php?stream=dsports2",
+            "url": "https://streamtp99a.sbs/global1.php?stream=dsports2",
             "enabled": true
         },
         {
@@ -197,7 +197,7 @@
             "title": "Dsports+",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/DSports%2B_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://deporte-libre.live/en-vivo-online/dsports-2/embed.php",
+            "url": "https://streamtp99a.sbs/global1.php?stream=dsportsplus",
             "enabled": true
         },
         {
@@ -222,7 +222,7 @@
             "id": "ar_estrellas_deaccion",
             "categoryId": "cine",
             "title": "Estrellas de Accion",
-            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Estrellas%20de%20Accion_resultado.webp",
+            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Estrellas%20de%20accion_resultado.webp",
             "sourceType": "resolved",
             "url": "https://pluto.tv/latam/live-tv/5e972a21ad709d00074195ba",
             "enabled": true
