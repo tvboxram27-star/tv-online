@@ -35,7 +35,7 @@
             "title": "TN",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/TN_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://www.youtube.com/embed/cb12KmMMDJA?si=K7XAU08_4pcLljvg",
+            "url": "https://www.youtube.com/watch?v=cb12KmMMDJA",
             "enabled": true
         },
         {
@@ -44,7 +44,7 @@
             "title": "C5N",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/C5N_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://www.youtube.com/watch?v=A4yjB85WbEo",
+            "url": "https://www.youtube.com/watch?v=j6oh4Kqz3UM",
             "enabled": true
         },
         {
@@ -53,7 +53,7 @@
             "title": "Cronica",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cronica_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://www.youtube.com/embed/hw4uHyct4vg?si=pXvSfuBgLoNwC3Hs",
+            "url": "https://www.youtube.com/watch?v=hw4uHyct4vg",
             "enabled": true
         },
         {
@@ -62,7 +62,7 @@
             "title": "A24",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/a24_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://www.youtube.com/embed/ArKbAx1K-2U?si=duG3siNUj4-_6Dya",
+            "url": "https://www.youtube.com/watch?v=ArKbAx1K-2U",
             "enabled": true
         },
         {
@@ -71,7 +71,7 @@
             "title": "Canal 26",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Canal%2026_resultado.webp",
             "sourceType": "hls",
-            "url": "https://www.youtube.com/watch?v=Xb7jGW72WUU",
+            "url": "https://www.youtube.com/watch?v=C_RnFD6xiX8",
             "enabled": true
         },
         {
@@ -98,7 +98,7 @@
             "title": "La Nacion",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/La%20Nacion_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://www.youtube.com/embed/FEWZjXJ7M0c?si=xyFyBbEZ4ha-qI4G",
+            "url": "https://www.youtube.com/watch?v=FEWZjXJ7M0c",
             "enabled": true
         },
         {
@@ -107,7 +107,7 @@
             "title": "El Nueve",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/El%20Nueve_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://www.youtube.com/embed/C1DhpJ07ZuE?si=uJXkqTDwsXFJ47__",
+            "url": "https://www.youtube.com/watch?v=e4VpCP8KWLY",
             "enabled": true
         },
         {
@@ -134,7 +134,7 @@
             "title": "ESPN",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/ESPN_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://streamtp99a.sbs/global1.php?stream=espn",
+            "url": "https://streamtp-golden1.click/global1.php?stream=espn",
             "enabled": true
         },
         {
@@ -152,7 +152,7 @@
             "title": "TNT Sports",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/TT%20Sports_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://streamtp99a.sbs/global1.php?stream=tntsports",
+            "url": "https://streamtp-golden1.click/global1.php?stream=tntsports",
             "enabled": true
         },
         {
@@ -161,7 +161,7 @@
             "title": "ESPN Premium",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/ESPN%20Premium_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://streamtp99a.sbs/global1.php?stream=espnpremium",
+            "url": "https://streamtp-golden1.click/global1.php?stream=espnpremium",
             "enabled": true
         },
         {
@@ -170,7 +170,7 @@
             "title": "Fox Sports",
             "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Fox%20Sports_resultado.webp",
             "sourceType": "resolved",
-            "url": "https://streamtp99a.sbs/global1.php?stream=fox1ar",
+            "url": "https://streamtp-golden1.click/global1.php?stream=fox1ar",
             "enabled": true
         },
         {
