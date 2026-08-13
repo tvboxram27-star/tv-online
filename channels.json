@@ -204,7 +204,7 @@
             "id": "ar_space",
             "categoryId": "cine",
             "title": "Space",
-            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Estelar2_resultado.webp",
+            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Space_resultado.webp",
             "sourceType": "resolved",
             "url": "https://embed.ksdjugfssddeports.com/embed2/space.php",
             "enabled": true
@@ -213,7 +213,7 @@
             "id": "ar_tnt",
             "categoryId": "cine",
             "title": "TNT",
-            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Estelar2_resultado.webp",
+            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/TNT_resultado.webp",
             "sourceType": "resolved",
             "url": "https://embed.ksdjugfssddeports.com/embed2/tnt.php",
             "enabled": true
@@ -222,7 +222,7 @@
             "id": "ar_star_channel",
             "categoryId": "cine",
             "title": "Star Channel",
-            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Estelar2_resultado.webp",
+            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Star%20Channel_resultado.webp",
             "sourceType": "resolved",
             "url": "https://embed.ksdjugfssddeports.com/embed2/starchannel.php",
             "enabled": true
@@ -231,7 +231,7 @@
             "id": "ar_cinemax",
             "categoryId": "cine",
             "title": "Cinemax",
-            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Estelar2_resultado.webp",
+            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cinemax_resultado.webp",
             "sourceType": "resolved",
             "url": "https://embed.ksdjugfssddeports.com/embed2/cinemax.php",
             "enabled": true
@@ -240,7 +240,7 @@
             "id": "ar_cinecanal",
             "categoryId": "cine",
             "title": "Cinecanal",
-            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Estelar2_resultado.webp",
+            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/CineCanal_resultado.webp",
             "sourceType": "resolved",
             "url": "https://embed.ksdjugfssddeports.com/embed2/cinecanal.php",
             "enabled": true
@@ -249,7 +249,7 @@
             "id": "ar_warner_channel",
             "categoryId": "cine",
             "title": "Warner Channel",
-            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cine%20Estelar2_resultado.webp",
+            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/WarnerChannel_resultado.webp",
             "sourceType": "resolved",
             "url": "https://embed.ksdjugfssddeports.com/embed2/warnerchannel.php",
             "enabled": true
@@ -402,7 +402,7 @@
             "id": "ar_cartoon_network",
             "categoryId": "infantil",
             "title": "Cartoon Network",
-            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/South%20Park_resultado.webp",
+            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Cartoon%20network_resultado.webp",
             "sourceType": "resolved",
             "url": "https://embed.ksdjugfssddeports.com/embed2/cartoonnetwork.php",
             "enabled": true
@@ -411,7 +411,7 @@
             "id": "ar_disney_channel",
             "categoryId": "infantil",
             "title": "Disney Channel",
-            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/South%20Park_resultado.webp",
+            "logo": "https://raw.githubusercontent.com/tvboxram27-star/tv-online/refs/heads/main/logos/Disney%20Channel_resultado.webp",
             "sourceType": "resolved",
             "url": "https://embed.ksdjugfssddeports.com/embed2/disneychannel.php",
             "enabled": true
