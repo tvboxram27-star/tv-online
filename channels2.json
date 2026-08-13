@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "channelsEnabled": true,
+    "channelsEnabled": false,
     "disabledMessage": "Canales no disponibles momentáneamente",
     "categories": [
         {
